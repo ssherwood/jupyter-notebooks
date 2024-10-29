@@ -1,0 +1,1001 @@
+id,ean,category,name,price,quantity,metadata,created_at
+122bbd9e-ba38-aa93-5a1e-d61e23def4d2,0548019342505,Kids,Cup - 4oz Translucent,$1.37,84,"{""vendor"":""default""}",2023-05-14 14:37:26
+55b7839c-d6bc-3d97-aeb1-5aaf47c91eca,0403941707568,Computers,"Wine - Magnotta - Red, Baco",$0.81,46,"{""vendor"":""default""}",2024-02-19 21:05:43
+efa1ace5-61f0-ea8d-1c08-bd5eeb3fa242,0668537555326,Electronics,Pear - Prickly,$4.14,90,"{""vendor"":""default""}",2024-03-21 23:54:17
+b75ccaa9-c6cd-e0a0-8019-a510d2601724,0611568191517,Baby,Lettuce - Romaine,$9.84,95,"{""vendor"":""default""}",2023-07-17 03:20:52
+c9a63fad-abd6-4d02-c2a1-e1c67d117acf,0854571552044,Movies,Arizona - Green Tea,$4.05,55,"{""vendor"":""default""}",2023-06-02 19:22:33
+afdf3c52-bc86-4632-ae44-9303c945fc96,0140311182973,Home,Ocean Spray - Ruby Red,$2.79,92,"{""vendor"":""default""}",2024-03-30 16:56:19
+ad5c275e-5cd1-56b0-f70a-5d7e66ebba83,0545775743449,Jewelry,Water - Green Tea Refresher,$1.14,4,"{""vendor"":""default""}",2024-01-21 04:07:53
+6cf3fcc1-4934-a88c-efae-389d30a1bf80,0273782139240,Games,Chick Peas - Dried,$2.30,58,"{""vendor"":""default""}",2023-07-14 15:57:05
+35909f5a-41fc-a998-464d-a3b5a6e6023d,0453754543131,Computers,Filter - Coffee,$4.48,91,"{""vendor"":""default""}",2023-04-10 21:48:45
+6ea7b6ac-ab9e-fc6f-ed1b-2bcf7e2dcd0a,0810246631142,Baby,"Mushroom - Shitake, Fresh",$5.82,3,"{""vendor"":""default""}",2024-03-23 02:06:53
+c8dd6aec-f753-dc87-eed9-07bf6aaea1dc,0076554523861,Movies,Chicken - Leg / Back Attach,$6.36,39,"{""vendor"":""default""}",2023-07-30 00:08:02
+3488088b-bde5-17cb-5f6d-45a46fefe6e9,0253842768360,Electronics,Appetizer - Sausage Rolls,$4.96,12,"{""vendor"":""default""}",2024-03-03 22:34:38
+1c681f8a-e5a2-ceb3-6f8a-a1b16b9427db,0991096575445,Sports,Venison - Racks Frenched,$8.86,82,"{""vendor"":""default""}",2023-08-20 14:43:36
+eb4771de-530a-7cfe-794a-8ea0f60dbdb4,0736934092381,Health,"Artichokes - Knobless, White",$0.44,42,"{""vendor"":""default""}",2023-05-08 18:00:50
+badc26f2-01ea-9941-3744-1aa36d15daf0,0370765363222,Music,"Pasta - Linguini, Dry",$7.85,10,"{""vendor"":""default""}",2023-07-01 21:41:30
+c27377f5-7817-be68-d9ac-00ace5808e22,0582862529300,Home,"Lid - Translucent, 3.5 And 6 Oz",$8.94,56,"{""vendor"":""default""}",2023-06-24 21:32:57
+f09df18f-aadb-edc2-8a87-284709c1dabe,0411253575792,Shoes,Island Oasis - Wildberry,$1.16,91,"{""vendor"":""default""}",2023-06-24 08:58:59
+7d62a7d4-daa8-9bdd-6ebd-c9c9fa4df24c,0212093217446,Music,Blouse / Shirt / Sweater,$2.59,30,"{""vendor"":""default""}",2023-04-12 10:56:05
+42e105f7-73e2-b299-6cab-4120ac8a52b3,0744079555680,Grocery,"Yogurt - Blueberry, 175 Gr",$1.58,100,"{""vendor"":""default""}",2023-08-25 19:06:53
+ba38db54-3723-124e-5ed5-9c6d179e24ff,0368364078328,Books,"Tart Shells - Savory, 3",$2.03,35,"{""vendor"":""default""}",2023-11-03 21:26:35
+9739e87c-2e7f-425a-6c9d-d0312eecd6cd,0337719887206,Games,Coffee - Hazelnut Cream,$3.49,34,"{""vendor"":""default""}",2024-03-22 13:34:14
+e3aab3be-fb9f-e40d-1b2a-8913a9776beb,0505356596430,Home,Bacardi Limon,$3.48,95,"{""vendor"":""default""}",2023-10-05 23:55:50
+aef3cc30-1b16-98e8-3c44-f07ec0a80ee2,0907244145553,Garden,Broom And Brush Rack Black,$4.65,85,"{""vendor"":""default""}",2023-08-05 01:59:20
+3ea4afdf-92a7-5ad7-df6a-f1ebe9a8ede9,0013258745605,Books,Beer - Labatt Blue,$2.07,84,"{""vendor"":""default""}",2023-04-05 17:49:07
+5e14d0e6-4e18-41d5-ac29-80f3807eb95a,0300917859211,Games,Rappini - Andy Boy,$4.71,15,"{""vendor"":""default""}",2024-03-01 01:08:29
+d3bd7bc3-e099-ca2b-0aab-888deff2f59d,0683336492950,Home,Muffin Puck Ww Carrot,$8.05,37,"{""vendor"":""default""}",2023-04-15 15:03:13
+9e1fd77f-aea2-440c-7b6e-42ac5a799703,0524346080679,Garden,Sambuca - Opal Nera,$9.90,6,"{""vendor"":""default""}",2023-05-09 15:17:32
+3eb8448d-2ead-bfa5-bbfd-fb0a4bbc0200,0362845097751,Garden,"Artichoke - Bottom, Canned",$8.89,64,"{""vendor"":""default""}",2024-03-18 21:53:17
+5409bcd5-5dcd-4a8a-78bd-a60ac3c9e3d3,0527454901935,Baby,Veal - Inside,$0.09,72,"{""vendor"":""default""}",2023-06-23 13:40:03
+bebc774b-4f84-d0ff-5c43-d1751e2ddc6f,0395964964199,Garden,Persimmons,$2.80,7,"{""vendor"":""default""}",2024-03-05 12:13:56
+ed9fa9ab-dda1-5953-73d0-babc0ab798e9,0195077484065,Movies,Turkey - Ground. Lean,$1.83,5,"{""vendor"":""default""}",2023-04-27 03:38:33
+71ce0cea-5e5f-afc0-be6e-cbb906bc7eac,0069213181409,Electronics,Snails - Large Canned,$0.48,17,"{""vendor"":""default""}",2023-11-17 09:42:42
+4dba6a96-a3fc-7d8a-7209-29f16de0ae3b,0302786209064,Movies,Bread - Hamburger Buns,$7.01,17,"{""vendor"":""default""}",2023-08-06 04:02:00
+a0410430-824e-a9cd-71e2-ec5dcdc5fc2e,0213190358973,Outdoors,Couscous,$5.11,64,"{""vendor"":""default""}",2024-02-19 10:56:23
+ca155d3b-bca4-d1fc-6f0b-96facea4f42b,0272025198365,Electronics,Wine - Remy Pannier Rose,$9.55,3,"{""vendor"":""default""}",2024-03-15 06:48:53
+b436dd85-7cd7-542c-e3dd-7b9b1bc23ed4,0228246382087,Outdoors,Gelatine Powder,$0.81,19,"{""vendor"":""default""}",2024-02-02 06:21:31
+2abfce30-f950-990a-ccdb-cfa2b541fec8,0094358461823,Shoes,"Lid - 10,12,16 Oz",$4.88,15,"{""vendor"":""default""}",2024-01-19 20:23:50
+dc1cba01-be7b-eb61-6bce-fc622dbcd0a5,0371945818255,Games,Cheese - Mix,$5.43,64,"{""vendor"":""default""}",2023-11-23 22:09:04
+32ff6ce7-8fc8-7943-f168-aa44fe2309b9,0166277750983,Clothing,"Lamb - Shoulder, Boneless",$1.06,69,"{""vendor"":""default""}",2023-11-29 02:21:16
+8ab54be1-f6b7-9f05-37b3-9721aa1bb41f,0356299101683,Shoes,"Rum - Cream, Amarula",$2.83,97,"{""vendor"":""default""}",2023-10-06 21:33:22
+231e83bc-3bea-c166-0c35-ef406b7db45c,0495159728682,Kids,"Soup - Beef, Base Mix",$1.39,19,"{""vendor"":""default""}",2023-06-21 01:02:49
+913bb7e6-7369-cfc4-5599-c1fb6a0e95f1,0219232293897,Home,Jello - Assorted,$6.12,17,"{""vendor"":""default""}",2024-01-15 17:32:57
+c45a420c-b586-e7fb-f2de-f5beffd47578,0580749728212,Garden,Liquid Aminios Acid - Braggs,$6.55,26,"{""vendor"":""default""}",2023-04-27 19:00:58
+dee2ca5d-8948-b10e-af23-7235fa9f2f35,0584848826540,Jewelry,Butter - Pod,$5.20,49,"{""vendor"":""default""}",2023-06-13 12:42:48
+1bd0fa0e-d8b7-4d43-ff39-25a9a6fe8cca,0810658428648,Games,Paper Towel Touchless,$3.26,91,"{""vendor"":""default""}",2024-01-21 09:57:03
+8fbf2847-4492-dc6e-9ea8-90aff2bd1e5b,0816766385475,Toys,Lid - 3oz Med Rec,$2.88,52,"{""vendor"":""default""}",2023-04-03 12:11:30
+4bc5b52e-e7fe-eaaf-fc9d-57be3b9364fa,0852266646387,Computers,"Pork - Tenderloin, Fresh",$9.14,32,"{""vendor"":""default""}",2023-11-10 08:31:57
+b869bb4e-6f14-13f9-c59c-ba7e4a81e2f4,0281597958013,Computers,"Wine - Bourgogne 2002, La",$2.13,74,"{""vendor"":""default""}",2023-10-03 01:05:02
+8d0d4901-fca6-7cab-1e9f-e519ac4bdcab,0583913779845,Shoes,"Rice Pilaf, Dry,package",$1.04,74,"{""vendor"":""default""}",2024-03-04 20:13:20
+df85bcb2-2f8c-a0b5-f7c9-cd5eaa12ecec,0474445766831,Home,Tomatoes - Cherry,$9.25,80,"{""vendor"":""default""}",2023-07-08 09:12:50
+a52bbcc8-25ba-a7dd-340c-107b59af454e,0413393080241,Automotive,Napkin Colour,$1.11,100,"{""vendor"":""default""}",2023-06-09 05:59:40
+917c8c2c-f27a-cde2-460d-352236eaf71d,0805106183965,Baby,Catfish - Fillets,$2.59,52,"{""vendor"":""default""}",2023-04-10 17:47:52
+7a4c23db-8c8a-ef7f-0a94-ba15d5a017c4,0896811691300,Clothing,Cheese - Gorgonzola,$0.70,91,"{""vendor"":""default""}",2024-03-10 20:56:46
+c43d5fab-ed76-1d2d-0741-af763418eaf5,0929720771446,Health,Chick Peas - Dried,$6.47,59,"{""vendor"":""default""}",2024-01-10 06:56:18
+b9f1b805-7eec-0cbe-a7ff-0daca241c86d,0122845223519,Toys,"Juice - Orange, Concentrate",$9.32,61,"{""vendor"":""default""}",2023-08-07 05:05:57
+0f7c72f0-0622-d68c-744f-a2bb74efec79,0551902528587,Toys,Salmon Steak - Cohoe 8 Oz,$3.00,69,"{""vendor"":""default""}",2023-04-18 02:54:46
+bbab898b-5ba6-c68f-8154-ce8fad696594,0838575834776,Tools,Ham - Virginia,$0.43,4,"{""vendor"":""default""}",2024-02-14 06:59:20
+0b2a642a-62fe-a78e-dc6e-192f42d51ac2,0562453232673,Computers,Eggplant Oriental,$4.69,86,"{""vendor"":""default""}",2023-06-15 07:46:09
+bff81bc5-f5bf-cf79-43cc-90e8fd5bfe55,0014769332169,Jewelry,Galliano,$2.94,77,"{""vendor"":""default""}",2023-11-06 08:57:24
+dcc9b9a5-e73a-73a5-edcd-51a0b2d8ffc6,0097863673889,Home,Water - Tonic,$7.19,1,"{""vendor"":""default""}",2023-05-05 21:30:44
+194b2ccb-b2dc-1f35-fea2-a7e3f491f4ab,0628010636512,Garden,Wine - Vovray Sec Domaine Huet,$9.70,16,"{""vendor"":""default""}",2023-11-01 07:34:06
+3eca0bca-f9aa-b0d9-e8b9-5b0b00edac20,0395339945106,Outdoors,Flavouring - Raspberry,$7.37,60,"{""vendor"":""default""}",2023-12-29 23:59:46
+ffefac3e-bc5d-ef25-d4e9-e8b9d2ef7651,0632123132327,Jewelry,Petite Baguette,$2.20,21,"{""vendor"":""default""}",2023-12-13 12:07:27
+50ac7ffd-618e-c0ed-f7ea-b4f4bf13abf6,0554505542106,Clothing,Scallops - Live In Shell,$2.18,37,"{""vendor"":""default""}",2023-04-21 04:08:24
+ebbd9edc-54ab-9cd2-9be9-fbffabe5ad3d,0805513440456,Home,Muffin - Mix - Strawberry Rhubarb,$5.94,35,"{""vendor"":""default""}",2023-10-25 07:46:00
+fa2bf678-a5c6-fdf7-ddaf-5266b63bb06a,0757713769081,Electronics,"Wine - Red, Antinori Santa",$3.42,47,"{""vendor"":""default""}",2023-11-24 14:05:31
+fc7fbd85-ddbd-6f78-e5ed-db401dbbae54,0312479795589,Industrial,Cookie Chocolate Chip With,$8.93,13,"{""vendor"":""default""}",2024-01-10 08:58:01
+3c452e9e-b461-c58c-90d4-ffb898eaf1bd,0003851684527,Baby,Sobe - Lizard Fuel,$0.36,77,"{""vendor"":""default""}",2023-07-08 00:10:21
+aed9b437-45bd-2ad5-c937-51cfbd972f4e,0579750898549,Beauty,Garlic - Peeled,$0.80,21,"{""vendor"":""default""}",2023-07-27 07:28:51
+64d2f535-7b5a-bc7f-ce2a-374773f96b26,0626013131896,Sports,Beer - Sleeman Fine Porter,$6.69,79,"{""vendor"":""default""}",2023-05-21 22:51:28
+2802eb21-b82d-fd15-bc40-d6c8feddc3b8,0705112452986,Industrial,Eggplant - Asian,$7.54,91,"{""vendor"":""default""}",2023-07-25 03:57:14
+dcefc5a7-34e9-89dd-436d-74459f0a17fc,0605884375476,Home,Soup Campbells - Italian Wedding,$2.12,52,"{""vendor"":""default""}",2024-01-21 18:20:57
+d224eabf-3c81-3e88-ce35-c009df2b6208,0604668351483,Health,Cabbage - Red,$5.44,13,"{""vendor"":""default""}",2024-03-30 09:22:58
+3326ef3f-b3af-d6fc-0e37-553ac5bbeec1,0666437167541,Toys,"Soup - Beef Conomme, Dry",$9.16,17,"{""vendor"":""default""}",2023-10-12 18:46:10
+9eef40a7-ce29-61ed-c89f-b1badc0fd3aa,0221377123388,Outdoors,Energy Drink - Franks Original,$9.78,68,"{""vendor"":""default""}",2023-12-20 23:27:13
+4b9a533e-b57d-fcfc-6ccb-6aadcac49592,0247560784553,Jewelry,Tea - Herbal - 6 Asst,$8.85,61,"{""vendor"":""default""}",2023-10-25 03:49:46
+7449c6eb-fd9a-9747-931a-c5bed1b75f99,0739129041075,Industrial,Lemon Pepper,$5.56,25,"{""vendor"":""default""}",2023-10-21 19:15:08
+a102a65a-3ba0-88c3-877c-89faff347aaf,0433165626085,Computers,"Beef - Ox Tongue, Pickled",$0.64,9,"{""vendor"":""default""}",2023-10-13 16:04:43
+3a36fadc-5fff-d1e2-f5da-572cdcf3ece8,0040751784431,Tools,"Yogurt - Blueberry, 175 Gr",$2.73,96,"{""vendor"":""default""}",2024-01-11 15:48:12
+cfb69ae1-9c4f-a6f8-1b3c-e5c73e2f3c3a,0601552543683,Industrial,"Oil - Truffle, Black",$4.69,12,"{""vendor"":""default""}",2023-11-01 10:54:33
+2ffd8373-fd14-a91b-c943-aeeb97ced87a,0461708304121,Electronics,Toothpick Frilled,$5.19,34,"{""vendor"":""default""}",2023-10-01 05:01:15
+cab1b8cc-b056-b455-3e6f-f08d6ae36f2f,0148165930654,Kids,Alize Red Passion,$1.83,13,"{""vendor"":""default""}",2024-03-30 23:13:08
+42411b6e-6aed-c32a-3d8a-ebe7eedde7e5,0130662703247,Games,Napkin Colour,$9.61,40,"{""vendor"":""default""}",2023-05-07 08:07:58
+225d4e97-bba0-fde2-dcfc-3620fc49d01d,0794753797693,Movies,Schnappes Peppermint - Walker,$5.31,40,"{""vendor"":""default""}",2024-01-27 02:31:13
+ddfbc7d6-ebc8-2e45-23bb-39af2c617a36,0116595412392,Baby,Apricots - Halves,$1.74,68,"{""vendor"":""default""}",2024-01-01 15:39:17
+bb3e4bfc-4d20-f0fb-eebf-cbee1031929c,0911869293021,Kids,"Lemonade - Strawberry, 591 Ml",$6.34,79,"{""vendor"":""default""}",2023-06-19 10:51:26
+d5939648-66ad-58c0-ddab-4dda55256cdd,0324065863070,Computers,Veal - Nuckle,$7.89,55,"{""vendor"":""default""}",2023-04-23 11:56:01
+754c3a76-f474-0dd4-106d-7ec5e74f258d,0655913003164,Music,Dikon,$5.71,54,"{""vendor"":""default""}",2023-12-17 16:20:58
+0e7b9303-adeb-efe9-cf1f-3b17e6b2b2aa,0725895166750,Health,Tomato - Green,$8.92,91,"{""vendor"":""default""}",2023-07-30 07:05:28
+bbfc259f-7cb1-160e-c0ac-ad643ebcbbfb,0281979751831,Home,Wine - Penfolds Koonuga Hill,$8.42,74,"{""vendor"":""default""}",2023-11-30 03:41:55
+c04db83f-83b8-5b19-1b14-75bca1db7b31,0099571783473,Music,Wine - Alsace Riesling Reserve,$0.01,3,"{""vendor"":""default""}",2023-04-14 23:41:21
+dad1c57e-d6fe-e9d7-19bc-7bdcddeab236,0975037735591,Jewelry,"Onions - Dried, Chopped",$2.22,93,"{""vendor"":""default""}",2023-11-23 19:42:41
+6588848d-d0df-ae9e-f50c-c2c12f55d992,0256910562045,Movies,Hinge W Undercut,$1.90,21,"{""vendor"":""default""}",2023-09-30 16:28:44
+8acd5ffe-afaf-a79b-69cd-1a21f67b4c5a,0894597825263,Health,"Potatoes - Purple, Organic",$0.54,42,"{""vendor"":""default""}",2024-01-07 08:39:41
+11addbbb-b8dc-d24c-430a-5824a48838b7,0032123797093,Grocery,Longos - Chicken Cordon Bleu,$6.07,49,"{""vendor"":""default""}",2023-05-20 03:40:08
+99e79b6e-b798-ad47-897a-8eacbbff50f8,0366318117733,Movies,Gherkin - Sour,$2.00,6,"{""vendor"":""default""}",2024-03-23 15:35:32
+83aefdf5-9ec0-df08-6bdb-7595eb4aebbb,0962863824201,Baby,Sauce - Hoisin,$3.34,63,"{""vendor"":""default""}",2024-03-12 00:49:46
+f191ae2a-efc9-19e6-e831-ce0facd32bfb,0113151145099,Music,Wine - Magnotta - Cab Franc,$1.29,24,"{""vendor"":""default""}",2023-06-09 03:54:59
+d8f1d3ff-ca1c-e985-5975-b2d7ce3b207f,0762397364086,Sports,Wine - Chateau Bonnet,$5.53,91,"{""vendor"":""default""}",2023-07-05 17:08:57
+ea02ecf0-d16e-7ce4-b7a4-e2c8cbe2c10a,0200049230277,Beauty,Oats Large Flake,$5.85,68,"{""vendor"":""default""}",2023-05-10 13:49:04
+ae13d68b-0f2f-fe59-46fe-991792e8d695,0535548294488,Beauty,Raisin - Golden,$5.01,67,"{""vendor"":""default""}",2023-05-26 20:00:27
+806166a6-6c16-0a6e-47ea-ebcc6c1afe8e,0445065772835,Clothing,Wine - Stoneliegh Sauvignon,$4.09,89,"{""vendor"":""default""}",2023-12-26 12:38:54
+bdedf605-ac53-8a09-c310-31dcc33f2f49,0435417846329,Clothing,Flour - Whole Wheat,$1.75,54,"{""vendor"":""default""}",2023-09-27 16:26:44
+ad688c07-3f63-3637-884c-47b53d1a8cd9,0117127200690,Industrial,Cream - 18%,$3.48,85,"{""vendor"":""default""}",2023-11-02 00:53:32
+4eb2cc57-abdc-b542-309b-ec1c1a4fcfbb,0306108758972,Outdoors,Syrup - Kahlua Chocolate,$2.40,25,"{""vendor"":""default""}",2023-08-11 02:05:31
+cbdfe556-f6be-e4a8-68de-f35b9bb5ab4f,0786768138154,Garden,Sugar - Invert,$5.50,19,"{""vendor"":""default""}",2023-08-27 17:12:07
+0ef622bc-fbaa-4344-ec6a-3adabe0bf60f,0428585497610,Grocery,Island Oasis - Sweet And Sour Mix,$0.48,26,"{""vendor"":""default""}",2024-02-02 06:44:46
+c1c1c4b9-9332-0ea9-59b3-ebd573c9def4,0771908869481,Industrial,Asparagus - Mexican,$2.89,16,"{""vendor"":""default""}",2024-02-27 20:25:55
+fb2f4b32-e09f-ce18-c1c6-110ee63edda6,0912706001899,Garden,"Yogurt - Banana, 175 Gr",$8.63,5,"{""vendor"":""default""}",2024-03-14 08:51:11
+dcd0ce4d-c7ef-971e-dee3-e37c764e776a,0243125289258,Health,Sauerkraut,$4.15,53,"{""vendor"":""default""}",2023-10-08 09:09:15
+8ff58bb8-965e-c6bf-16b2-55cde06e79f5,0986403204964,Books,Madeira,$1.34,12,"{""vendor"":""default""}",2023-06-08 00:26:11
+487cacf8-ed87-9fee-feeb-b2c16fab1625,0367658396380,Grocery,Wine - Gewurztraminer Pierre,$2.07,78,"{""vendor"":""default""}",2023-04-01 20:32:40
+f7bdfa63-faf7-0b65-9f0b-21bddecc8fe1,0203993938550,Home,Chinese Foods - Plain Fried Rice,$8.51,38,"{""vendor"":""default""}",2023-05-16 21:28:49
+6eb3eb55-33ba-c3cd-d5fe-61fa3c6fc37f,0900469859719,Games,Bread Base - Toscano,$5.97,39,"{""vendor"":""default""}",2023-11-18 02:10:15
+6c59cba6-8236-cd71-fa96-1c9add9d93df,0234549881401,Beauty,Black Currants,$0.77,39,"{""vendor"":""default""}",2024-01-04 09:07:20
+023ee66e-f56c-03ee-8dc6-c9e5f7b6ba2c,0461385132199,Shoes,Potatoes - Idaho 80 Count,$7.99,62,"{""vendor"":""default""}",2024-01-17 08:07:39
+ec3d63bc-ab04-e0bb-1515-abef127a1654,0707083857237,Health,Lettuce - Iceberg,$2.28,56,"{""vendor"":""default""}",2023-09-30 05:20:39
+8fe874a5-2f07-cf80-6d92-afaca4bdf364,0202688194963,Sports,Vinegar - Champagne,$1.42,90,"{""vendor"":""default""}",2024-03-15 19:47:36
+32c6f6a0-aed8-9228-a0b7-e6a005e39ed2,0107724831230,Music,Eggplant - Regular,$4.23,20,"{""vendor"":""default""}",2023-11-21 20:33:19
+dbacc7cb-b2bd-ec19-0ec1-976fe984c35c,0131283567305,Music,Shrimp - Black Tiger 8 - 12,$3.78,15,"{""vendor"":""default""}",2024-03-09 10:43:28
+e77cc2f5-2071-a587-dde9-3c59ad6a63cd,0805659418739,Clothing,Bread - Olive Dinner Roll,$9.19,74,"{""vendor"":""default""}",2024-03-24 01:28:44
+ef70907c-428b-7be4-74ae-f0c74df58c89,0464110025819,Music,Lettuce - Sea / Sea Asparagus,$6.29,21,"{""vendor"":""default""}",2024-02-04 21:32:46
+b682c0f8-13cb-42b8-7e86-cd565782244f,0939091232628,Tools,Chinese Foods - Cantonese,$5.66,26,"{""vendor"":""default""}",2023-12-21 11:08:27
+d01da0cc-e9f2-23e4-f61d-32f6f6817fee,0150207773281,Grocery,Capers - Ox Eye Daisy,$4.17,69,"{""vendor"":""default""}",2023-06-28 01:43:27
+c8ece1dc-36cb-5cac-d93e-8919b79ff0c6,0167704437247,Computers,Wine - Prem Select Charddonany,$4.59,39,"{""vendor"":""default""}",2023-09-18 10:57:27
+9922aaad-7860-1208-4965-c95a36b03407,0342526477311,Jewelry,Gatorade - Orange,$8.65,39,"{""vendor"":""default""}",2023-08-05 01:05:23
+cfc5c4ea-12f8-21ce-ae5f-2f0eb7f982ab,0162603684241,Toys,Beef - Top Sirloin - Aaa,$1.94,27,"{""vendor"":""default""}",2023-11-01 18:17:18
+37c5a577-a491-c10f-46bc-97ab936dd1a7,0765263121511,Beauty,Salt - Celery,$8.35,39,"{""vendor"":""default""}",2023-11-30 23:53:20
+60edc985-3449-e14d-7f43-35af719e6281,0401709212725,Movies,Apple - Granny Smith,$2.86,44,"{""vendor"":""default""}",2023-07-13 12:13:05
+5f6ae267-b0b5-f72a-7922-b3bfa0fed8ad,0649196463237,Movies,Chocolate Eclairs,$8.45,97,"{""vendor"":""default""}",2023-08-21 17:49:25
+14d2ddaf-937f-d772-3afb-d3df67a6d812,0895819389219,Clothing,Cheese - Victor Et Berthold,$0.05,59,"{""vendor"":""default""}",2024-03-31 05:48:31
+b4bbaf0c-adb7-51fc-0d88-1886eaee9e3a,0571062607245,Beauty,Soup - Boston Clam Chowder,$3.88,87,"{""vendor"":""default""}",2023-11-11 00:33:45
+d0a6810f-7938-1694-9988-e12c3633e89f,0695721913670,Toys,"Sauce - Gravy, Au Jus, Mix",$4.00,93,"{""vendor"":""default""}",2023-08-30 09:49:06
+b5c84122-d95e-6aa3-92a1-b1ee1cdfaa44,0889524244435,Sports,Truffle Cups - Red,$4.09,89,"{""vendor"":""default""}",2024-03-19 13:33:33
+eee8aef4-bded-d7fc-69fe-5ec3e8acfa65,0098747618927,Clothing,"Lamb - Leg, Boneless",$4.03,65,"{""vendor"":""default""}",2024-03-01 21:21:31
+abddbe19-a01c-deb8-920c-c5823aca085d,0419640635534,Computers,Table Cloth 90x90 White,$5.80,55,"{""vendor"":""default""}",2024-01-11 14:07:06
+aa4d7eca-a7a6-c5cb-f48a-9f29cff10cdd,0231456311590,Toys,"Wine - Red, Wolf Blass, Yellow",$5.47,82,"{""vendor"":""default""}",2023-08-24 13:38:32
+970ce0db-8f76-2b96-7aaf-fec60aa60bcd,0563549184561,Electronics,Muffin Mix - Chocolate Chip,$9.81,44,"{""vendor"":""default""}",2023-12-16 14:39:08
+e81eff07-cedf-0368-a2c8-1c9d5791abd9,0278643005665,Home,Olives - Morracan Dired,$5.44,96,"{""vendor"":""default""}",2023-12-08 14:33:07
+87a1c598-91a0-f2a7-4e48-a8049c2aa1ac,0008884039545,Clothing,Oil - Margarine,$0.52,28,"{""vendor"":""default""}",2023-12-23 07:41:14
+b8c89b63-e4d3-8617-b0c7-a6c962ce1ff3,0340134095552,Kids,Pasta - Canelloni,$1.29,58,"{""vendor"":""default""}",2023-09-01 16:59:56
+5e50cfbb-38a5-2e16-5d69-a0e29dccbdbd,0720875476702,Home,Pumpkin - Seed,$6.67,69,"{""vendor"":""default""}",2024-03-22 17:53:39
+cf4dfcdb-13f9-ca7c-1d5e-098e20ddedc9,0253072744524,Music,Water - Tonic,$4.23,79,"{""vendor"":""default""}",2024-02-29 04:38:31
+f6dd7dda-5083-71ba-d5cb-b16127fbdbd1,0992604163706,Baby,Praline Paste,$3.20,18,"{""vendor"":""default""}",2024-02-25 02:08:41
+9ecceed8-ddaa-2f2a-fbbd-e804d007eaed,0512627372366,Garden,Juice - Orangina,$5.97,65,"{""vendor"":""default""}",2024-02-07 12:52:18
+79841939-9f5c-1cc2-3b9e-cd499ef4a3de,0813047418568,Shoes,"Tart Shells - Savory, 4",$2.93,28,"{""vendor"":""default""}",2023-04-27 17:29:15
+fcd414aa-beb4-df87-43c8-aae5ed253d40,0279840797066,Home,Honey - Liquid,$2.62,11,"{""vendor"":""default""}",2024-02-04 01:13:50
+fd29f253-4c46-9596-18dd-eafd2ca6683d,0176759144269,Games,Chervil - Fresh,$5.12,91,"{""vendor"":""default""}",2023-04-10 10:03:35
+f5c44ce3-e846-db23-6e22-c2f67ee750e9,0834731099379,Clothing,Pastrami,$9.29,63,"{""vendor"":""default""}",2023-09-17 14:38:45
+6ef6cdbf-124b-584b-54cf-e5167a5f98cf,0145054518934,Home,Wine - Red Oakridge Merlot,$3.97,78,"{""vendor"":""default""}",2023-10-23 13:17:57
+0654bfe5-aa45-74c2-fc5a-ef20bd49bd0b,0628022915905,Jewelry,"Oil - Food, Lacquer Spray",$0.71,46,"{""vendor"":""default""}",2023-06-14 20:46:20
+50ef99d9-7916-eabd-e9ee-13a75bb1f1cb,0911341744007,Home,"Wine - Cahors Ac 2000, Clos",$9.56,64,"{""vendor"":""default""}",2023-12-30 10:23:51
+f52b1c17-92e1-8338-ca52-e2b534b2c73a,0499937585062,Tools,Puree - Mocha,$2.29,71,"{""vendor"":""default""}",2023-12-04 21:36:09
+8b6a9deb-7a60-245a-b1ee-3fad78d3b2db,0683987705538,Baby,"Beans - Fava, Canned",$5.92,91,"{""vendor"":""default""}",2023-06-22 05:08:41
+e44ba56e-e8aa-80dc-8fe5-a5b4e75efc7e,0499258083060,Jewelry,Squash - Guords,$5.76,62,"{""vendor"":""default""}",2023-05-11 07:29:24
+4e8c96bf-c4bb-734c-49b7-794bec4ae562,0278260613678,Clothing,"Mushroom - Morels, Dry",$9.12,15,"{""vendor"":""default""}",2023-11-05 22:38:24
+9136f80d-bf5e-cf3e-b953-b0b70fddcb0d,0605697015766,Computers,Parsley Italian - Fresh,$6.14,36,"{""vendor"":""default""}",2023-11-14 11:40:49
+0fba9591-efb2-a4bb-e666-f6cddb2f6d55,0729945906827,Shoes,Pastry - Butterscotch Baked,$5.11,49,"{""vendor"":""default""}",2023-06-28 08:50:48
+dbf8f2e8-3521-287c-e4c7-c3879e07c7a4,0889087733168,Kids,Snapple Raspberry Tea,$6.34,32,"{""vendor"":""default""}",2024-02-11 15:46:36
+247bcf6d-819b-afcf-e6e4-7b8431fa3508,0220207238827,Health,Nantucket Orange Juice,$6.76,80,"{""vendor"":""default""}",2023-11-24 06:07:42
+79eaba92-49d7-2c9c-a1f6-5cc9e557d28a,0029220153736,Books,Cookie - Oreo 100x2,$0.76,94,"{""vendor"":""default""}",2023-06-23 06:54:52
+b04e4ceb-becc-c7e3-61a8-af83afb649dc,0936083964324,Baby,Eel - Smoked,$8.07,22,"{""vendor"":""default""}",2024-01-05 20:27:20
+aad0bdac-cc25-cc21-6707-cf4515a7e863,0165790339344,Beauty,Sun - Dried Tomatoes,$0.22,6,"{""vendor"":""default""}",2023-04-27 03:13:08
+9af2258c-2417-9c4b-0cb1-dc9e43e23ac2,0455422888293,Industrial,Appetizer - Assorted Box,$7.11,11,"{""vendor"":""default""}",2023-07-01 09:20:33
+4cde7a9b-c9fa-0cdb-ad66-6ac0fccca1db,0457805922415,Toys,Piping Jelly - All Colours,$1.05,83,"{""vendor"":""default""}",2023-06-21 13:47:54
+fa0dc925-7eaf-ddea-0bf8-e3b07be1054f,0650392493931,Games,Veal - Sweetbread,$0.60,92,"{""vendor"":""default""}",2023-12-20 11:24:54
+042cc3b1-9d8a-1aa2-cc84-2d4a4da030ab,0306981017856,Books,Pea - Snow,$4.91,71,"{""vendor"":""default""}",2023-04-17 07:01:12
+9c2a476e-6bb3-e37d-a8d6-c8a9f53abec5,0619246887340,Home,Flour Dark Rye,$2.12,65,"{""vendor"":""default""}",2023-10-03 11:55:10
+fbabb7da-4e5f-092b-4737-02fbfbfb6e3c,0494429393906,Health,Wine - George Duboeuf Rose,$1.66,42,"{""vendor"":""default""}",2023-12-23 21:25:51
+0b3926f7-d6c7-19d0-b4d0-d3e6ebacfc7b,0487537033499,Automotive,Mushroom - Lg - Cello,$7.61,59,"{""vendor"":""default""}",2023-12-04 10:44:26
+848384af-0d69-4d0e-343a-9366d0e5fe07,0342385940024,Music,Broom And Broom Rack White,$2.86,43,"{""vendor"":""default""}",2023-10-26 12:10:19
+f9241b67-bd6d-f582-917a-6de02e6dcdbe,0133478961749,Computers,Bread - Granary Small Pull,$2.47,75,"{""vendor"":""default""}",2023-05-28 22:54:04
+2bfaee4e-e67f-a8ae-4ada-deb73e20c3a7,0723953765984,Garden,Pectin,$0.81,73,"{""vendor"":""default""}",2023-11-04 06:54:13
+dcdd0ac2-d0f8-ddd7-cf5a-4a6f61e7184e,0606278072702,Movies,Table Cloth 54x72 White,$4.73,99,"{""vendor"":""default""}",2023-11-14 16:48:02
+bd7fa901-57fb-fb8a-28dd-736ae44834ac,0652746064067,Grocery,Soup - Campbells Asian Noodle,$0.45,23,"{""vendor"":""default""}",2023-08-25 15:10:17
+e63380a1-83f7-e32a-cc7d-a5eb55a23baf,0423059345915,Outdoors,Soup - Verve - Chipotle Chicken,$5.21,38,"{""vendor"":""default""}",2023-07-18 03:55:56
+feeaa2ab-cabb-a14b-fa81-f73b4bc3dd3f,0824424127070,Kids,"Coconut - Shredded, Unsweet",$6.28,26,"{""vendor"":""default""}",2023-12-24 08:46:39
+afe0a5e0-cfda-f9ff-0b04-c9da965a8064,0960872853138,Movies,"Stock - Veal, Brown",$6.50,26,"{""vendor"":""default""}",2024-01-23 14:11:58
+0dbabae6-75ef-c9c4-5468-f7fdb4fc3cc7,0174185876506,Movies,"Artichoke - Hearts, Canned",$3.76,37,"{""vendor"":""default""}",2023-06-21 23:28:45
+75e67bc9-be6c-1747-eb6d-ba4bdf9da379,0413689633774,Toys,Wine - Jackson Triggs Okonagan,$4.71,18,"{""vendor"":""default""}",2024-02-12 15:35:58
+a0b84028-d4bc-6b7f-8df1-ebd35ef0debc,0656307271264,Garden,Kahlua,$9.01,90,"{""vendor"":""default""}",2023-05-23 02:26:28
+8929116b-3c2d-8c3f-af9e-359502610fb4,0158284393196,Home,Pork Loin Bine - In Frenched,$8.76,18,"{""vendor"":""default""}",2024-02-12 06:21:05
+1d5e7ce0-c6d3-e4da-b4f7-7f2eddae99a8,0719642352560,Tools,"Veal - Inside Round / Top, Lean",$1.19,59,"{""vendor"":""default""}",2024-03-17 05:49:49
+adb0e46e-9a89-ab8b-1d19-cb3b8bde0bc3,0949472953566,Baby,Long Island Ice Tea,$8.89,37,"{""vendor"":""default""}",2023-11-07 10:10:44
+4faec6cc-6889-bb3e-ded7-288ffa498f65,0806092177738,Jewelry,Sausage - Andouille,$7.87,74,"{""vendor"":""default""}",2023-04-22 04:16:22
+133f1dda-8f7c-8b8a-9bb8-0027a9581d15,0896449184440,Electronics,Anchovy Fillets,$5.69,69,"{""vendor"":""default""}",2023-10-05 23:50:07
+a5e5cdbc-f30c-89df-bc1a-3ba994efc863,0873823232416,Jewelry,"Nut - Hazelnut, Whole",$8.99,46,"{""vendor"":""default""}",2024-01-14 21:34:34
+dd05a183-b17c-388e-f5d5-0e7cbb4e5cec,0263437954075,Outdoors,Trout Rainbow Whole,$8.07,15,"{""vendor"":""default""}",2023-04-20 19:45:44
+83deda7b-7b7f-56a5-adaf-0afbb8f4ddef,0290189987307,Sports,Coffee - Egg Nog Capuccino,$5.21,54,"{""vendor"":""default""}",2024-03-06 22:09:11
+4dd7b27a-6e4d-2734-028f-ba5e71a03d3c,0321103482142,Computers,Thyme - Dried,$2.43,33,"{""vendor"":""default""}",2024-02-27 04:45:53
+7c13547e-0da1-eb52-2136-dcbe491a3466,0195716530703,Industrial,Phyllo Dough,$6.95,66,"{""vendor"":""default""}",2023-09-11 16:35:49
+2e529153-7bfb-49c5-7cfd-793ddaabe16a,0349160570330,Games,"Soup - Beef Conomme, Dry",$6.47,95,"{""vendor"":""default""}",2023-06-15 20:48:15
+67196f15-5a9d-9a6a-dd76-ce9c45e06a94,0315190354305,Garden,"Chicken - White Meat, No Tender",$0.25,61,"{""vendor"":""default""}",2023-04-14 08:13:18
+f1eb3d1f-028a-36fd-65ff-c3ee3db159d9,0371676983330,Toys,"Wine - Red, Gamay Noir",$7.45,38,"{""vendor"":""default""}",2024-02-25 04:56:47
+54f0bceb-9292-cb4d-f3ab-385eda5cf9fd,0438416545755,Clothing,Barley - Pearl,$9.16,15,"{""vendor"":""default""}",2023-12-29 10:18:40
+03c2d6be-be8d-f309-b77a-b9a09fe5aba3,0540039974889,Kids,Venison - Denver Leg Boneless,$4.37,75,"{""vendor"":""default""}",2023-04-02 22:12:11
+55ded8d4-ae57-0dad-2076-bac0eead8614,0330020953379,Sports,Slt - Individual Portions,$4.43,5,"{""vendor"":""default""}",2024-03-13 07:46:07
+13f4cf56-08d6-ffa1-375f-bad72d526870,0124648720272,Outdoors,Buffalo - Striploin,$8.32,32,"{""vendor"":""default""}",2024-01-01 14:01:47
+669b1a89-35ca-c443-e71c-b5ce573e7e14,0917027240934,Automotive,Bread - Calabrese Baguette,$4.96,13,"{""vendor"":""default""}",2023-05-27 04:53:35
+5d4e3ff4-c01e-fe0e-69f7-d34ccdf1eaf8,0844677416954,Beauty,Rum - Mount Gay Eclipes,$6.62,70,"{""vendor"":""default""}",2023-07-09 21:43:43
+da0dafad-bfa7-2af1-08ca-19fc3f1517d8,0855643307403,Games,Pineapple - Golden,$3.00,65,"{""vendor"":""default""}",2023-08-29 21:49:07
+eebeb8ed-137e-af43-8aab-383c213386da,0708105056525,Sports,Lobster - Live,$4.38,54,"{""vendor"":""default""}",2023-10-21 20:29:05
+ead14962-0509-61f2-e1b3-ce063352c91e,0703008137697,Grocery,Foil - Round Foil,$8.80,31,"{""vendor"":""default""}",2023-04-15 16:14:18
+19ddb13e-8de3-0a5e-32cc-5dace686cefa,0559962662480,Health,Water - Perrier,$0.80,97,"{""vendor"":""default""}",2024-01-07 16:07:50
+671de962-5feb-d3c9-bacc-0bc6df32c211,0338160036247,Books,Pie Shell - 5,$0.24,63,"{""vendor"":""default""}",2023-06-18 20:43:57
+eaeedf3c-158e-9db6-cf49-abc9593abf02,0919839856270,Garden,Pork - Belly Fresh,$3.84,24,"{""vendor"":""default""}",2024-01-01 23:22:30
+8c683abb-03db-2f5d-441d-ae0d56e45d87,0314930851457,Kids,Cake Sheet Combo Party Pack,$4.26,78,"{""vendor"":""default""}",2023-12-05 04:36:35
+e1ae479f-4adc-fbd6-0a8e-3bb63babd176,0798170242178,Industrial,Garbag Bags - Black,$1.28,91,"{""vendor"":""default""}",2024-01-25 18:54:09
+c03430bb-e100-fdff-0feb-1eacba7f8afb,0337633820118,Garden,Liquid Aminios Acid - Braggs,$7.23,24,"{""vendor"":""default""}",2023-12-26 23:30:51
+3b56cedf-ba8c-cf2b-495f-dd9ca1be878a,0221875936216,Games,"Rum - Coconut, Malibu",$0.37,72,"{""vendor"":""default""}",2024-03-09 07:57:19
+1f8fce5d-c54e-beee-1cca-69744fc97dec,0597851020214,Movies,Dc - Sakura Fu,$2.22,31,"{""vendor"":""default""}",2023-06-10 20:56:39
+feb21f24-78bd-13f4-ad88-bd293d6d7600,0773059646511,Games,Oyster - In Shell,$8.16,85,"{""vendor"":""default""}",2023-05-03 21:24:17
+2bd59d19-e14d-ef2b-224b-de9fb7ecda4d,0157771346195,Movies,"Crab - Back Fin Meat, Canned",$4.86,62,"{""vendor"":""default""}",2024-03-27 23:05:06
+12a59a89-e5c0-5213-1fa6-eb5dbbb0b720,0180885143907,Music,Chevere Logs,$8.94,38,"{""vendor"":""default""}",2023-04-14 17:25:04
+2def04c0-c7c6-8fda-d851-ced5e448ccac,0931074013185,Baby,Broom And Brush Rack Black,$4.70,63,"{""vendor"":""default""}",2024-01-27 05:45:49
+85b66ba2-526c-d8ab-fcaf-72045c5fc4fa,0424709750253,Music,Apple - Fuji,$5.15,65,"{""vendor"":""default""}",2023-11-27 04:55:31
+9dcf7fd2-9abf-d023-34a5-bd4f1e75d3ab,0562595371473,Health,Appetizer - Tarragon Chicken,$3.12,16,"{""vendor"":""default""}",2023-11-25 11:28:54
+88b0c0b9-54ed-ad43-8c75-41eed91cb74f,0232677162851,Beauty,Gelatine Leaves - Envelopes,$3.67,85,"{""vendor"":""default""}",2023-06-22 05:12:16
+a922eee6-1f73-7c70-0b6e-947db7dfd3b6,0357327639574,Music,Muffin - Carrot Individual Wrap,$8.79,84,"{""vendor"":""default""}",2023-05-28 16:27:36
+fd3bb33c-8df1-c506-a2a0-458a560002a0,0804036665351,Jewelry,Spring Roll Wrappers,$8.89,28,"{""vendor"":""default""}",2023-07-28 15:54:39
+801a4a2e-eafa-c377-2cab-d00c0e79ead1,0351916817085,Home,"Halibut - Whole, Fresh",$5.94,36,"{""vendor"":""default""}",2024-01-15 19:33:46
+935e2991-481b-9a3a-ee16-b9d010aea25e,0095412716169,Electronics,Juice - Ocean Spray Cranberry,$7.81,71,"{""vendor"":""default""}",2023-10-19 21:13:44
+347da9c5-2f47-cd25-c1c7-04c5c9f2c5bb,0587969046855,Health,"Beef - Bones, Marrow",$0.42,72,"{""vendor"":""default""}",2023-10-12 19:49:21
+8a08e026-c5fe-a5cb-622c-081fdd75f17a,0051532309425,Grocery,Mikes Hard Lemonade,$6.54,37,"{""vendor"":""default""}",2023-06-12 15:18:36
+14f7c95d-38e4-45f0-b07e-1dcbdb2425b7,0979988562550,Beauty,Nori Sea Weed,$3.77,40,"{""vendor"":""default""}",2024-02-09 01:08:19
+ddc0efb9-ad7f-40cb-6dc7-f53a2ec652e3,0228847137384,Garden,Chocolate - Semi Sweet,$4.21,44,"{""vendor"":""default""}",2023-04-18 23:00:57
+a72a8198-16c7-9916-21fc-203a2b31b308,0705701363657,Health,Cheese Cheddar Processed,$4.11,3,"{""vendor"":""default""}",2023-10-07 15:42:53
+219acfaf-c6cd-52b0-4ebb-5b10f374f4fd,0426022995155,Sports,Flour - Teff,$3.84,86,"{""vendor"":""default""}",2023-11-10 13:08:58
+4d89a2ab-7e7f-3abb-d7fb-0d3cab0f9a50,0796962105716,Shoes,Appetizer - Mango Chevre,$1.98,59,"{""vendor"":""default""}",2023-11-05 15:14:37
+6cd0bf5f-3df3-7c0f-cbaa-ce3ea330c312,0721742465726,Baby,Tea - Herbal Orange Spice,$3.26,18,"{""vendor"":""default""}",2024-03-10 18:22:38
+5bd41ad3-a1e7-eb3e-9bfc-250e0fc9414b,0858987893286,Toys,Country Roll,$4.74,31,"{""vendor"":""default""}",2023-07-09 15:45:54
+906bcbad-fb92-bdaf-918e-66a2b2dcc0f8,0172091220387,Home,Muffin - Zero Transfat,$6.43,59,"{""vendor"":""default""}",2023-04-25 06:47:20
+ca49f479-665a-aaf3-28e4-ad1ca8aa21e6,0472007993161,Toys,"Pork - Bacon, Double Smoked",$8.62,16,"{""vendor"":""default""}",2023-06-10 12:16:21
+c67b388f-0b5b-76be-ea69-e7dc8ea2a9da,0893656979608,Computers,Foam Tray S2,$5.69,85,"{""vendor"":""default""}",2023-10-31 19:25:31
+5a4cbaa2-1c03-f5ce-ead5-5002a3bce02b,0784600296576,Tools,Shortbread - Cookie Crumbs,$8.65,89,"{""vendor"":""default""}",2023-04-24 10:21:55
+d2f1065f-687a-2e03-89a5-7a5e85d0de22,0691963321586,Clothing,Daves Island Stinger,$9.25,97,"{""vendor"":""default""}",2023-05-11 05:26:07
+72bda4ac-4f60-e777-5c44-11eafca147f2,0152146363974,Kids,Cleaner - Bleach,$1.14,5,"{""vendor"":""default""}",2023-12-21 19:57:00
+281530ef-0de7-37a0-d3e2-2ce1f6e1e2f7,0733270414297,Jewelry,Bagel - Everything,$4.08,89,"{""vendor"":""default""}",2023-12-03 23:14:10
+8dbba0ee-f86f-7dd4-4ff5-d4c2dc466d79,0879191214383,Computers,Sobe - Orange Carrot,$6.56,44,"{""vendor"":""default""}",2024-01-03 11:51:12
+a0dd3e46-8e9f-c19d-bcbf-18a4a6dbd5aa,0802747122122,Baby,Maple Syrup,$8.60,41,"{""vendor"":""default""}",2024-02-29 12:26:56
+a8f1bbbb-4611-9d97-3cb3-b6c79faf9ac7,0316555662698,Baby,Wine - Ruffino Chianti,$9.08,30,"{""vendor"":""default""}",2023-06-12 07:17:40
+cabde93f-bf65-06b1-0ed8-bbb61cd8b7a8,0425027314074,Tools,"Tart Shells - Savory, 3",$5.67,50,"{""vendor"":""default""}",2023-07-24 19:26:55
+2afc9a9d-d8fb-e492-573c-041ad86c3976,0091670168864,Sports,Ham - Cooked,$7.22,16,"{""vendor"":""default""}",2023-08-30 09:38:57
+d11f36d9-beb1-3dc1-8ff6-b147fd20f01b,0341246917734,Books,"Wine - Red, Colio Cabernet",$7.99,40,"{""vendor"":""default""}",2024-02-20 16:08:48
+983d6dbd-affe-cebb-5bcd-ef1933bab6be,0816502598059,Computers,Basil - Pesto Sauce,$3.95,32,"{""vendor"":""default""}",2023-10-08 16:41:09
+e7f0b8af-a8da-acee-a79f-17c2d3e25db3,0757522689395,Home,Sauce - Vodka Blush,$1.45,45,"{""vendor"":""default""}",2023-09-23 07:02:03
+a2e45e69-10f2-8af6-a5cc-a4ade67d6f6d,0127341192524,Automotive,Nantucket Pine Orangebanana,$5.31,24,"{""vendor"":""default""}",2023-06-28 11:36:46
+acbe168a-c34b-830f-abad-380c0b207bda,0225370106889,Home,Spice - Paprika,$8.01,5,"{""vendor"":""default""}",2023-11-21 14:09:35
+b920f271-a53c-cbf5-1cf7-8e6930b88a4c,0347507526151,Computers,Wine - Montecillo Rioja Crianza,$7.88,56,"{""vendor"":""default""}",2023-05-07 22:11:43
+fffed018-d1c0-bfb8-06b1-e7be7680ebd3,0784254832110,Books,Pork - Backs - Boneless,$2.36,10,"{""vendor"":""default""}",2023-04-18 16:39:35
+f8fa723f-08d5-d28b-7b57-bb6e6aea495a,0010245011127,Music,Wild Boar - Tenderloin,$1.84,64,"{""vendor"":""default""}",2023-04-26 17:20:47
+c6d0542b-b640-2fdf-7a92-3aa588f2dfa6,0069906911073,Garden,Wine - Alsace Gewurztraminer,$2.50,56,"{""vendor"":""default""}",2024-02-05 12:47:30
+ca0fad3c-e4c1-179c-e9ca-d8dc6a29aefe,0276818871827,Movies,Nantucket - Kiwi Berry Cktl.,$8.63,58,"{""vendor"":""default""}",2023-12-07 22:58:18
+8db180bf-d053-7597-21da-5c9f32ecdccb,0643970074309,Garden,"Lamb - Pieces, Diced",$6.15,40,"{""vendor"":""default""}",2023-10-02 21:13:20
+4cd49fd1-35c1-c365-e53a-d1c82b13c47a,0364137854498,Grocery,Mayonnaise,$2.06,61,"{""vendor"":""default""}",2023-04-04 02:25:59
+e8b59112-4cb7-180b-c6d4-5b2213e2faaa,0675631096972,Shoes,Appetizer - Lobster Phyllo Roll,$8.48,36,"{""vendor"":""default""}",2023-12-26 08:05:31
+5fcfcc0a-da50-fdfd-90bd-14f2cc7d9b20,0863511368930,Automotive,Mushroom - King Eryingii,$4.87,73,"{""vendor"":""default""}",2024-02-14 21:42:39
+94d5b0d3-6729-1eff-22f7-eae6bdaf093b,0616632104671,Tools,"Stock - Beef, White",$5.97,22,"{""vendor"":""default""}",2023-04-15 17:40:32
+4f2231ba-9758-7d01-a9da-aa9fa4db5ad8,0160297295544,Kids,Breadfruit,$2.72,85,"{""vendor"":""default""}",2024-03-02 23:24:58
+f8e08dc7-b4f2-9766-e0b2-1c8ba6ff5b96,0460415385508,Industrial,Nantucket - Kiwi Berry Cktl.,$8.11,75,"{""vendor"":""default""}",2024-02-24 07:41:46
+8a15e3ad-8d8b-fbb4-3ae8-3fcff4c8f30e,0711361112666,Automotive,Olives - Nicoise,$9.58,94,"{""vendor"":""default""}",2023-07-09 17:32:51
+c7449a11-f1a3-5aba-ecde-e38445baac35,0200332397441,Grocery,"Seedlings - Buckwheat, Organic",$2.86,54,"{""vendor"":""default""}",2023-07-10 13:41:29
+5d6e0c6f-0a42-def6-62db-b3a7fb82ddb7,0665322629692,Home,Breakfast Quesadillas,$3.26,18,"{""vendor"":""default""}",2023-12-12 15:59:09
+32cbdcd9-bd9e-bad1-f1d6-e6bcea3506d9,0216261265982,Clothing,"Oil - Truffle, White",$5.34,1,"{""vendor"":""default""}",2023-07-14 07:40:36
+d3d0faf6-f8cd-4ea1-46e7-22fdf8b6f7b5,0188824339325,Games,Tilapia - Fillets,$2.48,12,"{""vendor"":""default""}",2024-01-09 18:53:03
+74de4c1b-9aec-41ce-82e5-cd929b62d9ba,0488670693253,Sports,Cheese - Goat,$3.44,30,"{""vendor"":""default""}",2023-07-27 22:29:37
+d8bee591-d03a-f979-2dfd-bfca4c34d7dc,0942347027849,Home,Octopus,$5.69,41,"{""vendor"":""default""}",2023-06-26 16:04:10
+5fbfe8ea-d3dc-d4a3-22ab-6e55b145cbcf,0019037664288,Electronics,Sugar - Individual Portions,$6.53,66,"{""vendor"":""default""}",2023-05-28 06:46:25
+dcb13ddd-6c13-bacf-d9da-ac9d5afa055e,0312458142409,Movies,Glass Clear 8 Oz,$9.27,61,"{""vendor"":""default""}",2023-04-11 09:21:00
+c69ef51e-eb45-2164-feae-8cd9fe8efb10,0746860277024,Electronics,"Lemonade - Island Tea, 591 Ml",$5.34,76,"{""vendor"":""default""}",2024-03-31 07:22:21
+a557be55-ab99-6595-886c-acaf815a3abc,0629245684152,Movies,"Asparagus - White, Fresh",$4.80,12,"{""vendor"":""default""}",2024-03-08 18:18:28
+6297aff6-5ac5-5cad-fb2a-d8add0da95bf,0577700576206,Music,Sausage - Chorizo,$8.98,71,"{""vendor"":""default""}",2023-10-12 08:03:48
+3a7af32d-be9b-ca5f-0cd2-ef22c331c5a9,0891040122488,Outdoors,Bread - Raisin,$2.03,52,"{""vendor"":""default""}",2023-04-07 21:01:49
+b0d1d046-d4db-64c6-eaea-7db3f56a6d33,0372690157458,Sports,Lettuce - Boston Bib - Organic,$0.75,100,"{""vendor"":""default""}",2024-03-05 10:04:25
+4eaa5a9b-8fee-0dbd-aaef-0ca8a3c57fbf,0827331723835,Home,Beef - Short Loin,$3.68,87,"{""vendor"":""default""}",2024-03-20 18:39:45
+fa28edec-7b24-025d-ccfd-fa17b6eafc1c,0478217484873,Computers,Yeast Dry - Fleischman,$4.70,94,"{""vendor"":""default""}",2023-11-07 05:16:49
+020d319b-a6c6-55bf-cb36-12e2bb939d9d,0806992599456,Baby,Worcestershire Sauce,$3.40,51,"{""vendor"":""default""}",2023-04-20 07:37:30
+edfca0fe-9f04-598b-e714-b73afbaf714b,0853513138802,Home,Wine - Crozes Hermitage E.,$2.52,42,"{""vendor"":""default""}",2024-02-11 15:46:39
+c8abdb1a-4970-7cc7-7c69-94430768b865,0613599293023,Garden,"Pepper - Chillies, Crushed",$1.61,81,"{""vendor"":""default""}",2023-08-01 01:33:56
+ce08e38f-a5e9-5d91-cf60-8aa58da2c53a,0711110924375,Outdoors,Ham - Cooked Bayonne Tinned,$5.62,23,"{""vendor"":""default""}",2023-08-09 21:27:42
+a40bce08-4ce6-6f77-988a-f7b0bfc477ad,0082251113095,Electronics,Shiratamako - Rice Flour,$8.55,54,"{""vendor"":""default""}",2023-04-09 00:46:11
+06c17a68-63ab-32e3-8944-3b73723ea2a9,0474039660621,Toys,"Bread - Roll, Canadian Dinner",$3.81,59,"{""vendor"":""default""}",2023-07-13 16:56:22
+500eb7b2-f2a5-bbad-a51a-5e2424a98ace,0935828299320,Jewelry,"Gin - Gilbeys London, Dry",$3.22,40,"{""vendor"":""default""}",2023-10-16 12:03:39
+576700b4-e10c-ca4f-b91d-11b089f2c1e6,0180363582598,Kids,Shiratamako - Rice Flour,$8.91,86,"{""vendor"":""default""}",2023-12-12 00:00:54
+d1409230-aec7-abec-91bb-5e3fdc7ca782,0699538164363,Health,Muffin Mix - Chocolate Chip,$4.94,28,"{""vendor"":""default""}",2023-06-12 17:37:25
+f1911164-f88e-b90b-ffe9-7fe2dffed663,0622285100511,Computers,Flour Dark Rye,$3.10,14,"{""vendor"":""default""}",2023-09-24 03:02:53
+774c8975-fe42-b3bd-d90b-4afb88679a3e,0704356822976,Automotive,"Pork - Bacon, Double Smoked",$7.76,71,"{""vendor"":""default""}",2023-07-18 13:35:51
+088fbd33-097b-87e9-c3f3-425562f7a9e1,0067046484366,Books,Rhubarb,$2.45,5,"{""vendor"":""default""}",2024-03-19 20:59:35
+2a7cd379-6cea-0547-d994-c2f54db7967f,0536142551867,Tools,Wine - Redchard Merritt,$4.58,9,"{""vendor"":""default""}",2024-03-09 17:30:23
+0ccbca8a-54ca-be23-4aeb-f72c37c39dcd,0417162974278,Clothing,Broom Handle,$1.48,93,"{""vendor"":""default""}",2023-10-24 21:53:53
+2f9aa254-404c-db8f-cfff-dc7dffa7bd08,0683644606712,Toys,Pork - European Side Bacon,$3.08,19,"{""vendor"":""default""}",2023-07-10 21:43:30
+a518bc3c-4a7e-951e-b21e-ccd8d1f4a9fb,0683315397205,Sports,Truffle Cups - Red,$4.99,60,"{""vendor"":""default""}",2023-08-12 10:30:32
+d7d05e60-dd0d-43a1-640e-7a1b4c60cc32,0313422259366,Health,Veal - Insides Provini,$1.37,54,"{""vendor"":""default""}",2023-06-09 18:58:28
+3e15606f-4e21-ca54-061e-2057cd76e2ef,0027220109249,Computers,Evaporated Milk - Skim,$0.16,54,"{""vendor"":""default""}",2023-07-30 11:42:47
+26618e71-edae-56e9-c39a-06d09fe5000c,0104556305737,Industrial,Pasta - Canelloni,$2.10,71,"{""vendor"":""default""}",2023-12-30 17:00:32
+d2646c2d-de86-8342-b442-ad00665428d8,0921893571867,Outdoors,Sansho Powder,$9.78,20,"{""vendor"":""default""}",2024-03-29 07:38:20
+9ce7f1e7-9c19-31cd-4ec4-1f93f6f1edac,0271772549362,Automotive,Beef - Top Butt,$9.93,84,"{""vendor"":""default""}",2023-05-31 13:41:10
+58fe77f0-eee5-f6e1-c36e-894f0bfcfc66,0035600049924,Home,Trueblue - Blueberry 12x473ml,$4.73,78,"{""vendor"":""default""}",2023-04-14 20:03:44
+de8ff1ca-2c5e-bbd8-ca7e-ae2e4d89ffe9,0438270043409,Books,Napkin White,$5.40,83,"{""vendor"":""default""}",2023-08-28 18:46:04
+4ca3fc7a-47bd-49ab-d4f1-da40d4d32f13,0420048291146,Garden,Black Currants,$1.85,68,"{""vendor"":""default""}",2024-03-23 14:09:23
+7c378ae5-2a2a-f14c-aca6-1b4c8c5d8a58,0918816807333,Home,Tomatoes - Grape,$7.07,21,"{""vendor"":""default""}",2023-11-27 23:43:24
+093157ac-1ac0-1b59-27c5-cfd6aa194c05,0998133510314,Books,Jam - Raspberry,$8.06,93,"{""vendor"":""default""}",2024-01-13 19:35:57
+67aab8d5-4dbf-b87c-929a-dfa8ee7638bd,0439082835766,Clothing,Table Cloth 62x120 White,$2.24,76,"{""vendor"":""default""}",2024-02-01 14:58:26
+0ea41a18-2512-e46c-6d5b-b42e0d7ce7f7,0441493736943,Shoes,Pastry - Chocolate Marble Tea,$8.75,37,"{""vendor"":""default""}",2024-01-12 10:26:02
+42282a17-8301-d8f2-92c9-4fd8b4af52aa,0921873748967,Health,Soup - Chicken And Wild Rice,$7.05,2,"{""vendor"":""default""}",2024-01-30 18:06:08
+a49b66ad-7b08-59da-05a9-a9696fe8c1ee,0229125030985,Automotive,Almonds Ground Blanched,$0.83,24,"{""vendor"":""default""}",2024-03-06 00:47:49
+e346b979-2d09-cd9f-1ed0-ddf66887b6ce,0438821538391,Health,Cheese - Camembert,$8.00,85,"{""vendor"":""default""}",2023-12-14 05:39:29
+c16135e6-1edd-fb07-ddda-67fd5ae99bf7,0191114917871,Health,Marzipan 50/50,$7.40,56,"{""vendor"":""default""}",2023-05-13 01:33:36
+abce7cc2-4fee-f61e-c2ac-ecff1d6b8cb2,0874213333450,Outdoors,"Juice - Apple, 1.36l",$0.17,27,"{""vendor"":""default""}",2023-11-09 04:10:32
+fdaee7b1-39d0-77db-d3c6-4ff6db879051,0638526606887,Movies,Longan,$9.95,44,"{""vendor"":""default""}",2024-03-20 10:39:19
+2b3b4abc-074d-1c7f-d9d4-b0f290bac9bc,0980216530400,Games,Beef - Shank,$7.36,3,"{""vendor"":""default""}",2023-07-02 04:08:55
+cbdaa44c-695e-86a3-a2db-bd40abbf43bf,0826883028076,Kids,Vinegar - Champagne,$9.52,14,"{""vendor"":""default""}",2023-04-03 09:15:34
+43fd42cc-db51-302d-46ac-6ebe84dd941b,0558391224901,Home,Wine - Sawmill Creek Autumn,$8.34,10,"{""vendor"":""default""}",2023-12-28 15:17:56
+f5b290d3-bbb0-c74a-3c79-dc2810ccddde,0979763828438,Kids,Beef - Inside Round,$2.37,10,"{""vendor"":""default""}",2024-02-04 00:17:45
+9983eb92-48cb-c6b3-93ba-edb71a83a55b,0610187258431,Shoes,Wine - Pinot Noir Mondavi Coastal,$0.47,86,"{""vendor"":""default""}",2023-05-22 06:34:02
+cf4d121d-45b5-d21b-febc-cc36a6333b3a,0211743001065,Home,Ecolab Digiclean Mild Fm,$4.29,26,"{""vendor"":""default""}",2024-02-14 04:34:31
+90a70bef-9607-bdca-efdb-effb643f2d1a,0644601996802,Toys,Bread - Raisin Walnut Pull,$4.94,10,"{""vendor"":""default""}",2024-01-05 01:29:16
+52a21135-23c4-df79-96a8-a1d57a498da7,0787911313460,Beauty,"Bar Mix - Pina Colada, 355 Ml",$0.55,68,"{""vendor"":""default""}",2023-04-19 04:16:11
+aa08ca4a-81ad-09df-b9fd-f77d28c4685e,0292744349730,Beauty,Icecream Bar - Del Monte,$4.43,12,"{""vendor"":""default""}",2023-06-21 22:18:02
+cc5b57aa-2863-b8ad-f5a2-8a5c929abc16,0753731129804,Computers,"Veal - Brisket, Provimi, Bone - In",$2.35,76,"{""vendor"":""default""}",2023-09-29 20:29:34
+9f2588dd-c53c-bb2a-d2f2-7ec1c303f5d7,0731168380191,Shoes,Truffle Shells - Semi - Sweet,$1.25,15,"{""vendor"":""default""}",2023-07-23 11:16:20
+4eaf1f5b-fe15-afab-7a82-5afc7d0ab62d,0006608334657,Music,Beef - Bresaola,$0.23,12,"{""vendor"":""default""}",2024-03-05 18:09:38
+cf8fafdb-aaf2-6c3b-fc28-e4d3048d56c7,0884582603830,Computers,Lettuce - Lambs Mash,$8.48,6,"{""vendor"":""default""}",2023-04-10 18:28:06
+0dfca8ea-02fe-6aec-8d7c-df5fd2fba28d,0323840943665,Baby,Shrimp - Prawn,$0.99,51,"{""vendor"":""default""}",2023-09-03 20:10:01
+5b63eba5-2968-ce5e-a8b2-dea7cbbacf9c,0649482045538,Baby,Beer - Molson Excel,$5.92,52,"{""vendor"":""default""}",2023-12-22 11:14:57
+b7d78ca4-1dfb-79fa-c90f-bae97c797523,0151088425599,Computers,Flour - Bread,$8.30,6,"{""vendor"":""default""}",2023-10-08 07:00:31
+9b7c3e7a-1b54-c113-fa34-821cdf844fb3,0287640292938,Movies,Lamb - Sausage Casings,$6.26,98,"{""vendor"":""default""}",2023-06-07 23:08:18
+eb9ad2aa-aefa-84a4-acee-c2b441b13927,0123845349158,Garden,Beets,$3.44,14,"{""vendor"":""default""}",2023-10-30 17:56:50
+d2cb6dca-bd6a-8c92-a49d-46f7051daab7,0512613388356,Home,Cookie Trail Mix,$8.75,66,"{""vendor"":""default""}",2023-11-07 03:58:54
+804ca0f9-cbcb-3f67-6b08-ea9657aab84f,0339549906361,Tools,"Cheese - Mozzarella, Buffalo",$3.42,44,"{""vendor"":""default""}",2023-10-19 12:55:03
+b876aacb-4aab-a9bc-9c85-ec8e8becc2ae,0033353749752,Electronics,Silicone Paper 16.5x24,$1.54,59,"{""vendor"":""default""}",2023-04-26 17:39:54
+a690b33f-57b7-20fe-e81d-83fb8aedeeaf,0898515966087,Music,"Wine - Red, Marechal Foch",$8.91,44,"{""vendor"":""default""}",2024-01-19 20:42:32
+79b9081d-bced-ed4f-325c-a821f988f7f7,0862679951061,Automotive,Port - 74 Brights,$4.58,69,"{""vendor"":""default""}",2023-11-24 21:07:47
+384ecf09-a7ce-2c69-cafb-35dbfcade2bc,0489080753713,Electronics,Bread - Italian Sesame Poly,$0.74,90,"{""vendor"":""default""}",2023-12-22 06:58:49
+dd32f782-e7c0-69dd-bfaa-4fae321f8bfc,0745465830562,Clothing,Cognac - Courvaisier,$1.25,6,"{""vendor"":""default""}",2023-09-25 12:26:08
+620d3893-aee9-7afc-d8b9-ecd9e6f644bc,0285404999862,Outdoors,Syrup - Monin - Granny Smith,$6.70,53,"{""vendor"":""default""}",2023-11-27 13:33:37
+0fad8dfe-c8fe-946e-24fd-f3fbcce0d6be,0929977967331,Outdoors,Cake - Night And Day Choclate,$1.56,42,"{""vendor"":""default""}",2023-11-11 23:16:55
+fdd8db3e-3bf7-1c80-f62d-cea22d9d2eff,0642800053429,Kids,Jam - Apricot,$8.08,79,"{""vendor"":""default""}",2023-06-06 18:30:27
+a782de5c-1b8a-27cb-fcef-a42c0d0bf9ca,0958651981134,Automotive,Pepper - Yellow Bell,$9.09,59,"{""vendor"":""default""}",2024-02-13 14:36:47
+8e76d706-e3c4-86cb-ccc0-edeccb2bfba5,0987011435470,Grocery,Raisin - Dark,$6.66,91,"{""vendor"":""default""}",2023-07-18 23:01:44
+2c51d65e-f62f-8acc-c724-f2c23b25befd,0662006167777,Movies,Beans - Fine,$6.41,85,"{""vendor"":""default""}",2023-06-07 15:30:33
+894ae3cb-f3a8-7231-f4f2-959376d3b99a,0732784695066,Games,Hot Chocolate - Individual,$8.82,54,"{""vendor"":""default""}",2023-06-02 09:34:29
+0f6f5b7d-1e5d-a45b-a5a3-ee9b1acef659,0094727024234,Clothing,Beef - Diced,$5.89,21,"{""vendor"":""default""}",2024-01-31 02:05:25
+8eda7c80-965d-bebb-a17d-dabfbd37dc49,0666617421987,Toys,Apple - Fuji,$5.84,44,"{""vendor"":""default""}",2023-08-20 13:33:36
+dd8cc4be-78ad-1000-dfaa-c65aabbeab38,0130776375542,Kids,Pears - Bartlett,$8.20,49,"{""vendor"":""default""}",2023-06-02 22:38:24
+eb2afbeb-fa90-aac3-5bed-dcb8fddda497,0412175807350,Clothing,Dr. Pepper - 355ml,$0.26,64,"{""vendor"":""default""}",2024-03-16 17:28:51
+d838ab7f-d0d8-fbef-fb40-3ee68148b936,0952100905303,Beauty,Herb Du Provence - Primerba,$1.74,50,"{""vendor"":""default""}",2024-03-25 09:34:49
+4ddba3e1-0aed-8ce4-03ca-180a378ef8f8,0749358029409,Garden,Easy Off Oven Cleaner,$1.45,44,"{""vendor"":""default""}",2024-01-12 00:55:01
+c445d8fd-45c4-655d-b1dc-9bacf4263700,0117736113970,Home,Calaloo,$7.94,55,"{""vendor"":""default""}",2023-05-20 11:41:13
+709cf982-ba08-950b-4d7e-7e4c33d9bd2f,0469922482354,Health,Wine - Bouchard La Vignee Pinot,$0.03,89,"{""vendor"":""default""}",2023-07-06 17:21:26
+81b247d8-f19b-5aab-aada-e0420c4ad272,0546889859223,Outdoors,Tea - Lemon Green Tea,$3.26,91,"{""vendor"":""default""}",2023-06-23 05:13:45
+cadc19fc-70ea-2f5d-2ca7-7b6cbf958c3a,0861583236340,Music,Wine - Vineland Estate Semi - Dry,$8.77,56,"{""vendor"":""default""}",2023-06-29 08:40:20
+0baba4ca-1fba-910e-4153-8dd899abb8ec,0045368049309,Tools,"Bread - Bagels, Plain",$9.39,45,"{""vendor"":""default""}",2023-12-19 10:48:30
+8b7dee53-bf06-8aed-7dcf-0c8fa372df8b,0851779864836,Electronics,Flour - Fast / Rapid,$6.84,43,"{""vendor"":""default""}",2023-12-25 04:58:48
+648891d3-5b5f-4aab-945c-754ff008afd1,0656702997709,Computers,Banana - Leaves,$0.28,17,"{""vendor"":""default""}",2023-04-10 21:32:31
+d5aea83d-76be-bb0a-532d-df43be72d3c3,0983142612344,Sports,Potatoes - Mini Red,$2.09,75,"{""vendor"":""default""}",2023-10-23 08:28:28
+cd5c2fca-adb7-e7b4-b03a-d4fbda4cafc1,0188095044651,Games,Oil - Macadamia,$8.86,15,"{""vendor"":""default""}",2023-04-21 08:05:23
+5ab5a7c4-7cce-1763-c16e-e7d7d1e27f91,0627227736715,Grocery,Water - San Pellegrino,$9.33,55,"{""vendor"":""default""}",2023-12-05 21:29:32
+c57051a2-6bb9-ae7e-2fac-d822700b9dd5,0661926827177,Electronics,Spring Roll Wrappers,$2.18,62,"{""vendor"":""default""}",2024-02-20 08:18:21
+2bb59feb-1d2d-a83d-ea35-91b6ab202858,0568475968479,Garden,Extract - Lemon,$7.69,69,"{""vendor"":""default""}",2023-12-01 04:55:20
+a86fdab7-c05f-7c5a-67be-40dcd9cac35f,0917658486202,Sports,Longos - Lasagna Beef,$2.02,6,"{""vendor"":""default""}",2023-11-05 19:28:49
+c7c945fd-c371-f5c1-cd5b-afddd7fb7eed,0451183344005,Beauty,Chives - Fresh,$0.06,88,"{""vendor"":""default""}",2023-11-27 08:00:30
+4cf613ea-a055-fdb1-3441-dabeb8a1c5f4,0688324487314,Toys,Eggwhite Frozen,$3.47,11,"{""vendor"":""default""}",2023-05-16 10:02:34
+b6dcef74-dc47-368b-52a9-1bee1974ae32,0882948750116,Grocery,Ham - Cooked Bayonne Tinned,$3.80,51,"{""vendor"":""default""}",2023-04-30 05:17:33
+1c816483-85b2-8fdb-24a5-22eae04fbc04,0454548925685,Books,"Sauce - Black Current, Dry Mix",$7.68,24,"{""vendor"":""default""}",2023-11-13 00:43:39
+ad0f82cd-70a1-4e7d-f7d8-4b925e84b4ce,0721072032995,Baby,"Wine - Red, Marechal Foch",$8.08,16,"{""vendor"":""default""}",2023-12-26 16:40:55
+6a8a9f5b-b609-ffbf-3f6c-6acefcc6c5af,0516761551774,Outdoors,Latex Rubber Gloves Size 9,$7.90,10,"{""vendor"":""default""}",2023-09-09 23:22:55
+c1fb19fa-f0fd-5888-9eed-fcc91dfdd774,0301747628375,Electronics,Blueberries,$3.60,93,"{""vendor"":""default""}",2024-03-03 18:39:09
+99ec728e-5cc6-0023-f082-809efe306b4b,0430552168814,Toys,External Supplier,$8.91,73,"{""vendor"":""default""}",2023-05-27 13:18:21
+fafe630f-beb1-5e21-f415-db2c81f16f9a,0011756032504,Automotive,Foam Tray S2,$8.80,15,"{""vendor"":""default""}",2023-04-09 23:53:23
+fc425e84-c48c-cedb-fd2a-4eca7fc7b8ed,0849052574425,Industrial,Water - Spring Water 500ml,$8.11,27,"{""vendor"":""default""}",2023-06-09 09:14:20
+92efdba3-33b0-1d2e-e10e-d7188e7d873f,0786085242093,Music,Shrimp - Black Tiger 13/15,$9.84,84,"{""vendor"":""default""}",2023-10-20 03:07:12
+a6da9783-6f2f-dfef-f3e3-2be4be40e21b,0259105841625,Baby,Butter Balls Salted,$1.58,9,"{""vendor"":""default""}",2023-11-20 22:16:33
+8b7aedd5-37ac-ca6b-326c-8926de90aabc,0842784177983,Grocery,Sole - Fillet,$7.92,19,"{""vendor"":""default""}",2023-08-11 08:30:36
+8cf9bdda-aed6-fe11-4ff6-dcf5def4d675,0268816833511,Music,Sauce - Balsamic Viniagrette,$0.44,3,"{""vendor"":""default""}",2023-05-17 20:10:18
+99bd13ee-2d9b-de0c-0978-0574bb3307e2,0305532115246,Jewelry,External Supplier,$2.63,84,"{""vendor"":""default""}",2023-07-13 14:10:23
+f8b08a8a-187b-d494-1c82-dfcdedf740a6,0782469844973,Industrial,Snails - Large Canned,$1.73,71,"{""vendor"":""default""}",2023-12-29 11:06:23
+7a3fcd3a-f796-889b-963b-5ab3c6adca47,0890372177884,Books,Soup - Campbells Asian Noodle,$0.56,68,"{""vendor"":""default""}",2023-12-13 20:37:17
+7d87d652-f8b1-16e3-f6f7-fb5cefb4ae4b,0041146317414,Shoes,"Wine - Red, Cabernet Sauvignon",$7.31,1,"{""vendor"":""default""}",2023-10-23 02:35:56
+7d9ae05e-7186-586f-edfc-eb978578a777,0997220243610,Automotive,Coffee Caramel Biscotti,$4.03,40,"{""vendor"":""default""}",2023-08-11 06:05:46
+43f48aaf-0499-8ab4-738e-a1cf61e9ec17,0526921549882,Kids,"Mushroom - Chantrelle, Fresh",$0.96,14,"{""vendor"":""default""}",2024-01-19 20:12:04
+58fad6b2-f09e-ee19-ee6a-bc1e826a51fe,0546248474563,Clothing,Amaretto,$7.76,2,"{""vendor"":""default""}",2024-03-18 01:53:18
+eab22cea-f6b0-ae96-7bd2-b37c8142de59,0244667158492,Health,"Vodka - Lemon, Absolut",$0.32,25,"{""vendor"":""default""}",2024-01-16 02:44:04
+da20f5f7-fd9d-a9f9-d7c0-e3ba40aa848e,0574942479910,Tools,Squid - Tubes / Tenticles 10/20,$4.74,1,"{""vendor"":""default""}",2023-11-07 01:44:46
+e35c5085-273b-cef2-acef-06977aeacb07,0483759946109,Outdoors,Mountain Dew,$5.63,39,"{""vendor"":""default""}",2024-01-30 03:04:46
+d751fdc7-fdad-57bb-8d16-9cc4e7e10dc2,0012875438574,Health,Cheese - Provolone,$4.30,40,"{""vendor"":""default""}",2023-07-05 18:32:25
+f21ba1b9-dac9-99a9-fdda-ed3eace5f0a9,0997912743836,Outdoors,Wine - Ej Gallo Sonoma,$7.80,99,"{""vendor"":""default""}",2023-10-01 02:26:18
+d302233a-7d49-ccea-87e2-f8495fddedec,0871869559927,Books,Pork - Hock And Feet Attached,$2.57,46,"{""vendor"":""default""}",2023-12-13 14:04:35
+fcdd1605-2caf-0bbb-6fbb-63fead01ddbd,0910963759130,Books,Vanilla Beans,$2.09,95,"{""vendor"":""default""}",2024-03-13 09:04:19
+f245d8e7-9ded-b94b-d2f6-a59afccdab9e,0266117151888,Beauty,"Split Peas - Green, Dry",$3.72,50,"{""vendor"":""default""}",2023-08-05 08:45:40
+ce29aa1b-b1ee-e36d-9965-18aba2fbc0fb,0001691482920,Movies,Cookie Dough - Peanut Butter,$4.35,98,"{""vendor"":""default""}",2023-06-05 23:56:18
+e5f4b222-f713-a64b-a443-61a5d30ff2ca,0887642983819,Baby,Blueberries - Frozen,$3.44,85,"{""vendor"":""default""}",2023-06-22 18:01:32
+c6e0aa0f-324a-f542-f5e1-e5f8a52efe5a,0764912172677,Electronics,Beer - True North Strong Ale,$3.05,65,"{""vendor"":""default""}",2024-02-06 01:10:18
+97af2ce9-b65f-01b8-2cef-5aac12e3168f,0269805971003,Games,Chicken - Leg / Back Attach,$4.94,95,"{""vendor"":""default""}",2023-04-03 16:24:58
+b72a6cfd-c4a9-acdc-bff9-cde997b67f24,0000990208969,Baby,Cheese - Shred Cheddar / Mozza,$4.85,10,"{""vendor"":""default""}",2023-08-22 03:20:20
+cfb7b1c4-17b5-c5f9-c468-a3fb4c0da4eb,0023826412473,Books,Appetizer - Crab And Brie,$8.97,100,"{""vendor"":""default""}",2023-07-04 15:33:57
+f536e873-43c1-600f-2db2-dd531ab0246d,0176481870497,Automotive,Tomato - Green,$9.73,41,"{""vendor"":""default""}",2023-04-13 21:33:11
+338c076a-ea44-3ded-11bd-cb3266ea3ca1,0410417599241,Health,"Bread - Roll, Canadian Dinner",$9.24,66,"{""vendor"":""default""}",2023-06-01 17:27:33
+9ee0df0b-afa2-d1f5-7f66-ed3b8cff9dde,0306096934764,Outdoors,Coffee - Ristretto Coffee Capsule,$9.45,59,"{""vendor"":""default""}",2024-02-22 14:40:16
+5b79dfe8-cbda-d2f4-1441-1d5532fb935b,0937201651187,Movies,Salmon - Sockeye Raw,$7.66,54,"{""vendor"":""default""}",2024-02-26 02:56:28
+71b3a406-abbc-a323-1ea5-2306dce0aadc,0603499526138,Kids,"Wine - Red, Pinot Noir, Chateau",$9.09,46,"{""vendor"":""default""}",2024-03-09 05:30:59
+ed9f2cc6-bc35-2553-176d-9bd37f16eb22,0041057713586,Industrial,Baking Soda,$4.11,71,"{""vendor"":""default""}",2024-01-18 09:08:32
+fafa4bd4-cdc4-a8fa-f0a5-2c0ace1af3f9,0205552536323,Toys,Chivas Regal - 12 Year Old,$1.47,43,"{""vendor"":""default""}",2024-01-07 12:16:30
+54f45afd-b8ce-f0af-946d-87cadef69c2d,0368121531564,Toys,Salmon Steak - Cohoe 8 Oz,$0.34,24,"{""vendor"":""default""}",2024-02-22 09:34:09
+fc006db9-deb4-bbf3-cabb-e4e59dffc1da,0597042873702,Sports,Garam Masala Powder,$7.82,30,"{""vendor"":""default""}",2024-03-08 02:08:03
+e13cbc0a-6a1f-ab12-6e8f-c48f40887a07,0365167257782,Outdoors,Chocolate - Compound Coating,$5.59,20,"{""vendor"":""default""}",2023-07-27 09:46:49
+f4bf667b-0b0d-83c8-9306-ac1d48ceea7a,0565550857318,Jewelry,Pork - Back Ribs,$2.35,59,"{""vendor"":""default""}",2023-10-25 18:18:46
+01ad1631-9ef0-2237-a28c-696d10d5cb42,0079116056475,Music,"Juice - Clamato, 341 Ml",$0.18,62,"{""vendor"":""default""}",2023-10-25 13:32:11
+cad7add8-8f09-6a95-a17b-a30d0d035a6b,0589614887186,Baby,Cheese - Fontina,$5.24,88,"{""vendor"":""default""}",2023-10-16 15:55:03
+37f20df0-9a82-9f3b-b0cf-6f136fa19d0e,0293180734912,Kids,Kellogs All Bran Bars,$2.65,37,"{""vendor"":""default""}",2023-12-09 13:48:26
+499110b4-ffea-8ccd-e30f-3e257526b43b,0251765146861,Music,Beef - Top Butt,$6.04,6,"{""vendor"":""default""}",2023-06-07 00:28:27
+1ab86b4d-e906-c860-80cd-cd1e867ac718,0826108896875,Beauty,Cheese - Bakers Cream Cheese,$8.42,25,"{""vendor"":""default""}",2023-04-24 07:39:44
+461aced5-0de4-50cd-4045-e1df910bf186,0225140866587,Beauty,"Seedlings - Mix, Organic",$0.82,1,"{""vendor"":""default""}",2023-12-28 18:42:53
+c7d60a6e-bd60-83da-1ebc-3098385bd17a,0736833240782,Games,Maintenance Removal Charge,$6.61,5,"{""vendor"":""default""}",2024-03-09 15:25:27
+dbcbf4fa-2f41-495c-82bf-02b6c429f1ec,0341102782047,Beauty,Energy Drink - Franks Original,$8.60,50,"{""vendor"":""default""}",2024-01-15 09:01:48
+7ec882ec-458e-842f-9575-eae68ddae7fa,0420988857680,Jewelry,Veal Inside - Provimi,$3.46,81,"{""vendor"":""default""}",2023-11-29 04:50:28
+070b76d2-e988-afea-9cfe-dccec85dace2,0271232317112,Baby,Sage - Rubbed,$6.92,69,"{""vendor"":""default""}",2023-09-06 15:51:08
+dd32ca78-0bb2-de8e-e93a-4a8ad64c1ad8,0623829043563,Tools,Onions - Red Pearl,$4.67,14,"{""vendor"":""default""}",2023-11-06 15:02:12
+edda5870-90ff-9acc-b4cf-cda8af8af37f,0934159194000,Beauty,"Wine - Red, Gallo, Merlot",$9.81,72,"{""vendor"":""default""}",2024-03-08 19:31:32
+fa81b127-0cbd-6d12-56cc-d1ee49ca26ff,0050438037805,Kids,Wine - Carmenere Casillero Del,$6.47,83,"{""vendor"":""default""}",2024-03-15 00:56:26
+3a84aaa0-bd7e-fbb2-ea7b-0d6a2c59a1dc,0976859126115,Garden,Appetizer - Mango Chevre,$0.89,55,"{""vendor"":""default""}",2023-11-30 22:49:28
+dc0eaf51-ba52-9c7a-3a9c-011fbb293c31,0540818488652,Shoes,Soup Bowl Clear 8oz92008,$4.10,54,"{""vendor"":""default""}",2023-07-22 21:12:17
+f3ecc881-760d-b07a-d992-8101199bdd2d,0449023752162,Kids,Buffalo - Short Rib Fresh,$7.02,64,"{""vendor"":""default""}",2023-04-24 11:40:47
+b1440ced-cdd6-4db1-5661-a51f4f83fd0b,0705232661130,Computers,Arizona - Plum Green Tea,$0.20,77,"{""vendor"":""default""}",2024-01-01 23:58:12
+b566bc5f-fa58-eb94-4f1e-ffdecbb4fcf2,0909699901133,Shoes,Milk Powder,$1.29,22,"{""vendor"":""default""}",2023-09-05 15:57:28
+169abef0-3cff-da5d-1ab4-ec6cd46389ef,0730979543699,Games,Pork Casing,$8.88,15,"{""vendor"":""default""}",2023-05-16 10:29:59
+b35aa1d3-3b64-842c-cf0f-270aac8dc75a,0086855598213,Kids,Beer - Fruli,$3.71,1,"{""vendor"":""default""}",2024-03-23 15:39:45
+b4cfb43b-cf83-8768-5e7b-68bc453be46f,0600096601679,Games,Potatoes - Idaho 80 Count,$9.95,91,"{""vendor"":""default""}",2023-08-14 20:38:50
+af237b13-9d2e-f82f-9cdb-74bc002e01d5,0741119899464,Jewelry,"Crab - Dungeness, Whole",$7.03,89,"{""vendor"":""default""}",2023-07-19 01:03:08
+ba0fcae5-3fe5-c8ef-ac1d-9acfeadab7d5,0600003040730,Sports,Ecolab - Solid Fusion,$7.72,41,"{""vendor"":""default""}",2024-01-18 03:09:18
+da3cc5fc-cbc0-d513-7e2c-cfd0399cfeb1,0398869314081,Beauty,Cookie Chocolate Chip With,$4.20,61,"{""vendor"":""default""}",2023-06-05 20:25:59
+fe11dbde-ad33-eeba-ac0a-78b145e016ac,0763350589683,Shoes,"Orange - Canned, Mandarin",$5.85,97,"{""vendor"":""default""}",2023-04-02 23:34:45
+e419cf61-db6d-215b-f6ce-f5000f7fbf99,0686679759429,Health,Baking Powder,$0.13,14,"{""vendor"":""default""}",2023-12-18 07:39:17
+438ea3e9-cfdb-9bec-6ff6-3b45ded2a56a,0112797346691,Home,Carbonated Water - White Grape,$7.39,59,"{""vendor"":""default""}",2024-03-17 06:22:41
+82802de1-85aa-401e-e86c-2f57d2311b86,0347033364124,Jewelry,Swiss Chard,$6.97,30,"{""vendor"":""default""}",2024-02-26 14:41:36
+a59a875a-5730-2f5c-48ee-10f6b1bf745f,0098914405232,Health,Coffee Guatemala Dark,$2.16,9,"{""vendor"":""default""}",2024-02-19 11:56:00
+b6e01c05-f3cc-6caf-5e9b-1cffb968523d,0063646270199,Electronics,Pernod,$4.05,73,"{""vendor"":""default""}",2023-11-06 21:45:19
+325fcb5a-6aad-efca-c085-603eaadf4bac,0259706691902,Home,Cheese - Cheddarsliced,$2.62,23,"{""vendor"":""default""}",2023-06-04 01:10:39
+25f87fc7-1064-cb6d-6252-9ba0deb6cec0,0212273394089,Grocery,"Bread - Bagels, Plain",$8.41,57,"{""vendor"":""default""}",2024-03-27 13:20:40
+ff92d98d-2ace-bb47-0f6d-f371d73dc06e,0529198235979,Outdoors,Paper - Brown Paper Mini Cups,$1.94,67,"{""vendor"":""default""}",2023-11-12 08:22:28
+cae1025b-2b55-38a3-e8c6-348ae04fb8ef,0183067409333,Shoes,Lettuce - Red Leaf,$5.08,10,"{""vendor"":""default""}",2023-06-22 07:47:08
+e211456e-8e1f-fbab-6043-ebb1518f484c,0403153442631,Clothing,Kellogs Raisan Bran Bars,$4.07,43,"{""vendor"":""default""}",2023-09-19 04:36:03
+fd734ad6-3f9c-d8ad-6a36-067e5c00a8db,0731726957918,Industrial,Pears - Fiorelle,$3.29,88,"{""vendor"":""default""}",2024-03-25 00:51:46
+2ed47ccc-9bbf-4ab8-52f2-c7cc0484afb6,0078925172026,Beauty,Wine - Blue Nun Qualitatswein,$8.35,78,"{""vendor"":""default""}",2024-02-20 14:13:36
+b60cff8a-a9ac-5a95-75bf-fc8b95fa2a01,0617899374294,Jewelry,Wine - Pinot Noir Latour,$6.16,87,"{""vendor"":""default""}",2024-03-16 02:04:49
+cfbbbf48-da60-b1ca-a0ce-83a5bf71fad4,0221082945263,Baby,Nutmeg - Ground,$9.32,32,"{""vendor"":""default""}",2024-02-15 10:18:29
+cfef66ad-3bd6-a8e8-6fe6-a6ebd425ec04,0893720039409,Health,Appetizer - Seafood Assortment,$7.77,68,"{""vendor"":""default""}",2023-07-10 08:21:11
+1fb5c0db-2a89-a98a-0e7b-aeaf9f0ec65d,0447656514247,Home,Garbage Bag - Clear,$6.31,3,"{""vendor"":""default""}",2023-08-09 03:51:11
+e0a1ec4f-c51b-fdff-4c5a-230ef8e9dec0,0532503376916,Kids,"Nut - Pine Nuts, Whole",$0.85,14,"{""vendor"":""default""}",2023-07-03 05:24:38
+cb5d3d7c-114e-ef9c-d9fe-cd49ddcbaf95,0005115433753,Health,Scallops - 20/30,$8.75,22,"{""vendor"":""default""}",2023-04-20 02:33:44
+1aa887ec-4de7-fac5-fcc7-5fae606e1ac3,0193469784706,Jewelry,Appetizer - Chicken Satay,$4.02,12,"{""vendor"":""default""}",2024-01-21 01:37:23
+ff0ec009-ffd3-6fd2-2c9b-fc7c46aa4362,0023305547768,Jewelry,Piping - Bags Quizna,$6.93,20,"{""vendor"":""default""}",2023-11-20 22:04:01
+f4459506-134d-dd2b-fda5-09f61caf08dd,0682650139839,Sports,Sherbet - Raspberry,$0.78,35,"{""vendor"":""default""}",2023-05-24 19:14:29
+aa305cdf-be23-e127-e3cc-609d30d8ec72,0012078611361,Electronics,Cake - Lemon Chiffon,$1.37,16,"{""vendor"":""default""}",2023-08-07 13:17:29
+5a0b6857-fe41-ecaf-6ada-83dfb67ba2a1,0848488373159,Baby,Appetizer - Assorted Box,$5.58,17,"{""vendor"":""default""}",2023-11-12 06:38:44
+9fd09c8b-bd0d-b520-bdee-be4e0dcba55e,0335673906884,Clothing,"Pasta - Penne Primavera, Single",$8.25,9,"{""vendor"":""default""}",2024-01-13 11:12:34
+ca19fcab-af3a-b234-7640-e7f0edbc7dea,0045514184783,Home,Vinegar - Sherry,$2.64,32,"{""vendor"":""default""}",2023-10-14 14:42:28
+4ddff660-63ff-0574-6467-87faf412d095,0395348585593,Shoes,"Lid - Translucent, 3.5 And 6 Oz",$4.50,53,"{""vendor"":""default""}",2023-12-09 13:22:39
+7febb86d-c40d-72bf-585b-ea1620bdfc47,0453592862626,Home,Cheese - Sheep Milk,$5.02,57,"{""vendor"":""default""}",2023-07-26 06:48:16
+bf07adfd-086b-8bae-a42a-be8b5aa70038,0499177555069,Computers,"Beans - Long, Chinese",$9.93,74,"{""vendor"":""default""}",2023-12-07 09:12:16
+24ace42a-1d01-4a5a-6561-0afcce4a328c,0632250315362,Automotive,Peppercorns - Pink,$0.55,5,"{""vendor"":""default""}",2023-08-05 04:14:36
+d9dd2d19-9ee9-2fee-10de-1753b4e5b4dd,0741304564201,Movies,Pie Shell - 9,$8.71,69,"{""vendor"":""default""}",2023-08-22 22:28:35
+6f4ecf9d-c247-dcfb-fadb-badc8d78719a,0838863293370,Kids,Tea - Green,$4.73,75,"{""vendor"":""default""}",2023-10-15 01:12:33
+db67bd0b-1882-ae41-59f4-7a23bd61ad1c,0053394671569,Electronics,Eggplant - Asian,$1.18,54,"{""vendor"":""default""}",2023-12-02 16:08:38
+81b5f6e8-ea6b-d3ac-04c7-9a11a223e4af,0588159231998,Home,Squash - Sunburst,$6.32,18,"{""vendor"":""default""}",2024-03-23 15:33:01
+2d70e81b-fdbf-e1f2-832f-dafcbec4ac8d,0760632556825,Music,Slt - Individual Portions,$8.48,94,"{""vendor"":""default""}",2024-03-28 16:26:17
+ba03f3bd-d0c2-849f-dcb9-eb03d43072cf,0161863793342,Toys,Chocolate - Mi - Amere Semi,$1.98,77,"{""vendor"":""default""}",2023-12-05 11:47:44
+766d012c-bda9-6922-99bf-1c595f9f6265,0316543329076,Jewelry,"Cake Circle, Foil, Scallop",$2.78,82,"{""vendor"":""default""}",2023-11-29 20:41:08
+f01a480c-7d93-a2be-381f-4d6c164e3aff,0692275031032,Garden,Flour - Fast / Rapid,$5.14,26,"{""vendor"":""default""}",2023-08-31 08:13:47
+fbc7b1f8-cc4a-1ccb-9501-9501158f2aa9,0283625848997,Outdoors,Lobster - Tail 6 Oz,$4.25,18,"{""vendor"":""default""}",2023-05-07 21:05:26
+1b458f76-3ae0-babe-25a0-fcce896f47dd,0591326085801,Industrial,Cake - Box Window 10x10x2.5,$3.06,33,"{""vendor"":""default""}",2023-12-15 10:43:46
+3159b75d-a5e9-3b66-de59-f23e02eb5c52,0130974033063,Automotive,Pie Shells 10,$2.66,68,"{""vendor"":""default""}",2023-12-22 14:27:23
+bbafcd16-ee1a-d60e-bfe7-4dd6a2b1d825,0103339867743,Outdoors,Soup - Campbells Mushroom,$4.71,76,"{""vendor"":""default""}",2023-05-16 03:53:12
+3ed014c8-1ae9-51f0-5c34-ed1f8d41adf6,0459757967831,Grocery,Tea - Green,$2.53,18,"{""vendor"":""default""}",2024-01-30 02:24:12
+afbfab5b-3bb2-9206-4fa2-96f71e8f8d4d,0188451277556,Sports,"Juice - Pineapple, 48 Oz",$9.04,43,"{""vendor"":""default""}",2023-11-29 01:12:49
+e53ed7d3-4530-f355-c505-66a8bb1f3daa,0611319741022,Clothing,Lady Fingers,$5.79,19,"{""vendor"":""default""}",2024-03-17 04:40:39
+fe771ae3-2505-044c-2d5e-fcdbcab3afdc,0375469961178,Electronics,Butter - Salted,$5.55,38,"{""vendor"":""default""}",2023-11-14 10:00:06
+817af0a4-e003-60fa-55be-6f4afbca809c,0467361489274,Sports,"Wine - White, Antinore Orvieto",$5.51,1,"{""vendor"":""default""}",2024-02-23 04:07:08
+5a9ae65f-ee9c-f119-b474-7d8db097bdee,0521493911402,Sports,"Lamb - Loin, Trimmed, Boneless",$3.42,19,"{""vendor"":""default""}",2024-02-25 02:26:32
+86ccb4e1-d3e2-e888-f787-35c8dd120db6,0499323287708,Kids,Chinese Foods - Chicken Wing,$1.92,46,"{""vendor"":""default""}",2023-05-12 05:56:16
+26e870cd-35fd-f6c1-82f4-086c15bd0fd4,0502652709809,Beauty,Beer - Fruli,$9.55,36,"{""vendor"":""default""}",2023-06-16 21:14:53
+0424d0e8-ecf1-e9df-cdec-11d54e3d3c4b,0591488011122,Garden,Cinnamon - Ground,$5.23,100,"{""vendor"":""default""}",2023-06-01 01:05:50
+cf9cb059-fcac-9c28-4ea2-8f22a7dfca4c,0843990805539,Movies,"Cup - 3.5oz, Foam",$2.57,41,"{""vendor"":""default""}",2024-02-20 17:49:26
+a1dca4db-de01-919a-9633-f66c2735a6a8,0816420502752,Clothing,"Oil - Shortening,liqud, Fry",$7.19,92,"{""vendor"":""default""}",2024-03-06 07:43:25
+acafe96b-3d0b-28ae-9e12-3be782d4f6eb,0431182773098,Industrial,Ice Cream - Fudge Bars,$7.05,39,"{""vendor"":""default""}",2024-01-26 17:25:29
+abf774fe-89c2-f3ef-de2a-fa1b495c347e,0484557648365,Home,Oil - Cooking Spray,$5.74,26,"{""vendor"":""default""}",2023-07-28 02:57:11
+8be5bbae-afc6-2cab-37d2-647ef88cb74d,0984295767142,Computers,Soup - Campbells Beef Stew,$5.04,25,"{""vendor"":""default""}",2024-03-20 23:37:51
+68cab41e-365f-b5cb-a39c-dfed565e1cad,0405917292712,Grocery,Kellogs Raisan Bran Bars,$7.19,71,"{""vendor"":""default""}",2023-09-19 23:15:29
+c1a3fac5-deb8-a9d3-ecc6-4ea48a963369,0531957570873,Kids,Ostrich - Fan Fillet,$3.76,62,"{""vendor"":""default""}",2023-12-11 22:11:42
+7a4dc4fd-c2c5-620b-cacc-6c9c6b2549cf,0273727912431,Automotive,Fennel,$8.17,32,"{""vendor"":""default""}",2024-03-26 04:49:17
+e2b6cfa9-98ec-ff1c-9abc-fc697c258bca,0681081204943,Computers,Turnip - White,$3.04,40,"{""vendor"":""default""}",2023-06-10 21:29:31
+87a3b23a-7bae-454c-ffcc-7b685a258f5e,0943731598157,Health,"Pail - 15l White, With Handle",$7.95,6,"{""vendor"":""default""}",2023-07-13 16:11:48
+2aef18fb-a5ad-b8e3-a2fc-0f03efb0b6a5,0635411796760,Electronics,Arizona - Plum Green Tea,$7.51,34,"{""vendor"":""default""}",2023-08-29 11:21:33
+8dd499c6-f55c-c9d6-7ada-1aae1191b53a,0081226886158,Shoes,"Mushroom - Oyster, Fresh",$1.76,15,"{""vendor"":""default""}",2023-08-09 08:02:19
+77a677b0-2b17-ac64-cdbf-19cfd0b549e0,0386104399653,Electronics,Rum - Mount Gay Eclipes,$1.79,19,"{""vendor"":""default""}",2023-09-28 06:59:45
+966a8a80-7b7b-ff88-3d5d-3f39ebcae5ff,0249647156486,Games,Honey - Liquid,$0.88,63,"{""vendor"":""default""}",2024-02-13 23:10:36
+6c618920-53ca-1e65-810c-e436c4eaee78,0658353842326,Music,Cheese - Parmigiano Reggiano,$9.69,5,"{""vendor"":""default""}",2023-12-17 01:23:12
+e53d7ae1-fbe9-8654-2a83-3fbc5bcfdce4,0266457536151,Tools,Veal - Provimi Inside,$1.22,15,"{""vendor"":""default""}",2023-07-18 06:22:44
+afac4de2-481f-51b0-5d5c-5d865223538a,0924831681775,Home,Carbonated Water - Cherry,$8.40,87,"{""vendor"":""default""}",2023-08-20 17:05:05
+6ff5cd8a-aca1-daf8-c5d1-a8cf4522aebf,0424852249886,Games,Cleaner - Bleach,$0.06,62,"{""vendor"":""default""}",2023-07-31 17:24:17
+f6b6e2ba-3faf-296b-50a0-5dddf8b700cf,0317341089979,Games,Sultanas,$3.97,61,"{""vendor"":""default""}",2023-05-04 06:09:23
+c02a405a-58de-7eae-afdd-adeecf24f2be,0295610172334,Toys,"Liners - Banana, Paper",$4.90,76,"{""vendor"":""default""}",2023-10-26 10:51:43
+ee89fbbd-c2e0-ad71-65a4-d2adaaa9d3b7,0082424503936,Beauty,Ham - Procutinni,$5.19,39,"{""vendor"":""default""}",2023-12-04 18:26:54
+f3eae50a-700d-604e-f38e-bbde2f846446,0423117600128,Computers,Beef - Cow Feet Split,$4.02,36,"{""vendor"":""default""}",2023-08-06 03:51:07
+c0ac0d2d-c72d-f29e-0849-dbeefc3058f0,0994883841913,Books,Bread - White Mini Epi,$9.29,29,"{""vendor"":""default""}",2023-10-16 18:54:05
+be3c0ef4-a9ff-5ec4-f43d-9597faabffc2,0063339587780,Outdoors,Irish Cream - Butterscotch,$2.06,63,"{""vendor"":""default""}",2023-05-15 11:50:26
+bb3761d8-0d7b-143d-8c52-ca7fde47e5cd,0215985701059,Home,Sesame Seed Black,$5.53,15,"{""vendor"":""default""}",2024-01-07 15:14:56
+145ddaad-fcb1-748e-2f55-b2a18a0bcf65,0776166445150,Garden,Coffee Cup 12oz 5342cd,$9.20,15,"{""vendor"":""default""}",2023-05-09 06:45:18
+fa076bd7-bddb-e35a-c0de-63ec693c0f82,0522957214932,Books,Sansho Powder,$2.42,48,"{""vendor"":""default""}",2023-10-24 00:45:35
+41fecabb-032b-eae3-fa07-b11feff8401d,0997090635945,Automotive,Spring Roll Wrappers,$0.74,48,"{""vendor"":""default""}",2023-06-11 02:11:10
+1e9233cb-8af8-c1f5-7dad-a17821efe863,0310198482556,Jewelry,Ginger - Crystalized,$0.53,89,"{""vendor"":""default""}",2023-11-02 20:18:18
+7d7089b5-673f-57ee-f78a-dc8ba3ef0be0,0892149062066,Electronics,Puree - Raspberry,$9.85,36,"{""vendor"":""default""}",2023-05-22 19:14:46
+48cea084-afbe-9925-003f-be1788da2f66,0083462212770,Garden,Cardamon Ground,$5.44,64,"{""vendor"":""default""}",2024-01-30 10:35:54
+7d3ebe87-56e0-afaf-a017-bcfede30b5eb,0851987046772,Books,Blueberries,$2.97,29,"{""vendor"":""default""}",2023-04-20 01:14:10
+84bda0ad-7cee-19fe-c62d-3c7e96c1c7aa,0780627891636,Automotive,Flour Dark Rye,$8.38,74,"{""vendor"":""default""}",2024-03-10 02:38:46
+15f6c9e8-876a-f65c-f721-19aced3135d1,0176279450888,Computers,Eggroll,$6.19,39,"{""vendor"":""default""}",2024-01-22 09:35:07
+24febc47-6ee7-b4c7-af3f-323ca2ea773e,0883139397907,Toys,Island Oasis - Banana Daiquiri,$8.17,34,"{""vendor"":""default""}",2023-08-30 04:08:24
+3aec14e2-3914-708c-3897-4de6a929ae0c,0399574038396,Shoes,Carbonated Water - Peach,$7.69,83,"{""vendor"":""default""}",2024-02-14 01:16:21
+26a4a2d2-f12f-b4c4-ce68-5f766d79d64d,0685562764677,Toys,Sambuca - Opal Nera,$6.25,14,"{""vendor"":""default""}",2023-08-27 11:47:49
+a6d8ccae-47f4-bdbd-fd95-b6f2f4ef7350,0026787848602,Clothing,Shark - Loin,$3.43,83,"{""vendor"":""default""}",2023-07-12 16:37:04
+3bf8bff0-dced-58dc-315b-30d2df1b35cf,0471241793611,Baby,Scallops - Live In Shell,$7.15,49,"{""vendor"":""default""}",2023-07-29 06:15:36
+e07fd970-0cfa-c6a1-cf39-adeb5bcaae9d,0387826668641,Automotive,Chips - Potato Jalapeno,$3.65,91,"{""vendor"":""default""}",2023-09-06 18:55:10
+c5b46c23-8e12-85a1-a7da-9c0aa851a3f2,0650539381564,Electronics,"Pork - Sausage, Medium",$9.93,22,"{""vendor"":""default""}",2023-09-01 15:26:13
+cd753aa5-202e-0b7d-bc0e-ecb0dc66288e,0207513573180,Tools,"Lobster - Tail, 3 - 4 Oz",$8.01,12,"{""vendor"":""default""}",2024-03-26 20:10:50
+1bfc5a3d-8b5b-04ac-dc14-5cdad15f47ff,0924320250765,Jewelry,Rye Special Old,$9.83,30,"{""vendor"":""default""}",2024-01-23 02:40:06
+23adf32c-b7f3-b252-4cca-affcbf0bafdb,0335348174511,Books,Clams - Bay,$1.45,47,"{""vendor"":""default""}",2024-01-13 01:05:40
+e12b5ebe-d9f1-2cbc-f7ed-abc906c8d8eb,0904125329403,Home,Honey - Comb,$9.04,36,"{""vendor"":""default""}",2023-06-13 18:43:38
+5ec3e52c-f125-9b09-a915-abab1414ebab,0736016391372,Toys,"Wine - Red, Cooking",$5.05,50,"{""vendor"":""default""}",2023-10-29 14:22:08
+8e4dc9ca-acda-bfbd-2fb6-dbdb2b7c6aa3,0363053110102,Health,"Gingerale - Schweppes, 355 Ml",$8.42,86,"{""vendor"":""default""}",2023-08-07 08:57:58
+fe4f9bd8-9f2d-08fb-3af7-6d58a0ca611f,0798205760544,Industrial,Tomatoes - Cherry,$1.21,52,"{""vendor"":""default""}",2023-07-03 04:55:48
+f08ea3aa-ea09-8c4f-23d7-d27f0bd346cf,0094243423893,Books,Bread - Rosemary Focaccia,$7.45,62,"{""vendor"":""default""}",2023-09-29 03:15:11
+1f809872-721a-2073-a0fe-c9dbafa1abd9,0047836065302,Games,Herb Du Provence - Primerba,$5.29,32,"{""vendor"":""default""}",2023-04-07 08:19:08
+ddadb03f-1eda-60eb-febb-5b16f71eec0d,0193946781910,Baby,Squid Ink,$0.90,85,"{""vendor"":""default""}",2023-08-22 18:55:04
+ca04ebf8-c1dc-bec1-66b7-1aea5acbdc84,0948438456238,Movies,Jam - Apricot,$7.57,81,"{""vendor"":""default""}",2023-09-20 09:16:58
+cafbcccb-b944-c7ce-b18c-ce61d98b615b,0449908906202,Music,Lamb Rack - Ontario,$8.06,79,"{""vendor"":""default""}",2023-09-03 16:26:41
+bf211668-7fc5-fc1f-0660-47b4a709030a,0940456431482,Computers,Table Cloth 62x120 Colour,$5.11,79,"{""vendor"":""default""}",2023-07-30 16:39:22
+0eb8c2ce-a2dc-fe1d-1bc1-6aadeac07dc1,0018249710268,Kids,Turnip - Mini,$7.41,99,"{""vendor"":""default""}",2023-12-09 18:04:13
+cbd6f5c5-bc24-6b7f-a3ac-2cc6ff30cefd,0362879914520,Kids,Cheese - Parmesan Cubes,$8.09,34,"{""vendor"":""default""}",2023-12-12 05:45:46
+1dfe2d75-cb7f-b8bd-bdcd-74bec6ee1af2,0806107475974,Toys,Cheese - Blue,$4.18,23,"{""vendor"":""default""}",2023-12-01 01:09:11
+aa9ea1e6-da2a-d7d1-fed8-91e621f17319,0368800684182,Home,Bananas,$3.31,72,"{""vendor"":""default""}",2023-06-08 13:50:09
+b1f0094a-207c-43dc-c35b-99e2b5d5cfcc,0030106236810,Sports,"Flour - Bran, Red",$4.84,76,"{""vendor"":""default""}",2023-10-04 07:08:17
+15fe31c3-2ace-df5b-0e92-d0666c3435f4,0727580662404,Electronics,Almonds Ground Blanched,$4.05,59,"{""vendor"":""default""}",2023-11-03 17:18:17
+145ae07e-7cd4-ccac-8295-eddb0bdd0f6f,0488571742356,Games,Chambord Royal,$2.97,37,"{""vendor"":""default""}",2023-12-10 13:31:34
+ff61fdef-628b-369c-b6da-16db8bbde5db,0449634408769,Home,Swiss Chard,$0.86,61,"{""vendor"":""default""}",2023-09-15 05:45:19
+e51e5017-d8be-5f87-186c-f50d8120dd8e,0035763159438,Grocery,Pastry - Apple Muffins - Mini,$2.08,60,"{""vendor"":""default""}",2024-01-14 03:54:01
+a23123e0-abaf-7cb0-ebb5-d67c77f5d9dc,0162853735549,Computers,Cheese - Grie Des Champ,$9.56,56,"{""vendor"":""default""}",2023-11-12 06:53:45
+a19bf790-15c0-deed-f707-fa2c1e919e29,0179194005120,Kids,Puree - Blackcurrant,$9.36,45,"{""vendor"":""default""}",2023-11-30 22:42:05
+fdc574cd-fa20-b3f2-6bec-fbad67c3b837,0389772927418,Toys,Scrubbie - Scotchbrite Hand Pad,$2.55,47,"{""vendor"":""default""}",2023-08-03 05:12:27
+1869abcc-8ed1-fcb1-dd61-3ae0c0a8e22e,0125460796854,Computers,Saskatoon Berries - Frozen,$6.23,12,"{""vendor"":""default""}",2023-12-20 01:45:22
+a8aaaa8b-02c7-a36b-2e86-add751b5bbc0,0813286162688,Garden,Galliano,$2.88,71,"{""vendor"":""default""}",2023-06-22 04:18:22
+f1dcb07f-ffa4-1eed-9088-db6fd915854f,0774248329149,Clothing,Oil - Safflower,$5.27,68,"{""vendor"":""default""}",2024-01-10 05:03:56
+add7af7a-f3b0-dded-bfc6-ec6837744ab6,0736368992732,Beauty,Beer - Upper Canada Lager,$2.18,77,"{""vendor"":""default""}",2023-08-18 00:17:32
+7891a489-6aba-8ce0-ee89-d06e0d31e5d2,0144994352142,Electronics,"Nut - Chestnuts, Whole",$7.06,44,"{""vendor"":""default""}",2024-02-08 14:10:45
+6f36beb2-893f-4cf1-1c3c-ada34cd3428d,0485901312024,Home,Ecolab - Hand Soap Form Antibac,$3.54,71,"{""vendor"":""default""}",2023-08-17 09:14:17
+6948dab6-a6bb-45c9-b4a4-04eac320c5ea,0364825430455,Home,"Mushroom - Chanterelle, Dry",$4.85,91,"{""vendor"":""default""}",2023-09-12 21:01:48
+3a1cbefe-58c6-dae2-b5b2-0a2ebafbefc0,0851265414554,Kids,Shark - Loin,$4.56,25,"{""vendor"":""default""}",2023-11-07 23:21:24
+3bac7dbf-506c-fa3b-bb3d-28da925f8f66,0330667827938,Clothing,Napkin - Beverage 1 Ply,$2.92,62,"{""vendor"":""default""}",2023-10-31 00:11:03
+c96646a6-73d7-da13-ed09-5d9fde1a5807,0682860287489,Kids,Beef - Texas Style Burger,$2.48,16,"{""vendor"":""default""}",2023-07-28 00:10:29
+d8abd6c2-bd6a-311f-bbb1-560fce0aed70,0116872132778,Garden,"Potatoes - Yukon Gold, 80 Ct",$7.16,85,"{""vendor"":""default""}",2023-07-15 00:25:58
+c5e365cf-6dee-aea3-1ac6-2ec1cc132062,0974483064276,Garden,Onion - Dried,$2.27,92,"{""vendor"":""default""}",2023-05-08 14:11:49
+d018c909-4f03-db65-fee0-6ed408192fe9,0729302363819,Jewelry,"Salmon - Atlantic, Fresh, Whole",$0.25,73,"{""vendor"":""default""}",2024-03-11 23:14:29
+c7c7a354-051c-4eed-1ad8-e1261ebab4eb,0128264088493,Clothing,Tea Peppermint,$4.60,72,"{""vendor"":""default""}",2023-08-20 18:24:07
+4d873651-f5d8-63f6-1e9a-d83acb005dfe,0529394072329,Garden,Beef - Tenderloin Tails,$3.18,36,"{""vendor"":""default""}",2023-07-17 17:37:11
+e5977db5-87f4-e647-ad0c-766b87e5fe22,0979965873474,Garden,Table Cloth 53x69 White,$9.34,36,"{""vendor"":""default""}",2023-11-30 22:29:20
+c6062b57-3f39-7caa-ca77-af96b2e179fe,0840856413458,Tools,Kohlrabi,$5.22,74,"{""vendor"":""default""}",2023-09-20 22:25:42
+171a8474-c5ee-aadf-6c1e-a939fabb1eef,0174426405265,Music,Guava,$0.65,96,"{""vendor"":""default""}",2023-06-04 23:23:06
+cbbd63ea-949e-c66b-afbf-f6d0ec1cda32,0031874962616,Garden,"Jam - Strawberry, 20 Ml Jar",$1.49,93,"{""vendor"":""default""}",2023-12-22 07:58:09
+c585bec8-7fa0-7b8c-f0a1-57b65b69e6f7,0605732263515,Electronics,Cheese - Gouda,$4.26,55,"{""vendor"":""default""}",2024-01-13 20:27:49
+3a5c24ab-1494-c62d-be5f-4ef7dded44a5,0964688446951,Tools,"Pasta - Fett Alfredo, Single Serve",$4.96,27,"{""vendor"":""default""}",2023-06-30 00:33:34
+8f8ddede-1bad-873a-257d-e026d4c0eed2,0745135136268,Outdoors,Sauce - Salsa,$7.58,45,"{""vendor"":""default""}",2023-10-11 02:14:37
+bcbeab8b-eceb-9cfe-1dca-6ebd15c1152a,0617996758418,Kids,"Nut - Hazelnut, Whole",$0.62,54,"{""vendor"":""default""}",2024-03-09 06:03:33
+de2cf509-a453-bb83-9ad5-4ea8ccefbddc,0030517952402,Outdoors,Cocoa Powder - Natural,$0.85,34,"{""vendor"":""default""}",2023-10-04 23:48:41
+1b56f1c4-9bc7-476b-7e62-ba9bd67ab3a7,0603766680466,Kids,Pie Pecan,$5.93,25,"{""vendor"":""default""}",2023-11-27 23:48:31
+c97d56ee-545b-7a82-3fb8-9fdb88dc4134,0448617488333,Electronics,Pork - Smoked Kassler,$9.90,58,"{""vendor"":""default""}",2023-10-10 18:01:19
+7eaecd1d-4843-57ed-e9de-8cdcc2d7fbea,0318695858716,Baby,Apricots Fresh,$5.66,16,"{""vendor"":""default""}",2023-04-30 13:34:57
+b320cf31-bc6b-dff6-60ab-34ff365fbf9d,0307029254660,Shoes,Yogurt - French Vanilla,$5.47,69,"{""vendor"":""default""}",2023-07-24 17:48:34
+8b48eb0d-d795-2eff-28ab-161174871f9e,0239021612037,Sports,"Pork - Loin, Bone - In",$3.02,16,"{""vendor"":""default""}",2024-02-04 20:25:17
+8c70da3a-bb09-bd67-b9be-5c5cedc0f5e6,0876526267079,Books,"Yogurt - Peach, 175 Gr",$8.67,61,"{""vendor"":""default""}",2023-11-07 11:18:49
+5ee4af9d-a0b5-a1ff-d9eb-16afbba11bbf,0954753879797,Games,Schnappes Peppermint - Walker,$6.09,38,"{""vendor"":""default""}",2023-08-12 10:07:30
+08c9cb83-7cc2-da1a-cffe-917c3a6b5bca,0471875011188,Home,Bols Melon Liqueur,$5.46,71,"{""vendor"":""default""}",2023-08-09 15:40:23
+673297d1-a9b8-78dd-0198-8e16e7de053b,0898644886790,Beauty,Sugar - Cubes,$8.64,78,"{""vendor"":""default""}",2023-07-27 21:08:26
+a6cb46d2-de41-cc0e-e33b-9acd71f3b95f,0834344706534,Beauty,"Veal - Shank, Pieces",$1.00,29,"{""vendor"":""default""}",2023-09-06 13:32:44
+cb8a34f8-b29e-5e4b-96c3-fcff327ea443,0939006815878,Health,Wine - Balbach Riverside,$2.74,6,"{""vendor"":""default""}",2023-08-22 03:10:18
+b2ecaea0-41fd-fca9-55e5-654d6b267baf,0213767758106,Garden,Wine - Chateauneuf Du Pape,$2.53,100,"{""vendor"":""default""}",2023-08-27 05:26:42
+ce1dbcc6-c6e1-4fc1-661d-0c1fdb100a87,0884752553856,Baby,"Pork - Sausage, Medium",$5.56,47,"{""vendor"":""default""}",2023-06-04 07:44:19
+99d6e1c8-ecaf-36bd-a5c3-c4d17ababbd4,0456037122080,Health,V8 Splash Strawberry Banana,$4.41,38,"{""vendor"":""default""}",2024-03-04 03:38:00
+afb4c8f4-f082-bee4-12b3-39f7ddff7b05,0461428681685,Books,Waffle Stix,$6.93,13,"{""vendor"":""default""}",2023-12-06 11:06:25
+cb55c6ba-df92-2c58-96fb-b2acaff61f4b,0177219014300,Garden,"Spoon - Soup, Plastic",$1.04,51,"{""vendor"":""default""}",2023-05-14 22:07:13
+432fef4b-d5d5-9088-dfc5-b4aaba1df07c,0847749938892,Grocery,"Water - Mineral, Carbonated",$3.45,84,"{""vendor"":""default""}",2024-03-16 18:41:30
+7c884518-01b5-5d3c-eb1d-ccdfdece63be,0388082661354,Toys,Tandoori Curry Paste,$9.44,57,"{""vendor"":""default""}",2023-04-07 14:54:50
+0cfd42aa-798f-cebe-0a86-d9ecbaedf1d6,0285979020292,Music,Soup Knorr Chili With Beans,$8.44,9,"{""vendor"":""default""}",2024-01-02 22:08:40
+7c56302b-dbcf-8eaf-e8e5-b9d320c2a5ce,0096068810722,Music,Rice - 7 Grain Blend,$6.34,35,"{""vendor"":""default""}",2023-10-24 08:55:18
+c7ef22ff-01ab-bcec-9cba-dfd2ebd39bb3,0523479971881,Garden,Cherries - Fresh,$7.91,10,"{""vendor"":""default""}",2023-06-10 07:53:12
+d373b3ec-fce2-eaf4-6558-6e7c35616bca,0061726067036,Baby,Halibut - Fletches,$5.09,93,"{""vendor"":""default""}",2024-01-08 23:36:26
+c778632d-6970-fe12-b302-a1fef8e4add7,0575526063579,Beauty,Pork - Suckling Pig,$1.64,83,"{""vendor"":""default""}",2024-01-09 11:18:52
+bddab8ae-d754-defc-8ae2-d48e6ca5cbb3,0804453976366,Home,"Cheese - Havarti, Salsa",$5.75,37,"{""vendor"":""default""}",2023-09-21 03:27:20
+53db4d23-5be4-f96a-396d-cdc87be1a75b,0937870141197,Clothing,Scotch - Queen Anne,$1.41,21,"{""vendor"":""default""}",2023-12-01 21:17:48
+c18617bf-83dd-e20e-8547-df1dc1f68c5c,0095086684390,Industrial,Wine - Coteaux Du Tricastin Ac,$8.96,38,"{""vendor"":""default""}",2023-09-03 03:54:37
+9b1dc54d-dfb4-eb6f-9fe5-b5d0b2be34db,0903050313138,Sports,"Wine - Red, Pinot Noir, Chateau",$2.39,24,"{""vendor"":""default""}",2023-08-22 04:51:05
+494dae4d-1284-c541-c5ae-b3b7b4f087ed,0952978140732,Beauty,Dooleys Toffee,$0.67,36,"{""vendor"":""default""}",2023-08-15 23:31:40
+8d71f7ec-99e0-1a33-ccb5-8003334ee299,0215276507820,Baby,Worcestershire Sauce,$4.48,32,"{""vendor"":""default""}",2024-02-11 01:07:37
+aa1e876d-1e80-a0da-ebb4-cfc6ff8460ff,0100008162311,Tools,Soup - Campbells Mac N Cheese,$2.99,99,"{""vendor"":""default""}",2023-10-19 04:11:55
+0dd3efec-e0eb-96ef-e18e-abeedd99cbe4,0787852964429,Outdoors,Spinach - Frozen,$0.81,69,"{""vendor"":""default""}",2023-11-10 21:44:47
+3ce647b1-99e8-fb30-aa48-ff4cebd3cf3b,0588464383208,Sports,Veal - Osso Bucco,$6.11,6,"{""vendor"":""default""}",2023-09-11 03:27:59
+b444c0d8-6acd-f7d0-52fa-f7dccc7cd78a,0679932445203,Jewelry,Tart - Pecan Butter Squares,$4.19,74,"{""vendor"":""default""}",2023-07-26 21:06:56
+7dd7a0d7-91bf-cb4d-c226-9be7e851fdbf,0966707778385,Jewelry,Wine - Mondavi Coastal Private,$7.56,77,"{""vendor"":""default""}",2023-09-07 03:22:43
+2d6f4a1b-fba3-7eff-0ccd-f47417d0de1f,0383713765799,Sports,"Tuna - Canned, Flaked, Light",$1.88,36,"{""vendor"":""default""}",2024-03-29 07:17:06
+b69cfcbf-eafa-5ea0-6d08-1dcca07772a7,0481040547051,Jewelry,Fireball Whisky,$4.83,6,"{""vendor"":""default""}",2024-02-03 23:18:36
+80eb0207-fe2e-5a12-0c2e-b867d3410f04,0986999978906,Tools,Pepper Squash,$0.95,74,"{""vendor"":""default""}",2024-01-28 13:32:15
+2fe5c9d3-ad70-cbbf-a68d-52da9eca06a4,0850032506465,Jewelry,Oil - Sunflower,$0.21,83,"{""vendor"":""default""}",2023-04-01 23:03:26
+15d5b1ec-e7be-77da-057a-a69c8d8f3e45,0967152934277,Books,Cheese - Grana Padano,$0.08,44,"{""vendor"":""default""}",2023-09-28 23:49:14
+0c598bf5-95a8-228d-7db4-b66b4438c7eb,0615074509810,Clothing,Table Cloth 54x54 White,$3.74,45,"{""vendor"":""default""}",2023-12-31 02:05:38
+fab02126-f2ba-c2e2-bd67-be79805bc8ea,0350708118828,Clothing,Tomato - Plum With Basil,$0.06,18,"{""vendor"":""default""}",2023-08-21 07:38:42
+cf307bea-523b-6fbf-8c49-2ebc73fbaff9,0777932217977,Toys,Cake Slab,$1.46,98,"{""vendor"":""default""}",2023-12-13 13:53:57
+2164bff4-1a10-199d-80ef-a33682743fba,0812585052688,Health,Milk - Skim,$6.24,22,"{""vendor"":""default""}",2023-10-22 01:40:28
+a8fd8dce-ec43-48c5-e0a7-edc9ffa93baf,0885507300953,Automotive,Glucose,$5.78,11,"{""vendor"":""default""}",2024-02-04 22:36:32
+0af0c329-6e1d-5ecb-4da7-c2e76ee60217,0659842853430,Industrial,Flour - Rye,$7.24,74,"{""vendor"":""default""}",2023-04-11 23:51:05
+7f193bd3-6cc9-ed5d-e1df-fb6c9ddc2cbf,0019817099055,Clothing,Wine - Charddonnay Errazuriz,$2.10,51,"{""vendor"":""default""}",2023-09-02 11:07:08
+1ac2990d-6b3e-628e-3e24-e57f0ebb9799,0255668512180,Clothing,Oneshot Automatic Soap System,$9.27,60,"{""vendor"":""default""}",2023-11-13 05:59:32
+f396e52f-7bce-daeb-9616-d4ac2f2eaf7a,0734977364411,Shoes,Pork - Kidney,$8.11,81,"{""vendor"":""default""}",2024-01-06 13:19:52
+a29d7d9d-162f-c53b-5aa1-42be41f2051a,0832731894186,Kids,Chips - Potato Jalapeno,$2.65,18,"{""vendor"":""default""}",2024-01-06 06:27:38
+de0c123b-3ef1-55ee-a4f7-faf937b56eb9,0571040527796,Tools,Broccoli - Fresh,$1.63,6,"{""vendor"":""default""}",2024-03-02 22:25:02
+5fdc6f66-d8fc-abfc-e13a-a43c754b28c4,0597830215282,Games,Jagermeister,$3.76,64,"{""vendor"":""default""}",2024-01-29 00:22:26
+2359ecba-e2ac-85cf-0eab-abda6b001c55,0641602638140,Health,Wine - Rosso Toscano Igt,$7.78,27,"{""vendor"":""default""}",2023-08-01 09:20:41
+a5927fe1-ccda-f58d-ec2d-76dc8b97b767,0406728536245,Grocery,Cinnamon - Ground,$1.68,27,"{""vendor"":""default""}",2023-08-08 10:16:42
+c0dd3389-5df6-bcf9-3b8e-5c79bf15f165,0867938156525,Toys,Oil - Sesame,$7.64,35,"{""vendor"":""default""}",2024-01-16 07:18:19
+61db85a9-09ba-ee5c-92dd-cad6f6a36cea,0581627561066,Baby,Mushroom - White Button,$1.73,51,"{""vendor"":""default""}",2024-01-26 04:14:11
+243b7b60-ab8e-760d-587f-ad745725cc52,0947847596771,Outdoors,"Tart Shells - Barquettes, Savory",$5.17,9,"{""vendor"":""default""}",2023-10-08 06:40:37
+48b8e305-139f-e0e1-aee0-eac6de8dd93b,0888781437248,Books,"Brocolinni - Gaylan, Chinese",$1.25,7,"{""vendor"":""default""}",2023-06-05 19:12:10
+c5cdc843-cfe4-80fd-b5cd-feeac748e7f0,0211113107268,Shoes,"Loaf Pan - 2 Lb, Foil",$0.61,60,"{""vendor"":""default""}",2023-08-02 21:21:19
+c01c0024-8bba-e8b9-2c5b-dcb57c42fe7e,0752993414214,Grocery,Plastic Wrap,$8.90,74,"{""vendor"":""default""}",2023-05-19 21:18:07
+caae7862-cf5d-ca32-75c2-b449e7baa246,0976214369658,Sports,Lamb - Rack,$1.10,5,"{""vendor"":""default""}",2023-08-27 23:51:35
+c4abdb50-9eeb-20be-adf4-f64c639b67d4,0454823879722,Home,Lettuce - Belgian Endive,$9.34,18,"{""vendor"":""default""}",2023-08-19 18:28:11
+b94b5fcc-f50a-8c27-e66e-1e3db1d24d09,0665422675754,Home,Pickerel - Fillets,$4.92,100,"{""vendor"":""default""}",2023-12-28 12:27:46
+86defcea-cebf-de5e-b4f4-2f44cf2c4e9a,0640470149462,Tools,Wine - Sogrape Mateus Rose,$1.51,23,"{""vendor"":""default""}",2023-10-29 00:55:49
+5afb9e2d-78e2-faf3-e4ca-a6884fc4dfbf,0975269459387,Baby,Sausage - Liver,$0.61,69,"{""vendor"":""default""}",2023-10-28 18:13:30
+9a9e2d6a-500d-9736-e4ad-ddbcbc93ccf3,0131582350723,Grocery,Nantucket Pine Orangebanana,$3.58,36,"{""vendor"":""default""}",2023-09-10 11:57:50
+4d0cbbaa-46f0-536b-78e1-a69d48eebf75,0850178038704,Garden,"Wine - Red, Metus Rose",$4.53,98,"{""vendor"":""default""}",2023-04-14 18:38:43
+aeea09f3-6465-78dd-5a8c-b47d2f98a4cb,0409410662601,Health,Pur Source,$0.17,74,"{""vendor"":""default""}",2024-03-03 04:51:10
+dac86acd-dbec-57e2-c2a6-91be32f8e1fc,0339858436729,Tools,"Pasta - Rotini, Colour, Dry",$6.93,85,"{""vendor"":""default""}",2024-03-13 23:01:08
+1c1553e7-477e-1a34-8e82-ca396db4e7f5,0708371118486,Shoes,Kale - Red,$3.79,43,"{""vendor"":""default""}",2023-12-12 06:50:55
+7243cbb3-de48-d5ce-a146-6a030a7da86f,0362602253544,Games,Roe - White Fish,$7.76,25,"{""vendor"":""default""}",2023-04-22 04:43:13
+3e6fc342-d9de-d352-ea63-7c9d1738d6dc,0033404678505,Industrial,Cafe Royale,$8.46,63,"{""vendor"":""default""}",2023-10-10 18:51:12
+ceb52881-42d2-e43a-dab4-9c41d1f3a7dc,0769198241304,Outdoors,Steampan - Lid For Half Size,$5.11,68,"{""vendor"":""default""}",2023-05-30 09:40:52
+ecc38504-edb4-ce2e-44a8-e29f378752c5,0903081672651,Health,"Juice - Apple, 1.36l",$5.88,88,"{""vendor"":""default""}",2023-08-04 09:45:05
+cc63b37a-fce3-91de-d1de-e774edfe00ad,0329188032416,Sports,Juice - Lime,$1.92,60,"{""vendor"":""default""}",2023-06-01 10:33:06
+1b74d192-ac00-e8ba-b285-eed3afec1c2b,0249536298146,Garden,Halibut - Steaks,$8.59,4,"{""vendor"":""default""}",2023-12-14 16:32:36
+1db20eba-e23d-9ca7-ce14-de22dbd426b2,0239301155939,Beauty,"Wine - Red, Black Opal Shiraz",$8.05,61,"{""vendor"":""default""}",2024-03-18 18:49:35
+3f3b226a-bb92-eab9-2edb-ba06cefc4d2b,0626326552687,Industrial,Carbonated Water - Wildberry,$4.34,8,"{""vendor"":""default""}",2023-08-31 01:08:47
+9b53e909-0de1-d419-e269-df3b31078ee8,0333147939019,Jewelry,Muffin Mix - Banana Nut,$10.00,72,"{""vendor"":""default""}",2023-08-03 21:32:10
+876e14a6-cca5-ae48-89e2-aff2ca2fac0b,0693734481316,Games,Compound - Raspberry,$1.23,9,"{""vendor"":""default""}",2023-11-09 07:16:26
+bc04bff4-31a7-ae56-e7ef-bd9e4c2b17a2,0623218077539,Tools,Bagelers - Cinn / Brown,$2.91,55,"{""vendor"":""default""}",2023-11-13 23:24:25
+adf9abcb-c8cd-7dbd-a9d3-79a3ec1d4c8d,0391727596031,Health,Cake - Pancake,$2.68,10,"{""vendor"":""default""}",2023-09-21 12:02:28
+5b5bf4f2-14d1-0b62-bb64-aacb1c188eb5,0077054416187,Baby,"Beef - Rib Roast, Cap On",$1.92,46,"{""vendor"":""default""}",2023-09-02 19:44:52
+f36d2dbf-abe3-faee-5e8c-9c1e960f1a8c,0582406813800,Outdoors,Compound - Mocha,$1.45,6,"{""vendor"":""default""}",2024-01-23 14:08:48
+abfadfce-1e54-fb28-e6dd-604d6f4ac1b8,0594461567855,Health,Petite Baguette,$0.92,10,"{""vendor"":""default""}",2023-06-30 19:36:48
+ba282949-3e4e-b13f-55ca-b69c18ac7ea7,0739368311654,Sports,"Coconut - Creamed, Pure",$4.74,57,"{""vendor"":""default""}",2023-06-19 09:59:36
+fab0bff5-f1be-fe6f-cc46-0cd442b275bf,0708797179353,Kids,Halibut - Steaks,$6.95,8,"{""vendor"":""default""}",2023-07-24 01:22:31
+62f706ce-7fbe-af40-c026-6e3d41abf3fc,0846278503376,Electronics,"Pepper - Black, Ground",$9.68,15,"{""vendor"":""default""}",2023-12-22 20:20:46
+20a53b1d-e525-1ff1-ac3f-0cbddb47ad34,0906200258329,Home,Tumeric,$2.66,25,"{""vendor"":""default""}",2023-06-04 19:33:18
+7e2db1f5-0c5f-88b8-1cd0-157bcbb53e3c,0238152216178,Beauty,Stock - Fish,$4.18,51,"{""vendor"":""default""}",2023-06-16 00:40:59
+1bc1c2b5-3288-ff2e-ae84-b7a1d2d4b5c3,0238518272349,Grocery,Cumin - Whole,$5.29,52,"{""vendor"":""default""}",2023-04-10 04:02:38
+8398a3ea-6ea2-5b35-0fed-d90bfebeeebb,0106332022288,Kids,"Oil - Food, Lacquer Spray",$8.62,2,"{""vendor"":""default""}",2023-11-10 16:32:41
+2daa182e-5aca-11f9-792a-e00d33c3662f,0793485338411,Automotive,Milk - Buttermilk,$3.94,4,"{""vendor"":""default""}",2023-07-12 02:11:56
+94090e03-ffbf-cf2f-cf95-0fbf506912f9,0750180768489,Health,"Pasta - Fusili, Dry",$1.80,20,"{""vendor"":""default""}",2023-06-20 16:09:11
+c188de3d-8825-8d70-1f13-77933bd739ff,0137968726641,Automotive,"Cheese - Mozzarella, Buffalo",$7.80,89,"{""vendor"":""default""}",2023-07-31 11:56:00
+6d032ad0-5498-733c-cdfa-95be7fb83c58,0873295039585,Computers,Ice Cream Bar - Hagen Daz,$9.44,98,"{""vendor"":""default""}",2023-06-10 19:14:36
+a39f1eef-aac4-01e8-ebbb-7c1c5927ad1f,0655510216492,Baby,Tarts Assorted,$6.74,28,"{""vendor"":""default""}",2024-03-08 10:23:16
+ef4b6eca-a6da-4964-ac71-aeed026dd3cb,0330659268492,Electronics,Dried Apple,$3.02,5,"{""vendor"":""default""}",2024-01-19 14:20:39
+cd52851f-8dcd-a8b9-fcc6-cd6c7ad204bd,0432192008130,Home,Horseradish - Prepared,$6.52,23,"{""vendor"":""default""}",2024-03-07 21:42:35
+c70c3eef-3e5e-a18c-cff5-e2fae69cfb21,0992980432158,Garden,Spice - Paprika,$4.53,47,"{""vendor"":""default""}",2023-11-18 02:37:32
+2ac0beb5-748d-b4f3-0459-dfbad8bcf4ec,0271662728607,Baby,Cranberry Foccacia,$0.82,32,"{""vendor"":""default""}",2023-09-01 15:50:37
+7bedd054-12bf-0cfe-f91f-cbda5bc952a2,0582324875690,Baby,Wine - Dubouef Macon - Villages,$4.63,21,"{""vendor"":""default""}",2023-05-06 03:18:36
+d65396ab-b3e2-ccf8-afae-eb3285e46ece,0297750407643,Clothing,"Bread - White, Unsliced",$5.07,39,"{""vendor"":""default""}",2023-10-16 17:35:17
+06b7baac-c85f-2fa0-5600-a1fddbde1bbe,0327417158162,Electronics,Cheese - Ricotta,$8.82,41,"{""vendor"":""default""}",2023-07-01 10:40:44
+4d6a77af-fc20-6adc-00bc-f5eeaac0dd8b,0624146207817,Music,Dried Cranberries,$6.79,66,"{""vendor"":""default""}",2023-09-18 06:57:31
+be30baa5-e366-2d6b-b9a8-2eecbe1f029e,0817773072088,Sports,Cream - 35%,$9.92,98,"{""vendor"":""default""}",2023-05-09 21:37:20
+f8ddf9de-4b13-5088-a0d3-5e9d42b213dc,0403971388665,Grocery,"Wine - Red, Cabernet Merlot",$5.01,92,"{""vendor"":""default""}",2023-09-23 14:29:51
+6f662ef7-eda4-9b76-6191-ef4a80febad0,0679602291238,Movies,Longos - Chicken Caeser Salad,$1.52,7,"{""vendor"":""default""}",2023-06-11 23:36:58
+eadc176d-8a52-992e-a1de-887744158dc3,0241050786104,Jewelry,Tart - Lemon,$8.11,61,"{""vendor"":""default""}",2023-04-07 13:09:15
+20ec0cbf-5cbf-5d0b-8aa4-a59f4b5aaeda,0238553242105,Games,"Soup - Beef, Base Mix",$3.78,71,"{""vendor"":""default""}",2023-11-30 12:55:01
+dbfa5166-0a65-ec18-0860-89cbcd28ebf0,0636355806364,Outdoors,Pancetta,$9.13,59,"{""vendor"":""default""}",2023-07-16 09:21:02
+b6bbd9f4-bc0d-63d2-cd5d-f69b78e2fe66,0811901565675,Outdoors,Sauce - Marinara,$4.42,56,"{""vendor"":""default""}",2023-12-13 03:23:02
+8333cdd7-aa95-7975-62d5-851ae2fa3c0f,0289029423327,Movies,Sauce - Sesame Thai Dressing,$0.25,100,"{""vendor"":""default""}",2023-07-07 20:24:53
+c7b2ff59-d232-000c-eb71-b2ccecb732c1,0648579022720,Games,Island Oasis - Peach Daiquiri,$1.34,80,"{""vendor"":""default""}",2024-03-11 13:56:25
+c4b98710-2a98-4a80-4bcf-f634819e3bdb,0877847336073,Baby,Mussels - Frozen,$4.31,26,"{""vendor"":""default""}",2024-03-26 05:11:55
+7d42717c-e406-3844-b1ca-e5f18ec2d51a,0646590253327,Garden,Tomatoes,$9.48,44,"{""vendor"":""default""}",2023-06-16 02:25:59
+2fd8f8ab-cb10-8e26-dffb-ca238b2fa32f,0833002086095,Tools,Bread - Onion Focaccia,$1.58,97,"{""vendor"":""default""}",2023-11-10 05:57:03
+f4800b3c-e993-ab0a-aab0-ec8cf2f7e1dd,0456651860944,Books,Cheese - Ermite Bleu,$5.30,27,"{""vendor"":""default""}",2023-04-05 11:00:46
+faf97bca-4fd0-173b-aace-ab4034c5b99a,0495318440132,Garden,Wine - Pinot Noir Stoneleigh,$0.27,33,"{""vendor"":""default""}",2023-07-06 04:32:24
+1edf24be-cff8-b708-90c5-be9478a1a044,0906168168313,Automotive,Sauce - Balsamic Viniagrette,$5.88,98,"{""vendor"":""default""}",2023-09-10 19:39:46
+b42cf6c5-ced6-bf3d-fae0-fcfaf6fcf9c2,0060098941789,Electronics,Pur Value,$4.88,70,"{""vendor"":""default""}",2024-01-31 22:12:42
+e62fb2e7-b51d-3e2c-51db-52cc0c14d9ca,0452722344812,Toys,Longos - Penne With Pesto,$0.98,44,"{""vendor"":""default""}",2023-09-29 02:13:53
+aaf37f33-c0f8-55ca-b57b-7ae2d886dc47,0066301224965,Jewelry,Tarts Assorted,$0.07,89,"{""vendor"":""default""}",2023-09-25 18:28:38
+aec2a3e1-d6fe-e5d3-70b2-57098a3eaf0b,0168214214510,Jewelry,Pickle - Dill,$8.79,91,"{""vendor"":""default""}",2023-07-19 00:50:38
+a80cfa90-6e31-d5b0-1ba5-18e9edd63bfa,0952672033034,Automotive,"Sauce - Soya, Light",$7.78,58,"{""vendor"":""default""}",2023-10-10 08:40:14
+7e2d75bb-fa84-b0db-bdd8-ea57b6aa1af3,0179912098892,Automotive,Flour - All Purpose,$0.68,98,"{""vendor"":""default""}",2023-05-09 01:33:36
+623eb9bc-48ab-cdab-5d71-21a1034626ba,0351657252764,Baby,Kellogs Cereal In A Cup,$1.03,90,"{""vendor"":""default""}",2024-03-31 18:05:09
+66de7dc5-90af-e476-fb6d-3dafec02fbfd,0614860138760,Clothing,Chicken Breast Halal,$9.57,35,"{""vendor"":""default""}",2023-10-13 08:49:59
+1829ce1b-1ffd-6d1f-d2ce-339dca91ee25,0628944350132,Toys,Wine - Chardonnay Mondavi,$1.41,59,"{""vendor"":""default""}",2023-10-22 20:42:50
+f29ee8d4-31a5-bed9-c0df-6a5faf495197,0759185405010,Baby,Wine - Penfolds Koonuga Hill,$0.24,98,"{""vendor"":""default""}",2023-08-12 13:35:55
+5ab1b5cf-3c3b-768e-fe51-8ac608d0bccf,0624996230722,Tools,"Salmon - Atlantic, Skin On",$6.10,88,"{""vendor"":""default""}",2023-06-17 23:21:46
+edf2f8f0-5a3f-b3b7-fb76-d708e6ca83bd,0676745916120,Kids,Wiberg Cure,$0.24,10,"{""vendor"":""default""}",2023-07-30 16:42:48
+c2fd8be3-f7fe-6e98-f21d-ecfdd583e4e5,0590343434923,Kids,Dill Weed - Fresh,$0.50,80,"{""vendor"":""default""}",2023-11-21 03:51:46
+f1591628-f5be-6268-be3d-bbcdc60fcd26,0718145447774,Beauty,"Salt - Rock, Course",$5.55,44,"{""vendor"":""default""}",2023-10-16 05:30:25
+dcbe15ed-f71f-01dc-ab58-0f03eec4db8e,0378235793524,Health,Potatoes - Mini White 3 Oz,$4.23,89,"{""vendor"":""default""}",2023-06-17 02:01:19
+55cdcb71-59ea-aee8-649d-daefea938bd4,0506566109889,Jewelry,Sword Pick Asst,$7.04,78,"{""vendor"":""default""}",2023-08-19 16:22:56
+8bfc7cee-2812-8e2c-5585-b9deb1915657,0903296399837,Garden,Rice - Brown,$6.40,58,"{""vendor"":""default""}",2023-09-12 04:29:38
+45347f2d-cbed-9dcc-ee2e-14ebfa5e12c3,0792037347495,Garden,Wine - Rhine Riesling Wolf Blass,$2.83,23,"{""vendor"":""default""}",2024-01-09 09:26:24
+a8cadaf2-925e-399f-f72e-6cdeb7834afd,0313707673820,Baby,Sardines,$4.88,32,"{""vendor"":""default""}",2023-10-03 18:19:44
+6a5e0ee6-a7ba-1cda-9cfa-49b6d0d4ec63,0159247157521,Electronics,Bar Mix - Lemon,$8.98,18,"{""vendor"":""default""}",2023-12-17 09:52:43
+97c5f879-3af1-5fbf-ef1a-36400ebc5279,0103070015162,Kids,Muffin - Carrot Individual Wrap,$7.58,30,"{""vendor"":""default""}",2024-01-29 11:14:33
+cf501ce3-b3a0-0ce5-2de1-3e9fed20ce89,0444784566454,Toys,Juice - Orange,$7.35,14,"{""vendor"":""default""}",2023-08-23 18:12:33
+acac044c-dd49-af22-ad42-b237f2628d6b,0079003780522,Outdoors,Muffin Hinge - 211n,$8.40,22,"{""vendor"":""default""}",2023-11-16 10:04:36
+90b1def7-285b-49dc-c6ac-ec488e52e02a,0031360332369,Industrial,Water - San Pellegrino,$2.18,37,"{""vendor"":""default""}",2023-05-21 11:52:44
+286bbe86-e0ac-c7c1-8b9b-e8c63c9aa419,0253331412348,Garden,Cheese - Brie Roitelet,$9.18,34,"{""vendor"":""default""}",2023-06-23 09:19:17
+dd3ffc5d-01ba-d6fd-fbfe-b5b3f37b7f1c,0254729463733,Toys,Cheese - La Sauvagine,$6.56,23,"{""vendor"":""default""}",2024-01-29 20:39:16
+bbd3e97d-ce68-c3f2-3c68-f392f6a4e4ae,0454040968045,Home,Mussels - Cultivated,$7.60,25,"{""vendor"":""default""}",2024-03-22 17:27:32
+a2d8e622-f0b2-6315-652c-1a7984bd0bc9,0987505971867,Outdoors,Table Cloth 54x72 Colour,$0.67,79,"{""vendor"":""default""}",2023-05-11 10:35:24
+50ed1e1e-ab2d-fc9f-6c1f-faba7e5e8aff,0031956638362,Automotive,Oil - Cooking Spray,$4.40,8,"{""vendor"":""default""}",2024-02-10 22:31:50
+846482d5-bd7a-d97d-8c5f-feb4cfc82a75,0152100728728,Beauty,Chips Potato Salt Vinegar 43g,$8.26,99,"{""vendor"":""default""}",2023-07-17 14:36:37
+a30dbdca-addf-1b1d-9c1e-a22f9bcb0f9d,0024370043675,Baby,Pepper - Chilli Seeds Mild,$2.84,26,"{""vendor"":""default""}",2023-10-24 14:33:15
+68924ccd-f91d-ffde-fecb-a8c3ed16ea07,0849493642227,Games,Aromat Spice / Seasoning,$9.50,25,"{""vendor"":""default""}",2024-03-31 10:11:35
+1cddbadb-9ea0-f7ee-63c6-cb2f75bc556b,0809392709211,Toys,"Soup - Knorr, French Onion",$9.82,30,"{""vendor"":""default""}",2023-12-13 02:07:28
+203cecd5-f765-a1df-d5c8-bc50b9ba51f5,0924302953747,Baby,Cheese - Feta,$3.22,63,"{""vendor"":""default""}",2023-11-11 05:33:00
+3360cada-fb6e-e611-e795-cf65dae0e3eb,0432860800362,Movies,"Cheese - Manchego, Spanish",$5.17,64,"{""vendor"":""default""}",2023-05-29 05:03:14
+d902fb95-ace0-35f0-98bb-025af85531ef,0746493416648,Electronics,Goat - Leg,$7.86,47,"{""vendor"":""default""}",2023-10-12 20:50:32
+0b59d6a1-9e73-19dc-eb4e-6d95cdf8ece4,0876333152357,Music,Rice - Aborio,$8.66,49,"{""vendor"":""default""}",2024-03-24 22:18:00
+e6625065-c520-61e0-958b-0fddc1c99be1,0636020501629,Books,"Shrimp - Baby, Cold Water",$9.39,3,"{""vendor"":""default""}",2023-09-04 01:53:50
+f6c7559e-3e55-f468-bcf6-22ca3b4c2bdf,0701482953265,Home,Scotch - Queen Anne,$0.04,82,"{""vendor"":""default""}",2023-07-19 19:26:36
+57bc9397-f8ce-fce2-8eed-3ac9c9fe2431,0256322676738,Baby,Capicola - Hot,$9.60,74,"{""vendor"":""default""}",2023-09-30 13:16:59
+add9c1e6-5a9f-f911-af92-5d5de5029960,0549709098996,Music,Wine - Shiraz South Eastern,$6.83,75,"{""vendor"":""default""}",2023-12-31 23:56:14
+4ae8157c-feac-1f83-7d33-fb5cccbd7f3b,0583901843370,Baby,"Red Snapper - Fillet, Skin On",$6.70,5,"{""vendor"":""default""}",2023-11-28 12:38:08
+eb252ba1-e79c-8ed2-8279-62cedc36f8e0,0683718906699,Automotive,Beef - Ground Medium,$7.69,100,"{""vendor"":""default""}",2024-02-16 05:19:43
+445cf6c8-c5d5-ab81-c8c5-cb43cff5ac7a,0325597547873,Sports,Ice Cream - Fudge Bars,$6.06,6,"{""vendor"":""default""}",2023-12-03 09:12:16
+ee3da337-ab5a-4ebf-ca94-a7e3bfbeffc3,0715363585080,Toys,Pasta - Orecchiette,$5.18,70,"{""vendor"":""default""}",2023-06-04 08:59:56
+4d3c5c83-492e-f517-98ee-c036ca2f9d71,0995624925551,Tools,"Stock - Beef, Brown",$1.26,21,"{""vendor"":""default""}",2023-11-26 23:07:42
+bae4c816-ae96-4c32-40be-b8bc7deb948e,0385506300273,Electronics,Haggis,$0.53,13,"{""vendor"":""default""}",2023-04-15 10:23:36
+feb38efb-7794-5a85-a756-6befdcc6706e,0699431417086,Jewelry,Pepper - Red Thai,$0.93,28,"{""vendor"":""default""}",2023-09-05 15:56:02
+f6c2db65-54dd-c8f8-2f0b-ffb6f35f611a,0773117146640,Games,Banana - Green,$6.56,1,"{""vendor"":""default""}",2024-03-22 16:31:19
+00fba4f1-74fb-5fce-3c04-b94cef03ae7d,0242233907477,Jewelry,Berry Brulee,$8.29,88,"{""vendor"":""default""}",2023-06-06 03:38:55
+db6b1ed0-aa0c-ec01-f4e7-b5fddb783e15,0584455858388,Books,Flavouring - Orange,$4.35,73,"{""vendor"":""default""}",2023-04-05 13:41:42
+dfa6e9cd-fd3d-b7ec-c29f-a4c1e9fe62ce,0595750119028,Health,"Quail - Eggs, Fresh",$2.92,21,"{""vendor"":""default""}",2023-08-03 21:35:42
+c6ba29d9-56bb-288a-0592-4094da8911e8,0205068516734,Garden,"Sparkling Wine - Rose, Freixenet",$0.07,69,"{""vendor"":""default""}",2023-08-05 02:42:45
+0bc01a64-51c8-0404-cbdb-cbae2b5c5b48,0369874530097,Movies,Wine - Chateau Aqueria Tavel,$9.38,38,"{""vendor"":""default""}",2024-02-05 23:44:38
+7810f500-872a-b7cc-8fbd-96fe6cebea0e,0188990039161,Beauty,"Red Snapper - Fresh, Whole",$0.84,75,"{""vendor"":""default""}",2023-05-27 00:47:29
+2da7dfbf-8622-b5a3-a8fe-4f2efcad6afa,0485514958505,Toys,Soup - Campbells Broccoli,$3.94,39,"{""vendor"":""default""}",2024-01-22 02:59:52
+fad23402-a2ac-0b9a-67a6-5165f6efbbb1,0357626735160,Electronics,Mace,$1.99,40,"{""vendor"":""default""}",2024-03-13 20:11:52
+3d725d93-bfb8-a721-fed6-cfa36a02cafb,0212271104993,Baby,"Trout - Hot Smkd, Dbl Fillet",$8.17,43,"{""vendor"":""default""}",2023-05-07 08:32:47
+dfe1b2f9-c7ba-1a6b-ee38-b6d0a8c34dc0,0468315575474,Baby,Bread - Italian Roll With Herbs,$9.40,75,"{""vendor"":""default""}",2024-03-07 10:07:24
+d5b94f9a-3f26-380d-6f1c-c0c9cfbee867,0245790876139,Health,"Juice - Grapefruit, 341 Ml",$0.71,4,"{""vendor"":""default""}",2023-04-17 21:18:42
+b5775134-8f3e-eaeb-c845-d1f270c4f510,0696270010017,Industrial,Cleaner - Pine Sol,$1.76,69,"{""vendor"":""default""}",2023-09-11 09:55:12
+e073bb80-4128-6f6a-d12d-a7b2bbf2e7bf,0299982803571,Home,"Pork - Bacon,back Peameal",$8.47,9,"{""vendor"":""default""}",2023-07-21 03:36:12
+ffa984a9-0120-0eca-947b-bd7faa69b5ba,0666961377456,Grocery,Chocolate - Feathers,$2.18,72,"{""vendor"":""default""}",2023-05-04 03:49:59
+c4333cc8-ddce-9c49-338e-ab47aa7dc244,0962489440322,Baby,Yoghurt Tubes,$7.19,12,"{""vendor"":""default""}",2023-10-26 15:01:35
+6de7d652-9ffc-e9bc-587b-3fc6dc41ecc8,0096275023343,Books,Shrimp - Black Tiger 16/20,$1.07,3,"{""vendor"":""default""}",2023-05-26 07:22:51
+6e4fbcd4-3bef-98e8-3155-cd3d28e6e5f8,0228195002454,Outdoors,Pork Casing,$6.09,37,"{""vendor"":""default""}",2023-09-10 06:38:01
+4bbd77b2-c1fb-773e-aae2-5f8d91ed5ac5,0131104475117,Clothing,Bread - Italian Sesame Poly,$2.39,22,"{""vendor"":""default""}",2024-02-29 10:42:34
+5c4fdae0-84e2-a94a-76c0-c4b29f117496,0722905111661,Grocery,Bread - Raisin,$2.55,1,"{""vendor"":""default""}",2023-11-15 21:38:21
+a5aa6d85-6aa2-e70c-6e7e-e47f3d944b09,0960801070979,Industrial,Yogurt - Plain,$5.24,83,"{""vendor"":""default""}",2023-10-11 06:50:02
+2651e4ff-1e69-ebc8-ffe2-12062a2ff1d5,0386430991311,Beauty,Beef Ground Medium,$8.74,92,"{""vendor"":""default""}",2023-08-22 04:19:44
+04a9e39b-f509-a80c-f10a-a4f0cc564943,0977326015341,Kids,"Wine - Red, Pelee Island Merlot",$8.49,25,"{""vendor"":""default""}",2023-11-03 01:47:44
+e403f90b-1eeb-4766-da19-45989c0ab2fd,0916575002842,Computers,Orange - Tangerine,$2.26,23,"{""vendor"":""default""}",2023-07-13 19:38:09
+96a1513d-0dca-fb84-46fc-4fb83dadea6a,0285381292312,Games,Silicone Paper 16.5x24,$0.28,7,"{""vendor"":""default""}",2023-11-02 11:13:07
+5d415da6-65fa-3731-5bad-eaafb75551d5,0211926299983,Sports,Arizona - Plum Green Tea,$4.28,83,"{""vendor"":""default""}",2024-02-04 03:39:31
+94bfe9e1-ea67-b69f-9bd7-dc8f659bc21d,0764398401401,Grocery,Corn Shoots,$5.15,80,"{""vendor"":""default""}",2024-03-15 10:29:22
+82b28186-3ddf-eca8-c0ad-e3b4f8a6afbe,0727013799273,Tools,Compound - Orange,$2.51,87,"{""vendor"":""default""}",2023-05-04 07:02:47
+d9d3798f-6f9c-d8db-1c59-01c131d34dba,0790713157195,Beauty,Wine - Cava Aria Estate Brut,$6.65,73,"{""vendor"":""default""}",2023-06-28 10:40:30
+faf58a73-d1ef-790b-dae0-d7c2c7e8753b,0872928133772,Books,"Wine - Red, Wolf Blass, Yellow",$7.68,78,"{""vendor"":""default""}",2023-11-02 14:56:20
+e322ffba-7cc2-b5f6-faa4-bfbaaa4fea7a,0225561893828,Clothing,Sugar - White Packet,$9.44,19,"{""vendor"":""default""}",2024-02-03 12:32:31
+b699003f-acba-c5a9-bfba-4cc53ba14210,0015075110176,Beauty,Pie Shell - 5,$8.89,55,"{""vendor"":""default""}",2023-11-15 22:35:48
+e4fe77fd-fbfe-6d45-fa7d-ebc56a288067,0303648328060,Games,Wine - Toasted Head,$1.92,51,"{""vendor"":""default""}",2023-12-27 05:12:18
+7d29b349-2f31-14f0-8f62-2ebb9260b6de,0630782172372,Sports,Ice Cream - Vanilla,$3.59,25,"{""vendor"":""default""}",2023-11-19 19:23:39
+04e35df0-b67e-9206-56d3-0b4fc5b03bb0,0397413061969,Shoes,Mussels - Cultivated,$1.81,86,"{""vendor"":""default""}",2024-01-20 09:41:19
+ae52dde5-d31e-d0a3-acf8-e4c29e1d235d,0794400302095,Health,Seabream Whole Farmed,$5.91,29,"{""vendor"":""default""}",2023-10-01 01:55:33
+eaeeda0d-4f1a-87ac-a576-2e3f3f3c7efa,0749881604808,Shoes,Taro Leaves,$1.16,25,"{""vendor"":""default""}",2023-05-15 04:49:26
+d0426baf-3def-ed2c-882d-2bd84e03aabc,0427811217617,Shoes,Cheese - Marble,$3.65,30,"{""vendor"":""default""}",2024-03-27 16:38:08
+e8bcdd93-939f-0ff4-6b71-8b52da884a9d,0956071885863,Books,Tobasco Sauce,$1.62,97,"{""vendor"":""default""}",2023-08-04 00:10:36
+18bfeefa-1ef9-2fbf-a7c1-1099a7b25b6e,0893098218315,Jewelry,Sprouts Dikon,$5.67,21,"{""vendor"":""default""}",2024-01-15 14:38:17
+058fcf4c-d4f5-b17f-7d4c-fccad4bf2f97,0368697017615,Automotive,"Yogurt - Raspberry, 175 Gr",$1.43,96,"{""vendor"":""default""}",2023-12-08 00:00:44
+fda06f3c-5983-d90c-3bba-5d95e869cefc,0727080001643,Kids,Guava,$1.48,72,"{""vendor"":""default""}",2023-09-24 04:40:39
+31c84ebf-ef8c-8d5f-ddab-18bad17e11e5,0190201703193,Industrial,"Pasta - Penne Primavera, Single",$5.59,77,"{""vendor"":""default""}",2023-05-10 23:08:49
+3114dda0-4e18-eacc-d039-77ebb6cdbcd0,0451269443404,Jewelry,Cheese - Grana Padano,$0.80,56,"{""vendor"":""default""}",2024-03-31 16:03:49
+9c2d4383-beef-c0ae-312a-50e72087efd9,0691990301564,Grocery,"Beans - Long, Chinese",$7.57,38,"{""vendor"":""default""}",2023-09-20 21:07:34
+7455ad17-2cce-adfd-b53f-f35a9606c42e,0351084285360,Kids,Chickhen - Chicken Phyllo,$8.54,62,"{""vendor"":""default""}",2023-06-25 02:25:17
+97c95a3c-c827-f6f1-b7a9-1c2fb477fe13,0476930431080,Grocery,Neckerchief Blck,$9.87,35,"{""vendor"":""default""}",2023-10-01 17:11:01
+9a46afeb-affa-c662-33ca-6eaa09aaadbf,0827615475894,Music,Pants Custom Dry Clean,$8.18,30,"{""vendor"":""default""}",2023-04-25 22:43:11
+23e9d7ab-89f5-6a8b-a42b-1f9d48cff7d2,0059169004098,Industrial,Canada Dry,$5.85,83,"{""vendor"":""default""}",2024-03-24 16:02:21
+8ac77abd-bddc-6e48-8ac3-9cf2deffc7f8,0470959695688,Beauty,Five Alive Citrus,$7.51,38,"{""vendor"":""default""}",2023-10-01 16:32:22
+bae3f633-5c06-6cbf-34fa-ccfd5dde55bd,0893281957610,Grocery,"Turkey - Whole, Fresh",$0.70,12,"{""vendor"":""default""}",2023-04-29 23:28:39
+d29505ce-15d7-71cd-3495-d174727d7eee,0787298175283,Automotive,Ecolab - Medallion,$1.85,36,"{""vendor"":""default""}",2024-03-20 22:30:03
+d5ee30ff-6a5e-dbc6-daaa-85cd30f69f69,0229404403579,Industrial,Barley - Pearl,$8.27,25,"{""vendor"":""default""}",2023-12-10 16:45:42
+96a99c3e-bc96-054b-74dd-d4baa11cbadb,0652949352046,Beauty,Mousse - Mango,$6.27,24,"{""vendor"":""default""}",2023-10-30 22:58:55
+87a0a3e5-a262-8bb9-af92-cc14ab937060,0426411359902,Books,Cherries - Frozen,$6.31,72,"{""vendor"":""default""}",2023-07-16 03:43:33
+9e20e485-1ebe-47cf-5c7e-3e8a29aabbd1,0019513998088,Tools,Cake - Dulce De Leche,$8.21,62,"{""vendor"":""default""}",2023-04-01 22:23:01
+8654669f-0be7-acdd-a137-c4d1e8bebdba,0627987389418,Grocery,Lettuce - Boston Bib,$1.88,84,"{""vendor"":""default""}",2023-04-05 09:04:46
+1d6545e9-2cef-26b6-e49e-8fb195fe8ae3,0778187276082,Industrial,Butter - Unsalted,$8.52,46,"{""vendor"":""default""}",2023-09-25 22:17:29
+5639f896-b75a-cbfc-4682-9ebf720bcefd,0763911807711,Home,Chicken - Whole Roasting,$8.99,25,"{""vendor"":""default""}",2023-06-04 22:27:48
+d58b2aea-a1df-fad6-b55d-7b586ad17a49,0999402002566,Shoes,"Nut - Almond, Blanched, Ground",$7.34,29,"{""vendor"":""default""}",2023-08-19 16:07:05
+b4cfc7f1-3a7f-7cc6-941f-ab29ccf8e6fc,0917531083324,Industrial,Fish - Bones,$8.29,21,"{""vendor"":""default""}",2023-04-21 03:09:54
+623e94b7-0156-efc1-6fe7-877cb6afb9c9,0828189252288,Toys,Lychee - Canned,$1.51,96,"{""vendor"":""default""}",2023-04-14 18:05:12
+43e28008-82e9-f4dc-ef0d-6aaa6f41bbd2,0374024977628,Health,Muffin Hinge - 211n,$5.85,77,"{""vendor"":""default""}",2023-08-17 02:21:56
+7cfcbfa7-cd51-8a3a-bb7a-accfc32c60a1,0797467290247,Health,Uniform Linen Charge,$4.82,80,"{""vendor"":""default""}",2024-01-29 04:24:41
+b734da76-403e-2d0d-fa2b-f830d98ef0bb,0094122841838,Grocery,Fork - Plastic,$1.31,88,"{""vendor"":""default""}",2023-12-03 04:04:42
+f88da04c-255a-88f4-3bdb-b5df5dcf8564,0239790172308,Health,Triple Sec - Mcguinness,$1.05,44,"{""vendor"":""default""}",2024-02-10 16:48:32
+6edbbfe3-bf52-baba-a7fb-be7ac1c8edb0,0130032162178,Industrial,Pork - Backfat,$0.98,81,"{""vendor"":""default""}",2023-05-03 06:09:49
+f73a73bd-279c-7809-fc6a-9025267a459f,0704324422138,Toys,"Sauce - White, Mix",$4.84,85,"{""vendor"":""default""}",2023-12-17 09:40:45
+5f5dcc97-fccc-af21-ce2b-acaabb7e18f2,0737409207620,Industrial,"Juice - Grapefruit, 341 Ml",$8.01,84,"{""vendor"":""default""}",2023-11-19 20:05:30
+ab44c2fe-ec2c-2a10-ffcc-bf7123f72201,0971839693591,Grocery,Juice - Lime,$9.22,89,"{""vendor"":""default""}",2023-10-06 10:15:32
+bb37de7b-7d39-df69-fe19-e60e3dc392d9,0328249557106,Health,Energy Drink,$6.34,12,"{""vendor"":""default""}",2024-02-15 15:29:50
+6b693edf-6a1d-eb3e-cbaa-ce4bc7fd0cfb,0299518239052,Industrial,"Juice - Apple, 500 Ml",$0.00,31,"{""vendor"":""default""}",2023-12-19 20:40:36
+f36f9eb7-11ec-0ad5-9a79-bbf49f1da499,0978635597723,Health,Dragon Fruit,$4.53,48,"{""vendor"":""default""}",2023-08-14 20:49:03
+9e1ed8a5-e183-47a3-b4db-8bfe017c72b9,0140392384451,Tools,"Juice - Orange, Concentrate",$1.63,40,"{""vendor"":""default""}",2023-07-22 06:50:18
+f79c9f72-aceb-3a4c-f256-4252332bbf28,0283124416050,Electronics,Huck White Towels,$2.68,1,"{""vendor"":""default""}",2023-06-20 18:05:36
+aa82cbe2-edc7-f743-39ab-16f3395c3fc3,0822497222101,Industrial,Flour - Chickpea,$7.76,16,"{""vendor"":""default""}",2023-04-05 06:32:41
+96ce91dd-8f20-aec1-4fca-b9a3c7c20f64,0797684218781,Shoes,Ham - Cooked Bayonne Tinned,$5.47,11,"{""vendor"":""default""}",2023-04-18 22:30:32
+55af65c5-4b0b-23be-a7db-8df4679cc7e9,0612894217494,Movies,Olives - Stuffed,$5.70,27,"{""vendor"":""default""}",2023-04-06 21:50:39
+fc89f99a-e6da-cbea-aa20-af1eb563c535,0406405943919,Clothing,"Rum - Spiced, Captain Morgan",$8.35,44,"{""vendor"":""default""}",2023-12-26 23:05:34
+d26400e1-6e5b-8ad8-488a-4ae55f71a0e0,0323916945492,Health,Tumeric,$6.32,89,"{""vendor"":""default""}",2023-12-24 17:43:18
+da35af1b-e6eb-ffe6-f2a3-f34c94d8e64c,0040754835457,Grocery,Dragon Fruit,$9.21,48,"{""vendor"":""default""}",2023-05-30 21:16:56
+ccb3cff6-7a05-b016-f1f9-5b23bfeebd5c,0727894781116,Music,Truffle Cups - Brown,$2.33,30,"{""vendor"":""default""}",2023-08-03 23:25:35
+5c5991ab-710b-6ec9-acdc-289547ca5d18,0217046926943,Books,"Pepper - Paprika, Hungarian",$7.07,91,"{""vendor"":""default""}",2023-12-02 05:01:14
+1bde0a49-9ba9-1ee4-dead-795168c2e159,0232050244810,Clothing,Wine - Shiraz Wolf Blass Premium,$4.46,20,"{""vendor"":""default""}",2023-04-22 08:51:15
+26fdceea-f0fd-cb5e-bd9a-ecca8cae3bef,0646702903011,Industrial,Onions - Green,$0.34,39,"{""vendor"":""default""}",2023-12-24 10:47:52
+14f06ca4-0ad5-55c4-a3ae-ffe5d53b6b43,0489855987787,Health,"Syrup - Monin, Swiss Choclate",$6.40,77,"{""vendor"":""default""}",2023-07-24 09:19:47
+85db2bfa-b851-2f26-a3ff-6b05c3d36f1e,0073037922902,Automotive,Sorrel - Fresh,$2.99,25,"{""vendor"":""default""}",2023-08-29 03:37:35
+b0e2e947-ef89-3f35-9346-8bbd9d701efd,0876601279347,Kids,Straw - Regular,$1.12,41,"{""vendor"":""default""}",2023-05-31 00:01:43
+e01be912-46fa-afeb-d8bd-f48756c7bade,0983467827674,Garden,French Pastry - Mini Chocolate,$1.78,38,"{""vendor"":""default""}",2023-05-23 23:23:36
+0c177fd5-5d3f-bb56-32ad-adc7cdb6a4a0,0800176943410,Outdoors,Wine - Rhine Riesling Wolf Blass,$6.51,49,"{""vendor"":""default""}",2024-02-02 01:40:01
+6fa19ba1-ed28-bce2-fdd9-ffbd840b72f0,0174293774162,Tools,"Artichoke - Hearts, Canned",$9.59,42,"{""vendor"":""default""}",2023-04-12 05:37:42
+f2dec9bf-33ce-ef1b-fa45-edab30b0b7aa,0421603918187,Books,Onions Granulated,$4.76,86,"{""vendor"":""default""}",2024-02-12 10:18:35
+742da1eb-5aaa-2bc9-49ff-b6cef9dacd21,0094529007618,Industrial,Sauce - Caesar Dressing,$4.87,34,"{""vendor"":""default""}",2024-01-01 22:33:47
+d2cd9ed3-3e20-bb6d-da6b-c2248bb66f51,0410369672734,Computers,Table Cloth 62x114 Colour,$2.57,6,"{""vendor"":""default""}",2023-06-26 16:39:17
+16b515a5-8150-ba57-1dfc-d15ab8ecc498,0282776187761,Health,Grapefruit - White,$8.12,71,"{""vendor"":""default""}",2023-04-28 09:30:28
+c785912d-7ca1-f16b-d130-be9d82f8ebd3,0130529640470,Tools,Onions - Vidalia,$4.64,2,"{""vendor"":""default""}",2023-12-24 09:18:53
+ab58cfed-c503-8b7e-f7cd-e6df514460af,0892881276197,Toys,Hog / Sausage Casing - Pork,$1.85,10,"{""vendor"":""default""}",2023-05-17 22:59:25
+57f39cb2-42cc-d0ae-f6f3-dcf2cf4e4671,0047763957692,Kids,"Juice - Apple, 500 Ml",$8.57,90,"{""vendor"":""default""}",2023-12-06 09:08:58
+262ba9b7-9b98-ec17-a786-af0b70461b22,0223251145739,Movies,Mushroom - Crimini,$8.02,94,"{""vendor"":""default""}",2024-01-22 05:07:20
+bafed530-bb19-dc9d-14d6-2ed74c4f56cc,0599099324324,Shoes,"Basil - Primerba, Paste",$6.37,28,"{""vendor"":""default""}",2023-12-28 22:23:27
+fc0bb211-be2f-0df1-eca4-b25f12c0bbda,0390880683512,Garden,Scotch - Queen Anne,$3.35,53,"{""vendor"":""default""}",2023-09-29 22:23:53
+22f5bcff-c9dd-e01c-cfe3-07ff5ede5ba9,0985335473130,Books,Chocolate Eclairs,$9.06,92,"{""vendor"":""default""}",2023-09-07 12:18:36
+6a8ffcca-8e9e-d07e-50ae-acc2b5d6cc7c,0003706644549,Health,Wine - Savigny - Les - Beaune,$9.47,54,"{""vendor"":""default""}",2023-11-25 21:18:10
+fc83d6bb-daae-ecb1-1680-3d465112ee24,0779206214975,Outdoors,Cake Sheet Combo Party Pack,$0.48,20,"{""vendor"":""default""}",2023-09-04 11:51:21
+882f8f26-63d0-dcd6-4286-fbe061dabcde,0125265738511,Movies,Taro Leaves,$2.22,24,"{""vendor"":""default""}",2023-12-29 20:42:50
+d5a69925-e28d-9fa9-a03d-e551a6eed4ac,0395139861544,Health,Leeks - Large,$3.43,69,"{""vendor"":""default""}",2023-04-02 20:05:40
+da27642a-16d0-cdb1-af47-82a7e9079cad,0245603601933,Kids,"Leeks - Baby, White",$1.66,4,"{""vendor"":""default""}",2023-12-13 07:48:52
+8faa6e96-ccd4-8cdf-f5cb-3b2b437921cd,0254545193122,Computers,Veal - Leg,$5.49,98,"{""vendor"":""default""}",2023-09-18 08:44:52
+bcd8c8b0-cdcb-c48e-1b90-39aeadc93962,0096686885371,Baby,Veal - Ground,$2.43,97,"{""vendor"":""default""}",2023-06-16 12:59:51
+1dd5ef9a-300a-b3c5-1d4f-b5c2d0bdfbbb,0591086677704,Baby,Beets,$0.18,8,"{""vendor"":""default""}",2023-11-07 05:45:38
+2b68ef7a-38cd-4ed6-f7ab-dc3e350e5b3e,0432673474897,Music,"Beer - Alexander Kieths, Pale Ale",$3.70,34,"{""vendor"":""default""}",2024-02-26 03:33:14
+ce5d96fd-2b43-5eba-c0ae-bc8fba99daad,0773501956701,Books,Chick Peas - Canned,$1.04,40,"{""vendor"":""default""}",2023-06-24 13:42:21
+55f5aef9-71aa-61ee-dd8e-c3dc9cbceae1,0385899456316,Outdoors,Soup Knorr Chili With Beans,$10.00,91,"{""vendor"":""default""}",2023-08-02 03:12:12
+adfdc8fe-b76b-a6ba-b44f-a1f3972694d2,0673840123189,Movies,Onions - Red Pearl,$3.82,44,"{""vendor"":""default""}",2024-02-26 21:40:19
+7c504df9-f5c5-5da2-0bd6-eca9af06e56f,0496469576539,Outdoors,"Soup - Knorr, Country Bean",$0.74,68,"{""vendor"":""default""}",2024-03-10 22:56:25
+b9e1d89b-501e-b08f-704f-656bb61ce362,0816614526450,Industrial,Dc - Frozen Momji,$7.00,83,"{""vendor"":""default""}",2023-07-11 11:11:45
+f2c2eddf-c1c3-aaee-85f3-5bf3e44c3d5f,0409812016078,Tools,Creme De Cacao Mcguines,$9.15,56,"{""vendor"":""default""}",2023-11-28 23:53:12
+1cdf32fe-bb67-fafe-082b-fd8aa526e8cc,0877680794084,Kids,Longos - Grilled Chicken With,$10.00,96,"{""vendor"":""default""}",2023-04-26 05:20:51
+c0f47af7-1a48-1202-7d89-db01e5dd1fc7,0274783485494,Music,Napkin White,$2.91,79,"{""vendor"":""default""}",2023-09-04 08:33:43
+289bbf02-162a-f0a9-f3bf-d396aecaa25e,0127350236750,Automotive,Pepper - Pablano,$1.90,67,"{""vendor"":""default""}",2023-05-09 01:01:59
+afc62c2c-a39a-1ad8-f7ae-fdbee9f29eb1,0521798625145,Games,Fruit Mix - Light,$8.58,62,"{""vendor"":""default""}",2023-05-16 04:30:55
+2dbe01ca-2e8c-8648-8c54-aca68acfe44d,0214210649274,Automotive,Skewers - Bamboo,$3.82,71,"{""vendor"":""default""}",2023-09-30 22:54:52
+bd4b46eb-b4af-0ead-4ba1-ae2fdeda75db,0075040625163,Beauty,Meldea Green Tea Liquor,$5.44,38,"{""vendor"":""default""}",2023-06-10 02:29:02
+b5ec5588-a2e1-8929-1ebd-d6821ecf1f11,0889201960328,Home,Butter - Salted,$3.43,75,"{""vendor"":""default""}",2024-02-28 19:15:41
+586f50a2-3f60-314d-0bf9-780ff87c521e,0313808914996,Electronics,Salami - Genova,$2.35,43,"{""vendor"":""default""}",2023-09-21 17:09:27
+b3fbedb6-b4dd-4268-8989-b1baab4378d0,0349163187864,Shoes,Carbonated Water - Strawberry,$5.10,20,"{""vendor"":""default""}",2023-12-27 02:37:39
+f385f002-a715-806f-2a36-08d2a9abf8df,0911127154035,Shoes,"Cheese - Brie,danish",$7.54,24,"{""vendor"":""default""}",2023-11-04 13:06:48
+dd7aaca8-a8f6-ad87-ee1a-eba5e888a5be,0639171288598,Books,Chips Potato Swt Chilli Sour,$9.73,60,"{""vendor"":""default""}",2024-02-03 02:20:43
+dbba4d0b-969f-ea8a-e23f-a3fd06057e31,0372750974761,Kids,Molasses - Fancy,$4.70,60,"{""vendor"":""default""}",2024-01-26 14:42:01
+aef3010f-1bde-f815-bbd8-ce4df1cec0a6,0387694233034,Shoes,Milk - Buttermilk,$9.78,2,"{""vendor"":""default""}",2023-09-24 02:53:19
+ee6eff0c-2ab3-01a1-b070-335c2862dd16,0830681019539,Toys,"Iced Tea - Lemon, 460 Ml",$3.91,98,"{""vendor"":""default""}",2023-10-21 20:52:41
+2c62026d-ec7d-096f-77e6-5f3a4024dfe1,0075382324006,Home,Calypso - Pineapple Passion,$8.01,49,"{""vendor"":""default""}",2023-06-28 23:40:19
+0f2ca7c0-0359-fe1b-6582-4e7f0fc9dfb9,0427494454822,Movies,Cookie Dough - Peanut Butter,$1.99,23,"{""vendor"":""default""}",2024-01-31 13:15:42
+30eb1d12-ecac-1d1b-f9a2-2e39cec42f5e,0583922023686,Tools,Garbage Bags - Clear,$6.80,85,"{""vendor"":""default""}",2023-11-15 09:20:22
+ced0dadc-bb96-ac24-aee9-a9c74e802bec,0067329638051,Baby,Sandwich Wrap,$7.57,15,"{""vendor"":""default""}",2023-09-02 15:08:18
+1fe5ebea-28dd-63fe-cdfd-d16cb0bdfa11,0752450958806,Music,Cleaner - Pine Sol,$1.10,42,"{""vendor"":""default""}",2023-07-08 19:38:44
+eae90c2a-af17-464e-03a7-b757b08feeba,0824214928050,Beauty,Wakami Seaweed,$3.60,24,"{""vendor"":""default""}",2023-11-04 02:22:46
+cedd21bb-4a7e-6f39-2e02-c78af38b65f3,0558751449151,Home,Muffin - Bran Ind Wrpd,$6.48,55,"{""vendor"":""default""}",2023-08-09 15:36:08
+4d916ba6-6e83-9a6c-720d-95dfb56fd539,0467584219932,Kids,Lamb - Rack,$0.29,52,"{""vendor"":""default""}",2024-03-12 20:52:57
+83687f42-d13e-1adf-5576-b694828bea6a,0712271487950,Books,"Pasta - Lasagna, Dry",$6.82,75,"{""vendor"":""default""}",2023-08-26 02:11:33
+5f2b4bfc-937e-dbdd-e5fb-6e3eb92fccf7,0742059521196,Shoes,Lettuce Romaine Chopped,$7.81,72,"{""vendor"":""default""}",2023-04-11 16:45:39
+84eee3fc-a48b-e2af-cf41-cbd22ddb402f,0885243267120,Industrial,Bowl 12 Oz - Showcase 92012,$1.36,100,"{""vendor"":""default""}",2023-05-16 03:09:17
+af2114d9-d342-2705-4aaf-1df4bda6cf6a,0720448972823,Games,Muskox - French Rack,$4.61,76,"{""vendor"":""default""}",2023-09-06 13:16:58
+8dda4ecb-4e3d-b279-aad0-ca926eba67e7,0049929358160,Electronics,Towel Multifold,$3.90,55,"{""vendor"":""default""}",2023-08-21 14:16:58
+e097dcf4-49fe-94df-1f26-ac4d3ea878d6,0006851192015,Toys,"Beef - Outside, Round",$3.07,89,"{""vendor"":""default""}",2023-04-03 21:01:23
+08327caf-34ea-a791-738b-394464c9bdf9,0652754935626,Computers,Icecream - Dibs,$1.50,10,"{""vendor"":""default""}",2023-07-13 12:01:35
+edfc8e2f-8a3e-f67c-cee9-f6b46e4fe710,0550445467005,Beauty,Honey - Comb,$9.97,86,"{""vendor"":""default""}",2023-09-23 17:45:20
+0ff98439-5abd-e134-cd2a-6035def4f77f,0901109873590,Industrial,Kumquat,$0.69,49,"{""vendor"":""default""}",2023-04-16 21:14:55
+14fa8bcf-c11e-31e8-6393-aca37e1edc7d,0171991317018,Games,Nougat - Paste / Cream,$4.28,15,"{""vendor"":""default""}",2023-05-19 17:03:01
+ba27513d-b2b4-7b1d-fe0c-6a6ccebf3e29,0975759472244,Garden,Spice - Peppercorn Melange,$5.37,31,"{""vendor"":""default""}",2023-11-02 08:55:24
+ddcf732d-6c3d-9120-7ea7-a4dccf98c20c,0754600054720,Baby,Strawberries,$1.13,24,"{""vendor"":""default""}",2023-12-11 00:46:55
+b93d6fff-7540-ebdd-4681-96a14d89da40,0734278286334,Health,Milk - Condensed,$5.88,14,"{""vendor"":""default""}",2024-03-24 02:34:29
+f1ae778e-c2da-bba2-749d-61ddd1cadc60,0231920243025,Electronics,Lettuce - Belgian Endive,$2.64,64,"{""vendor"":""default""}",2023-09-02 17:37:41
+c01fb399-7a6e-cbf8-9d3b-03206e627eff,0123355731156,Tools,"Wine - White, Pinot Grigio",$6.57,24,"{""vendor"":""default""}",2023-09-01 23:35:00
+c74dd3ca-56f5-4c6e-97c3-82fca3be8ad2,0252727137218,Shoes,"Yogurt - Strawberry, 175 Gr",$9.62,57,"{""vendor"":""default""}",2023-07-20 15:05:59
+2bfcfefe-6d24-d2e1-b4ff-ba02b9cf1aba,0582326184192,Beauty,Foil Wrap,$8.69,38,"{""vendor"":""default""}",2023-12-24 18:41:16
+710ed6cf-7f7f-cb46-cd3f-f24fff10deae,0100777205428,Electronics,Foam Dinner Plate,$7.17,7,"{""vendor"":""default""}",2023-07-14 00:34:42
+7b76d5ef-1347-ebc3-0fda-ad525fbbbdc6,0792495795901,Industrial,Radish,$8.76,9,"{""vendor"":""default""}",2023-05-12 12:41:50
+acb2df68-9e9a-163c-c8cb-169dd005e092,0958358447576,Jewelry,Wine - Riesling Dr. Pauly,$4.64,18,"{""vendor"":""default""}",2024-01-28 20:48:11
+57c0fed8-718c-1e35-c7c0-7388d78f30cc,0101658592827,Shoes,"Pork - Loin, Boneless",$0.31,33,"{""vendor"":""default""}",2023-12-05 14:06:35
+de2cac18-d2c7-c57d-b0f6-09ce5c95ad09,0732381812024,Kids,Cauliflower,$3.46,72,"{""vendor"":""default""}",2023-11-10 01:38:15
+957a9fcd-bfdb-4bbc-d766-d8cfa98e8eec,0763570805433,Automotive,Sauce - Cranberry,$1.74,47,"{""vendor"":""default""}",2023-07-28 15:22:43
+ddce96e3-b5ba-ebf5-344d-21b864a7b755,0072971659908,Clothing,"Soup - French Onion, Dry",$8.87,36,"{""vendor"":""default""}",2023-05-11 06:27:54
+99ea05ce-35b3-c37f-3c6f-04de8fb8497d,0246941016947,Automotive,Yokaline,$3.53,12,"{""vendor"":""default""}",2024-02-06 07:31:41
+ea179eac-9afd-da04-da50-ed0d887b92c1,0036371887026,Outdoors,Table Cloth - 53x69 Colour,$9.38,86,"{""vendor"":""default""}",2023-12-13 03:32:12
+4baf7ae9-dd0a-b4e8-0d0d-faf4bd8bd967,0395936105922,Clothing,Chocolate - Chips Compound,$5.68,56,"{""vendor"":""default""}",2023-10-30 12:17:32
+2a9e8304-ebe2-5d0b-3ecb-af6dd7ee4cb1,0998259306604,Home,Mince Meat - Filling,$1.60,60,"{""vendor"":""default""}",2024-02-10 22:35:37
+40e16d37-62ec-dbf8-6704-d69c0bb6cc1f,0987713917571,Sports,Goat - Leg,$0.14,96,"{""vendor"":""default""}",2023-04-18 21:03:27
+e71d585c-c5c0-b265-91da-111a2d7385eb,0025346129289,Computers,Soup - Campbells Beef Stew,$8.05,36,"{""vendor"":""default""}",2023-06-03 16:01:45
+ded7b6f5-dca1-3c7c-fdc9-4a5d1bb0ccab,0387669999945,Tools,"Chocolate - Pistoles, Lactee, Milk",$0.47,2,"{""vendor"":""default""}",2023-04-10 23:26:14
+eccb49e4-4ec5-bf92-5ce0-b8c13729b9c5,0780666338466,Clothing,Wine - Baron De Rothschild,$2.35,98,"{""vendor"":""default""}",2023-11-27 07:32:12
+92d0ad85-50e8-61df-c9e0-d906c8daeb6e,0378133917290,Books,Bread Foccacia Whole,$5.99,65,"{""vendor"":""default""}",2023-05-11 06:00:26
+6ece8ce5-0b8a-33d0-fcac-1fb6fe3632ba,0187211803963,Industrial,Melon - Cantaloupe,$2.34,74,"{""vendor"":""default""}",2023-09-19 15:45:51
+49e3a5a6-d3d6-b4b3-4abd-ae9d64f8ca39,0296145195802,Grocery,Lettuce - Baby Salad Greens,$7.74,52,"{""vendor"":""default""}",2023-08-24 12:07:03
+e33ef2b9-b0b7-298e-f494-cd5f6bad920b,0657315773752,Sports,Bread - Petit Baguette,$1.39,5,"{""vendor"":""default""}",2023-09-10 13:29:07
+af1e0e3c-0da5-135e-c4b9-b02fcebda64f,0656782205798,Books,Crab - Meat,$2.89,84,"{""vendor"":""default""}",2024-03-30 14:21:10
+db6bacd6-afc5-3e6f-71ab-ec3fa8c21313,0447856067972,Movies,Spice - Peppercorn Melange,$7.58,82,"{""vendor"":""default""}",2024-01-13 08:46:12
+bc2ddabf-460d-9858-2c6f-425cd50bfdea,0565154798092,Books,"Beef - Ox Tongue, Pickled",$4.78,83,"{""vendor"":""default""}",2023-07-09 11:56:55
+2dc854c4-6096-08a2-79f1-3e14aedeb1c7,0873981679850,Home,Cut Wakame - Hanawakaba,$3.80,43,"{""vendor"":""default""}",2023-12-09 03:56:08
+e7172dd2-1bab-13e4-e291-36378c6bc5ec,0036878121357,Music,"Wine - Sherry Dry Sack, William",$1.19,70,"{""vendor"":""default""}",2023-11-09 20:10:41
+abb8ad5f-a5be-6ad8-8ccd-18f11141da50,0670941528378,Industrial,Oil - Shortening - All - Purpose,$6.55,19,"{""vendor"":""default""}",2023-04-21 20:31:48
+b3c9063d-d224-6f97-75e1-1dfc833a7ded,0283823959211,Outdoors,Scampi Tail,$5.09,12,"{""vendor"":""default""}",2023-07-02 22:32:26
+5d14bfee-ad14-d9a2-973b-76bd1d22d1fa,0609298263292,Jewelry,Spice - Onion Powder Granulated,$9.80,42,"{""vendor"":""default""}",2023-07-18 07:39:25
+15c0dffb-eb66-a98d-8b0c-bb7b92bc3e9c,0768119603040,Computers,Cheese - Cambozola,$8.43,74,"{""vendor"":""default""}",2023-12-11 20:16:28
+0a243cff-739b-324e-659f-7bedb01f2312,0917513274298,Baby,Olives - Kalamata,$5.39,18,"{""vendor"":""default""}",2023-09-04 02:42:15
+f245a0e8-7ab4-abfc-7e96-fa90d450691d,0094697527017,Electronics,Wine - Two Oceans Cabernet,$4.28,68,"{""vendor"":""default""}",2023-06-15 17:08:11
+e1ed60ed-4af9-7dd7-d72c-93f4c6fd42e8,0653772061551,Grocery,Cheese - St. Andre,$5.06,39,"{""vendor"":""default""}",2023-09-12 16:15:17
+2ba2117c-e7fd-ebc4-7a3b-c1cc0c77803f,0386096732117,Games,Wine - Bouchard La Vignee Pinot,$1.03,13,"{""vendor"":""default""}",2023-07-29 03:59:18
+c4a49d5c-e64d-d438-8107-ab4c438508eb,0843833503185,Industrial,Filo Dough,$9.94,61,"{""vendor"":""default""}",2023-05-12 05:41:36
+0809aa1b-7701-d121-c1d0-8cba79e4c443,0170556556337,Industrial,Calypso - Strawberry Lemonade,$1.17,85,"{""vendor"":""default""}",2023-06-07 09:32:07
+98dbaf53-d5fc-aebe-2f4b-addb9d762afe,0322781827429,Games,Tofu - Soft,$2.06,98,"{""vendor"":""default""}",2023-04-09 03:48:09
+cdc1ed82-14af-c99a-9dd1-48637c1b7935,0067282060484,Electronics,Puree - Kiwi,$8.07,96,"{""vendor"":""default""}",2023-11-17 09:03:58
+3635ced4-8fec-cccf-3c4e-f0a55cae781e,0349307942135,Sports,Juice - Ocean Spray Cranberry,$9.31,19,"{""vendor"":""default""}",2023-06-28 01:07:11
+b06e130f-3378-54bd-4e84-386ea561f899,0234828865570,Baby,"Stock - Beef, Brown",$3.11,53,"{""vendor"":""default""}",2023-09-20 22:35:14
+ea1efb76-bbab-bae8-b8c9-6e4d58bdb1f1,0444913025559,Kids,Lamb - Loin Chops,$4.62,47,"{""vendor"":""default""}",2024-01-06 20:52:54
+741ba4c1-45df-75da-cd81-056dbfa0bad1,0194186078271,Health,"Nut - Chestnuts, Whole",$8.66,4,"{""vendor"":""default""}",2024-02-27 11:23:57
+8c943a02-40b3-d360-8df8-0cd0a4b3c03a,0098552065942,Shoes,"Turkey - Breast, Bone - In",$7.72,57,"{""vendor"":""default""}",2023-05-18 20:56:30
+df5f3dcd-ccf5-75ec-587c-593d551c1c21,0655745674290,Industrial,Foil Cont Round,$9.51,99,"{""vendor"":""default""}",2023-08-17 23:18:17
+05fcaa62-aba9-7bb1-6d5b-48dba663c2f0,0095487084680,Grocery,Egg Patty Fried,$3.14,97,"{""vendor"":""default""}",2023-10-29 05:04:58
+1ace7340-aa7d-b89d-ccde-3876f79cdb6f,0556149514494,Electronics,Bread - White Mini Epi,$4.47,72,"{""vendor"":""default""}",2023-10-26 17:36:42
+9c264c87-38cc-09ad-b4dd-6de0ea762b19,0102273580992,Health,Soup - Campbells - Chicken Noodle,$8.67,44,"{""vendor"":""default""}",2024-03-08 07:45:53
+dbfa67d8-689e-b707-77ab-e2b8df71ee7a,0189686138388,Jewelry,"Veal - Brisket, Provimi, Bone - In",$2.30,92,"{""vendor"":""default""}",2023-12-12 04:07:24
+b7afa35b-fdcd-3ad8-c6f9-5b2d70eddbce,0703545110738,Books,Pate - Liver,$8.78,21,"{""vendor"":""default""}",2023-10-31 07:25:09
+2475e6de-b1b6-c7d2-5395-006d59fcb3a1,0426998677758,Beauty,"Wine - Red, Metus Rose",$5.39,7,"{""vendor"":""default""}",2023-04-29 22:35:33
+43acde6d-d638-1e9b-5fca-fcaedebbe7eb,0186755545046,Automotive,Cherries - Fresh,$3.16,97,"{""vendor"":""default""}",2024-01-29 04:30:08
+d6af8e8f-5dd6-260b-750e-363e58dd4dee,0493917792596,Industrial,"Tart Shells - Savory, 4",$5.89,96,"{""vendor"":""default""}",2023-08-08 10:27:54
+5e7e294c-aec4-be5f-aa8c-f98c2d2a2fbf,0612495983336,Home,Nutmeg - Ground,$6.43,18,"{""vendor"":""default""}",2023-10-27 05:11:41
+3a6d547c-41d1-4adf-eff8-e331ff67643b,0088613968352,Health,Muffin Hinge - 211n,$6.29,17,"{""vendor"":""default""}",2023-12-10 18:14:45
+379cbd58-edec-fce5-cbd5-e7d73fb3639f,0991618632208,Computers,Soup Campbells Turkey Veg.,$3.73,21,"{""vendor"":""default""}",2023-05-10 07:58:24
+5a83a045-ed6f-87fc-c7b9-0d5e5dadaceb,0021054635582,Outdoors,"Cheese - Mozzarella, Buffalo",$7.10,92,"{""vendor"":""default""}",2023-07-06 08:04:58
+f28f6c5f-1a00-be24-d24e-183782da223a,0771565735112,Grocery,Kippers - Smoked,$2.98,91,"{""vendor"":""default""}",2023-04-03 09:50:50
+bd026a8f-578b-1da2-380a-f1e5f0bbdcec,0821081126424,Sports,Versatainer Nc - 9388,$2.20,24,"{""vendor"":""default""}",2024-01-25 18:05:26
+4b36a8c4-cc5c-ec72-4ae4-5070fad5bcf4,0148469524931,Tools,Appetizer - Sausage Rolls,$2.30,13,"{""vendor"":""default""}",2023-09-10 14:50:04
+b8e02696-6910-4e45-9253-fcea27a09e34,0976704960632,Home,Beer - Upper Canada Light,$4.36,50,"{""vendor"":""default""}",2023-10-27 06:47:51
+05be8d61-ed6e-60ca-62ab-8fd61d1f5ad0,0408039116920,Computers,Chocolate - Sugar Free Semi Choc,$1.82,23,"{""vendor"":""default""}",2024-02-25 03:45:21
+debf239f-6fda-bb9f-fcf1-6fb8522fc6d3,0953183610214,Automotive,"Loaf Pan - 2 Lb, Foil",$3.63,72,"{""vendor"":""default""}",2023-07-23 03:21:23
+bd6667e7-364c-36d9-aa6a-5282ef7abcd0,0866417567130,Music,Grapefruit - White,$5.31,54,"{""vendor"":""default""}",2023-12-25 00:33:09
+ab2ca8f5-b94d-a65d-8345-fd3f959bd6c1,0946943837888,Beauty,Jerusalem Artichoke,$5.88,8,"{""vendor"":""default""}",2024-02-25 11:55:48
+02eaffdc-5912-d4eb-28d1-ee3dee4b2f83,0031867603713,Toys,Tomato - Green,$9.44,90,"{""vendor"":""default""}",2023-10-30 14:37:03
+b1e337fa-a486-0c4e-0d57-a1f0ef55be46,0644297081340,Electronics,Potatoes - Yukon Gold 5 Oz,$2.10,46,"{""vendor"":""default""}",2024-01-28 08:56:05
+40abdc1a-e5cf-7b32-c17f-73e27b5601f8,0578040893689,Baby,Wine - Magnotta - Cab Sauv,$1.29,58,"{""vendor"":""default""}",2023-04-11 16:15:10
+b0ee4c39-d06e-0c3d-7e25-fda613c2a026,0233640307191,Kids,Towel Dispenser,$8.40,50,"{""vendor"":""default""}",2023-08-18 04:44:26
+97da92e6-4ec3-0f68-77ca-311cc7b1a8aa,0426093312206,Tools,Cheese - Shred Cheddar / Mozza,$1.96,48,"{""vendor"":""default""}",2023-12-12 10:41:10
+70abda83-fe93-d7f5-27b5-87fa6c73eb63,0928910611110,Grocery,Rolled Oats,$7.80,47,"{""vendor"":""default""}",2023-07-28 17:46:46
+87caf0e3-ba70-4bfa-40b8-cedc681cf155,0526030775521,Automotive,Salmon - Fillets,$8.84,49,"{""vendor"":""default""}",2023-07-11 10:44:35
+acdaed1c-69f3-10db-4cf7-a8086abe6f2b,0418236814639,Music,"Stock - Beef, Brown",$3.45,72,"{""vendor"":""default""}",2023-11-18 05:12:53
+4f970337-ac5c-ec23-afce-c9174ac3adac,0381698631497,Kids,Cheese - Ermite Bleu,$4.20,74,"{""vendor"":""default""}",2023-11-01 09:26:29
+319827ab-4a6e-71a0-1c0a-7d9f29bc29fc,0161819633296,Games,Muffin - Mix - Strawberry Rhubarb,$9.63,39,"{""vendor"":""default""}",2023-05-11 16:31:51
+1eb2235f-1c70-e01a-ac85-2c5a266adc2c,0499602316861,Electronics,Peach - Halves,$6.58,83,"{""vendor"":""default""}",2024-02-04 11:17:31
+ec3c0c81-ec25-d8f6-ed72-ebf7e6fede0f,0374071734781,Toys,Sauerkraut,$9.96,64,"{""vendor"":""default""}",2023-07-18 04:16:28
+620edfca-dced-f7ea-1fe1-df44d9ad72fd,0484023859717,Industrial,"Coke - Classic, 355 Ml",$3.81,73,"{""vendor"":""default""}",2023-08-02 21:41:29
+e41dff8b-c7ba-210f-7f5e-1d1ca7f2da96,0914759919813,Automotive,Table Cloth 54x54 Colour,$3.32,80,"{""vendor"":""default""}",2023-09-09 19:41:18
+ac8dc8ce-e72e-1c3b-2fa5-c84cf3ffda07,0786239120990,Tools,"Stock - Chicken, White",$8.16,55,"{""vendor"":""default""}",2024-01-18 08:59:45
+2d08f4fa-c36d-8d38-d0e8-0ab64aee43f0,0366664174073,Outdoors,Kiwi,$8.32,84,"{""vendor"":""default""}",2023-04-16 17:39:28
+5729e1fb-3751-2f0b-5cae-61505fecab97,0425347019989,Shoes,Chocolate - Unsweetened,$2.03,54,"{""vendor"":""default""}",2023-07-01 17:15:51
+1fb8d1da-46b6-aeab-f457-77eabf22a6b6,0637917773098,Tools,Celery,$5.15,24,"{""vendor"":""default""}",2024-02-19 22:27:14
+efe7d2fa-ade0-877a-2cae-dac43e8bddfb,0663109694032,Shoes,Cloves - Whole,$0.92,21,"{""vendor"":""default""}",2023-10-10 11:20:39
+2a52c339-4a45-b786-7c6e-99dec2bc68c8,0907872532815,Shoes,Tomatoes - Orange,$6.57,36,"{""vendor"":""default""}",2023-12-24 13:38:19
+3aabaae3-1ef7-941a-7254-e3e435207c3e,0704457555478,Games,Pepper - Red Bell,$2.48,37,"{""vendor"":""default""}",2023-10-17 14:49:09
+11784d4f-a0f0-5445-cbe9-7ab417bfd2f3,0711559894600,Games,"Rum - Cream, Amarula",$8.44,31,"{""vendor"":""default""}",2024-02-11 01:43:36
+27d53844-eb2f-d957-613f-f3ecf9bedffd,0791988599844,Computers,Lambcasing,$3.16,76,"{""vendor"":""default""}",2023-05-13 14:25:06
+b6b68bcc-86df-bde4-528d-501c48765e35,0374069611673,Computers,Apple - Custard,$1.56,78,"{""vendor"":""default""}",2024-03-07 19:38:36
+4a70c2b9-e97d-ce9f-392f-af3fc3b2550a,0443333804804,Industrial,Pumpkin,$6.05,26,"{""vendor"":""default""}",2023-10-15 17:05:19
+33a224ab-ddcb-d0a9-f43b-843b44451f8a,0472419905827,Shoes,Puff Pastry - Slab,$0.26,83,"{""vendor"":""default""}",2023-12-09 18:58:25
+672cd00d-0eb2-02c4-3476-ace4dcb1fbbe,0095533788869,Jewelry,Beans - Butter Lrg Lima,$3.22,4,"{""vendor"":""default""}",2023-04-20 17:06:56
+fcb0d773-1f63-1afc-d1af-a5f7f6f6d42c,0451851104763,Clothing,Fireball Whisky,$7.54,99,"{""vendor"":""default""}",2023-12-20 10:02:52
+f1ac6e3c-ab3a-bc26-604f-6b56e614d0ef,0947742793747,Games,Mix - Cocktail Strawberry Daiquiri,$4.20,26,"{""vendor"":""default""}",2023-04-18 13:55:22
+a9a193d3-2b91-a676-fde1-dc223c0fa2c0,0056636080337,Tools,"Doilies - 10, Paper",$4.11,88,"{""vendor"":""default""}",2023-04-13 10:06:07
+ada4dbb1-6abd-bcf5-6eec-0dbd85657bb1,0150399593683,Outdoors,Bananas,$1.80,99,"{""vendor"":""default""}",2023-11-12 18:58:55
+fe9e07c8-a136-da9c-4cbf-2f229c355b79,0623144085828,Sports,Venison - Racks Frenched,$9.32,9,"{""vendor"":""default""}",2023-07-18 07:37:36
+abf1ebd5-157b-97c5-d863-6eefc1fbf24a,0363488455091,Garden,Flower - Leather Leaf Fern,$4.24,100,"{""vendor"":""default""}",2023-09-06 09:02:07
+d32b535e-a61f-5ab5-1aae-c02ffcf81a1c,0631879020300,Electronics,Chick Peas - Canned,$3.23,86,"{""vendor"":""default""}",2023-07-07 17:43:57
+3bbac5c9-6a17-e04d-5aea-b027b1c41ea1,0517808856137,Toys,Carroway Seed,$1.13,74,"{""vendor"":""default""}",2023-08-26 18:14:02
+2bb23aa6-5afb-fa21-de53-ccdadde7cfef,0963535604092,Toys,Ginger - Crystalized,$1.12,50,"{""vendor"":""default""}",2023-06-25 20:29:38
+ef792af9-71fd-1df0-4dbe-74f26ee46ae2,0787117504040,Baby,Plastic Arrow Stir Stick,$2.66,57,"{""vendor"":""default""}",2023-04-03 15:14:47
+512cb122-429a-8d85-dbe0-bfe5b6535803,0015354553831,Electronics,Beans - Soya Bean,$5.10,71,"{""vendor"":""default""}",2023-10-25 01:32:26
+86beb1a2-2a82-b420-ed69-e0ee12b1d8b1,0719863796049,Computers,Wine - Prem Select Charddonany,$3.41,37,"{""vendor"":""default""}",2023-10-18 14:17:32
+96802dc1-05da-684b-ba08-017082a5c972,0177943943560,Sports,Tomato Puree,$8.08,60,"{""vendor"":""default""}",2023-08-14 10:09:06
+2d845065-b3f2-78ad-4ddc-acb0be83aa3a,0839769008018,Beauty,Dill Weed - Dry,$7.86,24,"{""vendor"":""default""}",2023-04-28 10:46:04
+a8d8934f-ec5d-bf2c-1135-12928e0fa05b,0919441549832,Shoes,Pails With Lids,$5.61,79,"{""vendor"":""default""}",2023-09-13 11:44:06
+66babaed-fa0c-bc66-23ac-5f4ccedf5183,0604141599865,Outdoors,Cornflakes,$9.75,66,"{""vendor"":""default""}",2024-03-04 05:47:19
